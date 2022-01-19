@@ -1,0 +1,4 @@
+import trial_updater
+
+
+trial_updater.check_trial_deprecation_status(True)
