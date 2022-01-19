@@ -73,60 +73,20 @@ def check_for_existing_record(table_name, search_term, search_field):
     return id
 
 def add_clinical_trial(table_name, trial, ticker):
-    trial = trial.to_dict()
+    print(timestamp() + "Adding new entry " + trial["ID"] + " for company " + ticker + " to "+ table_name + " table.")
     hdr = {"Authorization": "Bearer key9lRgCd32KG0vDx","Content-Type": "application/json"}
-    record_url = "https://api.airtable.com/v0/appGKqhHkbjMTFvu9/Clinical%20Trials"
-    record_exists = False
-    record_exists = check_for_existing_record(str(trial["ID"]), "ORGANIZER STUDY ID")
-    if record_exists == True:
-        print(timestamp() + "Found record " + str(trial["ID"]) + " in the airtable clinical trials database already.")
-    else:
-        print(timestamp() + "Did not find " + str(trial["ID"]) + " in clinical trials database. Adding now...")
-    if record_exists == False:
-        new_data = {
-            "records": [
-                {
-                    "fields": {
-                        "TICKER": ticker,
-                        "NCT ID": str(trial["ID"]),
-                        "OFFICIAL TITLE": str(trial["OFFICIAL TITLE"]),
-                        "ORGANIZER STUDY ID": str(trial["ORGANIZER STUDY ID"]),
-                        "TITLE": str(trial["TITLE"]),
-                        "INTERVENTION_TYPE": str(trial["INTERVENTION_TYPE"]),
-                        "STATUS": str(trial["STATUS"]),
-                        "WHY_STOP": str(trial["WHY_STOP"]),
-                        "SUMMARY": str(trial["SUMMARY"]),
-                        "DESCRIPTION": str(trial["DESCRIPTION"]),
-                        "PHASE": str(trial["PHASE"]),
-                        "ENROLLMENT": str(trial["ENROLLMENT"]),
-                        "INTERVENTION_MODEL": str(trial["INTERVENTION_MODEL"]),
-                        "MASKING": str(trial["MASKING"]),
-                        "ALLOCATION": str(trial["ALLOCATION"]),
-                        "PURPOSE": str(trial["PURPOSE"]),
-                        "CONDITION": str(trial["CONDITION"]),
-                        "DRUG": str(trial["DRUG"]),
-                        "GENDER": str(trial["GENDER"]),
-                        "MIN_AGE": str(trial["MIN_AGE"]),
-                        "MAX_AGE": str(trial["MAX_AGE"]),
-                        "CITY": str(trial["CITY"]),
-                        "STATE": str(trial["STATE"]),
-                        "COUNTRY": str(trial["COUNTRY"]),
-                        "STUDY FIRST SUBMITTED": str(trial["STUDY FIRST SUBMITTED"]),
-                        "STUDY FIRST POSTED": str(trial["STUDY FIRST POSTED"]),
-                        "COMPLETION DATE": str(trial["COMPLETION DATE"]),
-                        "PRIMARY COMPLETION DATE": str(trial["PRIMARY COMPLETION DATE"]),
-                        "LAST UPDATE SUBMITTED": str(trial["LAST UPDATE SUBMITTED"]),
-                        "EXPANDED_ACCESS": str(trial["EXPANDED_ACCESS"]),
-                        "URL": str(trial["URL"]),
-                        "AGENCY": str(trial["AGENCY"]),
-                        "COLLABORATORS": str(trial["COLLABORATORS"]),
-                        "AGENCY_CLASS": str(trial["AGENCY_CLASS"]),
-                        "HAS RESULTS": str(trial["HAS RESULTS"])
-                    }
-                }
-            ]
-        }
-        response = requests.post(record_url, headers=hdr, data = json.dumps(new_data))
+    record_url = "https://api.airtable.com/v0/"+config.at_base_key+"/Clinical%20Trials"
+    processed_trial = {}
+    for key in trial.keys():
+        processed_trial[key] = str(trial[key])
+    new_data = {
+        "records": [
+            {
+                "fields": processed_trial
+            }
+        ]
+    }
+    response = requests.post(record_url, headers=hdr, data = json.dumps(new_data))
 
 def get_table_fields(table_name):
     records = get_airtable_records(table_name)

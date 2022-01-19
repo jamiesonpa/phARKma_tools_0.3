@@ -1,7 +1,10 @@
 
 import requests
+import phARKma_utils
+from phARKma_utils import timestamp
 
 def get_details(ticker):
+    print(timestamp() + "Fetching company details for " + ticker)
     polygon_api_key = "p1YTyzago_r14PExlGUNQY8X463myELr"
     url ="https://api.polygon.io/v1/meta/symbols/"+ticker+"/company?apiKey=" + polygon_api_key
     response = requests.get(url)

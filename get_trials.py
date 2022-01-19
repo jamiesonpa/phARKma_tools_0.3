@@ -16,7 +16,7 @@ import sys
 import time
 
 
-def get_trials_primary(ticker):
+def get_trials_primary(ticker, trials_database):
     print(timestamp() + "Getting trials in which " + str(ticker) + " is the primary investigator.")
     details = get_details.get_details(ticker)
     name = details["NAME"]
@@ -26,39 +26,20 @@ def get_trials_primary(ticker):
     name = name.replace(".","")
     name = name.strip()
     trials = []
-    trial_database_found = False
-    try:
-        trials_database = pd.read_csv("trials_database.csv")
-        trial_database_found = True
-    except:
-        trial_database_found = False
-    
-    if trial_database_found == True:
-        with alive_bar(len(trials_database)) as bar:
-            alive_handler = logging.StreamHandler(sys.stdout)
-            for index, row in trials_database.iterrows():
-                agency = row["AGENCY"].replace('"',"").strip().lower().replace(".","").replace(",","").replace("incorporated", "inc")
-                name = name.strip().lower()
-                ratio = fuzz.ratio(name, agency)
-                if ratio >= 90:
-                    trials.append(row.astype(str))
-                bar()
-
+    name = name.strip().lower()
+    df_dict = trials_database.to_dict("records")
+    with alive_bar(len(df_dict)) as bar:
+        alive_handler = logging.StreamHandler(sys.stdout)
+        for row in df_dict:
+            agency = row["AGENCY"].replace('"',"").strip().lower().replace(".","").replace(",","").replace("incorporated", "inc")
+            ratio = fuzz.ratio(name, agency)
+            if ratio >= 90:
+                trials.append(row)
+            bar()
         return trials
-    else:
-        trial_updater.check_trial_deprecation_status(True)
-        trials_database = pd.read_csv("trials_database.csv")
-        with alive_bar(len(trials_database)) as bar:
-            alive_handler = logging.StreamHandler(sys.stdout)
-            for index, row in trials_database.iterrows():
-                agency = row["AGENCY"].replace('"',"").strip().lower().replace(".","").replace(",","").replace("incorporated", "inc")
-                name = name.strip().lower()
-                ratio = fuzz.ratio(name, agency)
-                if ratio >= 90:
-                    trials.append(row.astype(str))
-                bar()
 
-def get_trials_collaborator(ticker):
+
+def get_trials_collaborator(ticker, trials_database):
     print(timestamp() + "Getting trials in which " + str(ticker) + " is a collaborator.")
     details = get_details.get_details(ticker)
     name = details["NAME"]
@@ -68,45 +49,18 @@ def get_trials_collaborator(ticker):
     name = name.replace(".","")
     name = name.strip()
     trials = []
-    collabs = []
-    trial_database_found = False
-    try:
-        trials_database = pd.read_csv("trials_database.csv")
-        trial_database_found = True
-    except:
-        trial_database_found = False
-
-    if trial_database_found == True:
-        with alive_bar(len(trials_database)) as bar:
-            alive_handler = logging.StreamHandler(sys.stdout)
-            for index, row in trials_database.iterrows():
-                collabs = row["COLLABORATORS"].split(";")
-                found = False
-                for collab in collabs:
-                    name = name.strip().lower()
-                    ratio = fuzz.ratio(name, collab)
-                    if ratio >= 90:
-                        found = True
+    name = name.strip().lower()
+    df_dict = trials_database.to_dict("records")
+    with alive_bar(len(df_dict)) as bar:
+        alive_handler = logging.StreamHandler(sys.stdout)
+        for row in df_dict:
+            found = False
+            collabs = row["COLLABORATORS"].split(";")
+            for collab in collabs:
+                ratio = fuzz.ratio(name, collab)
+                if ratio >= 90:
+                    found = True
                 if found == True:
-                    trials.append(row.astype(str))
-                bar()
-
-        return trials
-    else:
-        trial_updater.check_trial_deprecation_status(True)
-        trials_database = pd.read_csv("trials_database.csv")
-        with alive_bar(len(trials_database)) as bar:
-            alive_handler = logging.StreamHandler(sys.stdout)
-            for index, row in trials_database.iterrows():
-                collabs = row["COLLABORATORS"].split(";")
-                found = False
-                for collab in collabs:
-                    name = name.strip().lower()
-                    ratio = fuzz.ratio(name, collab)
-                    if ratio >= 90:
-                        found = True
-                if found == True:
-                    trials.append(row.astype(str))
-                bar()
-
+                    trials.append(row)
+            bar()
         return trials
