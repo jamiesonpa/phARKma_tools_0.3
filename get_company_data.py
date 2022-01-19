@@ -1,6 +1,6 @@
 import requests
 import pandas as pd
-from fuzzywuzzy import fuzz
+from rapidfuzz import fuzz
 from sec_api import FullTextSearchApi, XbrlApi
 import datetime
 import urllib

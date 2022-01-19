@@ -1,7 +1,7 @@
 from get_details import get_details
 import requests
 import pandas as pd
-from fuzzywuzzy import fuzz
+from rapidfuzz import fuzz
 from sec_api import FullTextSearchApi, XbrlApi
 import datetime
 import time

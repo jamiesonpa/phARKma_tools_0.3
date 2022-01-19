@@ -5,7 +5,7 @@ from bs4 import BeautifulSoup
 import pandas as pd
 import get_details
 from get_details import get_details
-from fuzzywuzzy import fuzz
+from rapidfuzz import fuzz
 
 def fetch_commercialized_drug_database():
     file_found = False

@@ -12,5 +12,13 @@ import get_commercialized_drugs
 
 
 
+tickers = get_arkg_tickers.get_arkg_tickers()
 
-trial_updater.check_trial_deprecation_status(True)
+
+for ticker in tickers:
+    trials = get_trials.get_trials_primary(ticker)
+    collab_trials = get_trials.get_trials_collaborator(ticker)
+    all_trials = trials + collab_trials 
+    for trial in all_trials:
+        airtable_utils.add_clinical_trial("Clinical Trials",trial, ticker)
+    

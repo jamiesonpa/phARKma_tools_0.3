@@ -1,4 +1,4 @@
-
+import phARKma_utils
 import pandas as pd
 
 def get_condition_category(trial_row):
@@ -97,10 +97,3 @@ def get_condition_category(trial_row):
 
             probable_disease_categories = (primary_probable_cat, secondary_probable_cat)
             return probable_disease_categories
-
-trials = pd.read_csv("/Users/piercejamieson/Desktop/Scripts/12_9_2021/trials_database.csv")
-
-for index, row in trials.iterrows():
-    results = get_condition_category(row)
-    if results != None:
-        print(row["CONDITION"] + " was determined to be either a " + results[0] + " or a " + results[1] + "type disease")
