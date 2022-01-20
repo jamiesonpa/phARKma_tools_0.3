@@ -14,7 +14,6 @@ import shutil
 import pandas as pd
 import threading
 import phARKma_utils
-from phARKma_utils import timestamp
 
 
 #abstracted methods
@@ -22,7 +21,7 @@ from phARKma_utils import timestamp
 def download_trial_data():
     #check to see if a database of trials currently exists in the local directory, and if so, delete it.
     trial_database_link = "https://clinicaltrials.gov/AllPublicXML.zip" #download from this file and extract it using python
-    print(timestamp() + "Retrieving clinical trials raw data...")
+    print(phARKma_utils.timestamp() + "Retrieving clinical trials raw data...")
     hdr = {'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
     "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36",
             "X-Requested-With": "XMLHttpRequest"}

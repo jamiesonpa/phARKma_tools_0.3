@@ -2,6 +2,7 @@ import datetime
 from datetime import datetime
 import pandas as pd
 import trial_updater
+
 def removeDigits(s):
     answer = []
     for char in s:

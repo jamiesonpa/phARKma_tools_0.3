@@ -73,12 +73,13 @@ def check_for_existing_record(table_name, search_term, search_field):
     return id
 
 def add_clinical_trial(table_name, trial, ticker):
-    print(timestamp() + "Adding new entry " + trial["ID"] + " for company " + ticker + " to "+ table_name + " table.")
-    hdr = {"Authorization": "Bearer key9lRgCd32KG0vDx","Content-Type": "application/json"}
+    print(timestamp() + "Adding new entry " + trial["ID"] + " for company " + ticker + " under company name " + trial["AGENCY"] + " and collaborators " + trial["COLLABORATORS"] + " to "+ table_name + " table.")
+    hdr = {"Authorization": "Bearer "+config.at_api_key,"Content-Type": "application/json"}
     record_url = "https://api.airtable.com/v0/"+config.at_base_key+"/Clinical%20Trials"
     processed_trial = {}
     for key in trial.keys():
         processed_trial[key] = str(trial[key])
+    processed_trial["TICKER"] = ticker
     new_data = {
         "records": [
             {
