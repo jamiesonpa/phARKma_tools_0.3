@@ -15,14 +15,13 @@ import get_commercialized_drugs
 tickers = get_arkg_tickers.get_arkg_tickers()
 
 trials_database = phARKma_utils.get_trials_database()
-for ticker in tickers[1:]:
+for ticker in tickers[3:]:
     trials = get_trials.get_trials_primary(ticker, trials_database)
-    collab_trials = get_trials.get_trials_collaborator(ticker, trials_database)
-    all_trials = trials + collab_trials
+    # collab_trials = get_trials.get_trials_collaborator(ticker, trials_database)
     for trial in trials:
         airtable_utils.add_clinical_trial("Clinical Trials",trial, ticker)
-    for trial in collab_trials:
-        airtable_utils.add_clinical_trial("Clinical Trials",trial, ticker)
+    # for trial in collab_trials:
+    #     airtable_utils.add_clinical_trial("Clinical Trials",trial, ticker)
 
 airtable_utils.remove_duplicate_records("Clinical Trials")
 

@@ -13,7 +13,7 @@ import os
 import spacy
 import get_details
 import get_trials
-from get_trials import get_trials_primary, get_trials_collaborator
+from get_trials import get_trials_primary#, get_trials_collaborator
 import config
 
 alphavantage_api_key = config.alphavantage_api_key
