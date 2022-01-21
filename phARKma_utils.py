@@ -41,8 +41,10 @@ def process_name(name):
         name = name = name.split(" /")[0]
     if name.find("a/s"):
         name = name.replace("a/s","")
-    if name.find("therapeutics") != -1:
-        name = name.replace("therapeutics", "")
+    if name.find(" north america") != -1:
+        name = name.replace(" north america", "")
+    if name.find(" development center americas") != -1:
+        name = name.replace(" development center americas", "")
     if name.find("corporation") != -1:
         name = name.replace("corporation", "")
     if name.find("incorporated") != -1:
@@ -63,6 +65,8 @@ def process_name(name):
         name = name.replace(" medical", "")
     if name.find(" biosciences") != -1:
         name = name.replace(" biosciences", "")
+    if name.find(" biotherapeutics") != -1:
+        name = name.replace(" biotherapeutics", "")
     if name.find(" biotechnologies") != -1:
         name = name.replace(" biotechnologies", "")
     if name.find(" technologies") != -1:
@@ -111,6 +115,8 @@ def process_name(name):
         name = name.replace(" pharmaceuticals","")
     if name.find(" pharmaceutical") != -1:
         name = name.replace(" pharmaceutical","")
+    if name.find("therapeutics") != -1:
+        name = name.replace("therapeutics", "")
     if name.find(" pharma") != -1:
         name = name.replace(" pharma","")
     if name.find(" pharm") != -1:
@@ -121,6 +127,8 @@ def process_name(name):
         name = name.replace(" therapy", "")
     if name.find(" holdings") != -1:
         name = name.replace(" holdings", "")
+    if name.find(" co") != -1:
+        name = name.replace(" co", "")
     if name.find("  ") != -1:
         name = name.replace("  "," ")
     name = name.strip()

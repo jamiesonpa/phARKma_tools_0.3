@@ -7,7 +7,6 @@ import numpy as np
 import get_arkg_tickers
 import datetime
 
-tickers = get_arkg_tickers.get_arkg_tickers()
 recommendations = []
 
 def get_rating_history(ticker, verbose):
@@ -23,26 +22,29 @@ def get_rating_history(ticker, verbose):
         entries = []
     else:
         result = r.json()['quoteSummary']['result'][0]
-        history = result['upgradeDowngradeHistory']["history"]
-        entries = []
-        for entry in history:
-            entry_dict = {}
-            entry_dict["TICKER"] = ticker.upper()
-            entry_dict["DATE"] = str(datetime.datetime.fromtimestamp(int(entry["epochGradeDate"]))).split(" ")[0]
-            entry_dict["FIRM"] = entry["firm"]
-            if entry["action"] == "down":
-                entry_dict["ACTION"] = "DOWNGRADE"
-            elif entry["action"] == "up":
-                entry_dict["ACTION"] = "UPGRADE"
-            elif entry["action"] == "main":
-                entry_dict["ACTION"] = "MAINTAIN"
-            elif entry["action"] == "init":
-                entry_dict["ACTION"] = "INITIATE"
-            else:
-                entry_dict["ACTION"] = entry["action"]
-            entry_dict["FROM"] = entry["fromGrade"]
-            entry_dict["TO"] = entry["toGrade"]
-            entries.append(entry_dict)
+        try:
+            history = result['upgradeDowngradeHistory']["history"]
+            entries = []
+            for entry in history:
+                entry_dict = {}
+                entry_dict["TICKER"] = ticker.upper()
+                entry_dict["DATE"] = str(datetime.datetime.fromtimestamp(int(entry["epochGradeDate"]))).split(" ")[0]
+                entry_dict["FIRM"] = entry["firm"]
+                if entry["action"] == "down":
+                    entry_dict["ACTION"] = "DOWNGRADE"
+                elif entry["action"] == "up":
+                    entry_dict["ACTION"] = "UPGRADE"
+                elif entry["action"] == "main":
+                    entry_dict["ACTION"] = "MAINTAIN"
+                elif entry["action"] == "init":
+                    entry_dict["ACTION"] = "INITIATE"
+                else:
+                    entry_dict["ACTION"] = entry["action"]
+                entry_dict["FROM"] = entry["fromGrade"]
+                entry_dict["TO"] = entry["toGrade"]
+                entries.append(entry_dict)
+        except:
+            pass
     df = pd.DataFrame(entries)
     if verbose:
         print(df)

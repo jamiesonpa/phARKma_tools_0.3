@@ -23,7 +23,10 @@ edgar_api_key = config.edgar_api_key
 
 def get_fundamental_dataframe(json):
     df = pd.DataFrame(json['annualReports'])
-    df.set_index('fiscalDateEnding', inplace=True)
+    try:
+        df.set_index('fiscalDateEnding', inplace=True)
+    except:
+        pass
     return df
 
 def query_fundamental_data(func, symbol, outputsize='full', datatype='json', apikey=alphavantage_api_key):

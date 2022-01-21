@@ -16,8 +16,11 @@ alphavantage_api_key = config.alphavantage_api_key
 polygon_api_key = config.polygon_api_key
 edgar_api_key = config.edgar_api_key
 
+
+
+
 def get_relationships(ticker):
-    details = get_details(ticker)
+    details = get_details(ticker, False)
     try:
         name = details["NAME"]
     except:

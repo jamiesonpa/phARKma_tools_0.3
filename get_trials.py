@@ -40,10 +40,23 @@ def get_trials_primary(ticker, trials_database):
                 bar()
         if len(trials) > 0:
             nullreturn = True
-
-
     return trials
 
 
 def get_trials_collaborator(ticker, trials_database):
-    pass
+    name = get_details.get_company_name(ticker)
+    name = process_name(name)
+    trials = []
+    print(timestamp() + "Getting trials in which '" + str(name) + "' is a collaborating investigator.")
+    df_dict = trials_database.to_dict("records")
+    with alive_bar(len(df_dict)) as bar:
+        # alive_handler = logging.StreamHandler(sys.stdout)
+        for row in df_dict:
+            collabs = row["COLLABORATORS"].split(";")
+            for collab in collabs:
+                collab = process_name(collab)
+                ratio = round(lev.ratio(name, collab)*100, 2)
+                if ratio >= 95:
+                    trials.append(row)
+            bar()
+    return trials

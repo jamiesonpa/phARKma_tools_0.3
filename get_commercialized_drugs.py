@@ -83,8 +83,6 @@ def fetch_commercialized_drug_database():
         with open("commercialized_drug_list.txt", "a") as writefile:
             writefile.write(drug + "\t" + date +"\t" + company + "\t"+priority+"\n")
     
-
-
 def get_commercialized_drugs(ticker):
     current_date_string = str(datetime.datetime.now()).split(".")[0]
     current_date_dtobject = datetime.datetime.strptime(current_date_string, "%Y-%m-%d %H:%M:%S")
