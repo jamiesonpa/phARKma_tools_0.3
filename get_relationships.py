@@ -1,3 +1,4 @@
+from anyio import current_effective_deadline
 from get_details import get_details
 import requests
 import pandas as pd
@@ -15,9 +16,6 @@ import re
 alphavantage_api_key = config.alphavantage_api_key
 polygon_api_key = config.polygon_api_key
 edgar_api_key = config.edgar_api_key
-
-
-
 
 def get_relationships(ticker):
     details = get_details(ticker, False)
@@ -49,131 +47,144 @@ def get_relationships(ticker):
     "startDate": str(current_year)+"-01-01",
     "endDate": str(current_year)+"-12-31",
     }
+    unable_to_find_filings = False
     try:
         filings = fullTextSearchApi.get_filings(query)
     except:
         time.sleep(2)
-        filings = fullTextSearchApi.get_filings(query)
-    search_year = current_year
-    if len(filings["filings"]) == 0:
-        query = {
-        "query": ticker,
-        "formTypes": ['10-K'],
-        "startDate": str(current_year-1)+"-01-01",
-        "endDate": str(current_year-1)+"-12-31",
-        }
         try:
+            time.sleep(2)
             filings = fullTextSearchApi.get_filings(query)
         except:
             time.sleep(2)
-            filings = fullTextSearchApi.get_filings(query)
+            try:
+                filings = fullTextSearchApi.get_filings(query)
+            except:
+                unable_to_find_filings = True
 
-        search_year = current_year-1
-    filing_urls = []
-    for filing in filings["filings"]:
-        if filing["cik"] == str(cik):
-            if filing["ticker"] == ticker:
-                if filing["filingUrl"].find("ex") == -1:
-                    filing_urls.append(filing["filingUrl"])
-    
-    filing_url = filing_urls[0]
+    if unable_to_find_filings == False:
+        search_year = current_year
+        if len(filings["filings"]) == 0:
+            query = {
+            "query": ticker,
+            "formTypes": ['10-K'],
+            "startDate": str(current_year-1)+"-01-01",
+            "endDate": str(current_year-1)+"-12-31",
+            }
+            try:
+                filings = fullTextSearchApi.get_filings(query)
+            except:
+                time.sleep(2)
+                filings = fullTextSearchApi.get_filings(query)
 
-    req = requests.get(filing_url, headers=hdr)
-    html = req.text
-    soup = BeautifulSoup(html,'html.parser')
-    divtext = ""
-    for div in soup.find_all("div"):
-        current_div_text = div.text
-        current_div_text = current_div_text.strip()
-        divtext = divtext + "\n" + current_div_text
+            search_year = current_year-1
+        tickermatches = []
+        for filing in filings["filings"]:
+            if str(filing["ticker"]).lower().strip() == ticker.lower().strip():
+                tickermatches.append(filing["filingUrl"])
 
-    
-    sentences = divtext.split(".")
-    sentences_split = []
-    for sentence in sentences:
-        sentence_frags = sentence.split("\n")
-        for sentence_frag in sentence_frags:
-            sentences_split.append(sentence_frag)
-    sentences_to_parse = []
-    for sentence in sentences_split:
-        if sentence.lower().find("collaboration") != -1:
-            words = sentence.split(" ")
-            capitalized_words = 0
-            for word in words[1:]:
-                if word.find("Company") == -1:
-                    if len(word) > 1:
-                        if str(word[0]).isupper() == True:
-                            if str(word[1:]).isupper() == False:
-                                capitalized_words+=1
-            if capitalized_words > 1:
-                sentences_to_parse.append(sentence)
-    with open("countries.txt") as readfile:
-        countries = readfile.read().split("\n")
-    # model = load_models()
-    nlp = spacy.load("en_core_web_sm")
-    
+        filing_urls = []
+        for match in tickermatches:
+            if str(match).find("-") != -1:
+                if str(match).split("-")[1].find("ex") == -1:
+                    filing_urls.append(match)
+                else:
+                    if str(match).find("ex") == -1:
+                        filing_urls.append(match)
+        entlist = []
+        if len(filing_urls) > 0:
 
-    entities = []
-    for sent in sentences_to_parse:
-        doc = nlp(sent)
-        # docs = process_text(doc, ["ORG"])
-        for X in doc.ents:
-            if X.label_ == "ORG":
-                found = False
-                for entity in entities:
-                    if entity == X.text:
-                        found = True
-                if found == False:
-                    if X.text != "Inc":
-                        if X.text.lower().find("phase"):
-                            if X.text.lower().find("company"):
-                                if X.text != "Licensing Arrangements":
-                                    if X.text.find("the") == -1:
-                                        if X.text.isupper() == False:
-                                            if X.text.find("License") == -1:
-                                                if X.text.lower().find("tumor") == -1:
-                                                    if X.text.lower().find("registrant") == -1:
-                                                        if X.text.lower().find(first_part_of_name.lower()) == -1:
-                                                            if X.text.lower().find("collab") == -1:
-                                                                if X.text.lower().find("amend") == -1:
-                                                                    if X.text.lower().find("statement") == -1:
-                                                                        iscountry = False
-                                                                        for country in countries:
-                                                                            if X.text.find(country) != -1:
-                                                                                iscountry = True
-                                                                        if iscountry == False:
-                                                                            if X.text.find("10-K") == -1:
-                                                                                if X.text.find(";") == -1:
-                                                                                    if X.text.find(":") == -1:
-                                                                                        digits = re.findall(r'\d+', X.text)
-                                                                                        if len(digits) <= 1:
-                                                                                            if X.text.lower().find("admin") == -1:
-                                                                                                if X.text.lower().find("develop") == -1:
-                                                                                                    if X.text.lower().find("expense") == -1:
-                                                                                                        if X.text.lower().find("conversion") == -1:
-                                                                                                            if X.text.lower().find("agree") == -1:
-                                                                                                                if X.text.lower().find("revenu") == -1:
-                                                                                                                    if X.text.lower().find("interest") == -1:
-                                                                                                                        if X.text.lower().find("income") == -1:
-                                                                                                                            if X.text.lower().find("program") == -1:
-                                                                                                                                if X.text.lower().find("candidate") == -1:
-                                                                                                                                    if X.text.lower().find("indication") == -1:
-                                                                                                                                        if X.text.lower().find("stock") == -1:
-                                                                                                                                            if X.text.lower().find("operations") == -1:
-                                                                                                                                                if X.text.lower().find(" to ") == -1:
-                                                                                                                                                    entities.append(removeDigits(X.text))
+            for filing_url in filing_urls:
+                req = requests.get(filing_url, headers=hdr)
+                html = req.text
+                soup = BeautifulSoup(html,'html.parser')
+                divtext = ""
+                for div in soup.find_all("div"):
+                    current_div_text = div.text
+                    current_div_text = str(repr(current_div_text))
+                    for match in re.match("\u...b"):
+                        
+                    print(repr(current_div_text))
+                    divtext = divtext + "\n" + current_div_text
+                sentences = []
 
-    trial_entities = get_trials_collaborator(ticker, True)
-    trial_entities_2 = get_trials_primary(ticker, True)
-    for te in trial_entities:
-        entities.append(te)
-    
-    for te2 in trial_entities_2:
-        entities.append(te2)
-    
-    clean_ents = []
-    for ent in entities:
-        if ent.find("not found") == -1:
-            if ent != "":
-                clean_ents.append(ent)
-    return clean_ents        
+                sentences_split = []
+                for sentence in sentences:
+                    sentence_frags = sentence.split("\n")
+                    for sentence_frag in sentence_frags:
+                        sentence_frag = sentence_frag.replace("\n ", " ").rstrip("\r\n").replace("  "," ").replace("  "," ").replace("  "," ").replace("\r","").replace("\t","")
+                        sentences_split.append(sentence_frag)
+
+                sentences_to_parse = []
+                for sentence in sentences_split:
+                    goodsentence = False
+                    sentence_checkwords = ["partnership", "collab","agreement","guarantor","underwriter", "partner","strategic", "lawsuit"]
+                    for word in sentence_checkwords:
+                        if sentence.lower().find(word) != -1:
+                            goodsentence = True
+                    if goodsentence == True:
+                        words = sentence.split(" ")
+                        capitalized_words = 0
+                        for word in words[1:]:
+                            if word.find("Company") == -1:
+                                if len(word) > 1:
+                                    if str(word[0]).isupper() == True:
+                                        if str(word[1:]).isupper() == False:
+                                            capitalized_words+=1
+                        if capitalized_words > 1:
+                            sentences_to_parse.append(sentence)
+
+                #define countries
+                with open("countries.txt") as readfile:
+                    countries = readfile.read().split("\n")
+                #define spacy model
+                nlp = spacy.load("en_core_web_sm")
+                
+                #is uppper
+                #is country
+                # digits = re.findall(r'\d+', X.text)
+                # keywords_exclude_upper = ["Inc", "Licensing Arrangements", "License"]
+                keywords_exclude_lower = ["phase","company","the","tumor","registrant","collab",first_part_of_name.lower(), "collab","amend","statement", ";",":","admin", "develop","expense","conversion","agree","revenu","interest","income","program","candidate","indication","stock"," to ", "code","'s","s'","guarantor","convertible","the","month","ended","letter","education","fellows","cost","customer","balance","consolidated"," and ","balance","complaint","improvement","contract","milestones"]
+                entities = []
+                for sent in sentences_to_parse:
+                    doc = nlp(sent)
+                    for X in doc.ents:
+                        if X.label_ == "ORG":
+                            found = False
+                            for entity in entities:
+                                if entity == X.text:
+                                    found = True
+                            if found == False:
+                                bad = False
+                                for kel in keywords_exclude_lower:
+                                    if X.text.lower().find(kel) != -1:
+                                        bad = True 
+                                if not bad:
+                                    print("found not bad sentence")
+                                    if X.text != "Inc":
+                                        if X.text != "Licensing Arrangements":
+                                            if X.text.find("the") == -1:
+                                                if X.text.isupper() == False:
+                                                    if X.text.find("License") == -1:
+                                                        iscountry = False
+                                                        for country in countries:
+                                                            if X.text.find(country) != -1:
+                                                                iscountry = True
+                                                        if iscountry == False:
+                                                            if X.text.find("10-K") == -1:
+                                                                if X.text.find(";") == -1:
+                                                                    if X.text.find(":") == -1:
+                                                                        digits = re.findall(r'\d+', X.text)
+                                                                        if len(digits) <= 1:
+                                                                            if X.text.find("'s") == -1:
+                                                                                if len(X.text.split(" ")) < 4:
+                                                                                    entities.append(removeDigits(X.text))
+                for ent in entities:                                                                                                                                                                                                
+                    if ent.find("not found") == -1:
+                        if ent != "":
+                            entlist.append(ent)
+            return entlist
+        else:
+            return entlist
+    else:
+        return []
