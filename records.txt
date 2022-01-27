@@ -1,0 +1,1292 @@
+AADI,,,Aadi Bioscience, Inc.,,,National Cancer Institute (NCI)
+ABBV,,,ABBVIE INC.,,,Genentech, Inc.
+ABBV,,,ABBVIE INC.,,,Australia New Zealand Gynaecological Oncology Group
+ABBV,,,ABBVIE INC.,,,Janssen Research & Development, LLC
+ABBV,,,ABBVIE INC.,,,Boehringer Ingelheim
+ABBV,,,ABBVIE INC.,,,Cato Research
+ABBV,,,ABBVIE INC.,,,Boehringer Ingelheim
+ABBV,,,ABBVIE INC.,,,Genentech, Inc.
+ABBV,,,ABBVIE INC.,,,Roche-Genentech
+ABBV,,,ABBVIE INC.,,,Drugs for Neglected Diseases initiative
+ABBV,,,ABBVIE INC.,,,Boehringer Ingelheim
+ABBV,,,ABBVIE INC.,,,Boehringer Ingelheim
+ABBV,,,ABBVIE INC.,,,Boehringer Ingelheim
+ABBV,,,ABBVIE INC.,,, Genentech, Inc.
+ABBV,,,ABBVIE INC.,,,PPD
+ABBV,,,ABBVIE INC.,,,Roche-Genentech
+ABBV,,,ABBVIE INC.,,,HealthCore-NERI
+ABBV,,,ABBVIE INC.,,,Genentech, Inc.
+ABBV,,,ABBVIE INC.,,,IST GmbH, Germany
+ABBV,,,ABBVIE INC.,,,Radiation Therapy Oncology Group
+ABBV,,,ABBVIE INC.,,,Amgen
+ABBV,,,ABBVIE INC.,,, Upsher-Smith Laboratories LLC
+ABBV,,,ABBVIE INC.,,,Pharmacyclics LLC (An AbbVie Company)
+ABBV,,,ABBVIE INC.,,,Janssen Research & Development, LLC
+ABBV,,,ABBVIE INC.,,,Sumitomo Dainippon Pharma Oncology, Inc
+ABBV,,,ABBVIE INC.,,,Celgene Corporation
+ABBV,,,ABBVIE INC.,,,I-Mab Biopharma Co. Ltd.
+ABBV,,,ABBVIE INC.,,,Meiji Seika Pharma Co., Ltd.
+ABBV,,,ABBVIE INC.,,,Genentech, Inc.
+ABBV,,,ABBVIE INC.,,,Genentech, Inc.
+ABBV,,,ABBVIE INC.,,,Genentech, Inc.
+ABBV,,,ABBVIE INC.,,,Roche-Genentech
+ABBV,,,ABBVIE INC.,,,Idera Pharmaceuticals, Inc.
+ABBV,,,ABBVIE INC.,,,Genentech, Inc.
+ABBV,,,ABBVIE INC.,,,Genentech, Inc.
+ABBV,,,ABBVIE INC.,,, Canadian Urology Research Consortium
+ABBV,,,ABBVIE INC.,,,Genentech, Inc.
+ABBV,,,ABBVIE INC.,,,Genentech, Inc.
+ABBV,,,ABBVIE INC.,,,Pfizer
+ABBV,,,ABBVIE INC.,,,Celgene
+ABBV,,,ABBVIE INC.,,,European Organisation for Research and Treatment of Cancer - EORTC
+ABBV,,,ABBVIE INC.,,,Boehringer Ingelheim
+ABBV,,,ABBVIE INC.,,,Genentech, Inc.
+ABBV,,,ABBVIE INC.,,,Genentech, Inc.
+ABBV,,,ABBVIE INC.,,,Boehringer Ingelheim
+ABBV,,,ABBVIE INC.,,,Genentech, Inc.
+ABBV,,,ABBVIE INC.,,,Boehringer Ingelheim
+ABBV,,,ABBVIE INC.,,,Genentech, Inc.
+ABBV,,,ABBVIE INC.,,,VIVUS LLC
+ABBV,,,ABBVIE INC.,,,Roche-Genentech
+ABBV,,,ABBVIE INC.,,,Genentech, Inc.
+ABBV,,,ABBVIE INC.,,,Quintiles, Inc.
+ABBV,,,ABBVIE INC.,,,US Oncology Research
+ABBV,,,ABBVIE INC.,,,Boehringer Ingelheim
+ABBV,,,ABBVIE INC.,,,Genentech, Inc.
+ABBV,,,ABBVIE INC.,,,Genentech, Inc.
+ABBV,,,ABBVIE INC.,,,Pivotal S.L.
+ABBV,,,ABBVIE INC.,,,Roche-Genentech
+ABBV,,,ABBVIE INC.,,,Raffeiner GmbH
+ABBV,,,ABBVIE INC.,,,Merck Sharp & Dohme Corp.
+ABBV,,,ABBVIE INC.,,,Boehringer Ingelheim
+ABBV,,,ABBVIE INC.,,,Genentech, Inc.
+ABBV,,,ABBVIE INC.,,,Genentech, Inc.
+ABBV,,,ABBVIE INC.,,, Dana-Farber Cancer Institute
+ABBV,,,ABBVIE INC.,,,IQVIA, formerly Quintiles
+ABBV,,,ABBVIE INC.,,,Cato Research
+ABBV,,,ABBVIE INC.,,,IST GmbH, Germany
+ABBV,,,ABBVIE INC.,,,IST GmbH, Germany
+ABBV,,,ABBVIE INC.,,,Infinity Pharmaceuticals, Inc.
+ABBV,,,ABBVIE INC.,,,Boehringer Ingelheim
+ABBV,,,ABBVIE INC.,,,Infinity Pharmaceuticals, Inc.
+ABBV,,,ABBVIE INC.,,,Boehringer Ingelheim
+ABBV,,,ABBVIE INC.,,,Genentech, Inc.
+ABBV,,,ABBVIE INC.,,,Genentech, Inc.
+ABBV,,,ABBVIE INC.,,,Genentech, Inc.
+ABBV,,,ABBVIE INC.,,,Genentech, Inc.
+ABBV,,,ABBVIE INC.,,,Boehringer Ingelheim
+ABBV,,,ABBVIE INC.,,,Bristol-Myers Squibb
+ABBV,,,ABBVIE INC.,,,Genentech, Inc.
+ABBV,,,ABBVIE INC.,,,Improvement by Movement GmbH, Germany
+ABBV,,,ABBVIE INC.,,, Onyx Therapeutics, Inc.
+ABBV,,,ABBVIE INC.,,,IST GmbH, Germany
+ABBV,,,ABBVIE INC.,,,Boehringer Ingelheim
+ABEO,,,Abeona Therapeutics Inc.,,,Genaera Corporation
+ABEO,,,Abeona Therapeutics Inc.,,,Genaera Corporation
+ABIO,,,ARCA biopharma, Inc.,,,Medtronic
+ABIO,,,ARCA biopharma, Inc.,,,Health Decisions
+ABIO,,,ARCA biopharma, Inc.,,,The TIMI Study Group
+ABIO,,,ARCA biopharma, Inc.,,,Colorado Prevention Center
+[ABUS,,,Arbutus Biopharma Corporation,,,United States Department of Defense
+ABUS,,,Arbutus Biopharma Corporation,,,United States Department of Defense
+ACRX,,,AcelRx Pharmaceuticals, Inc,,,U.S. Army Medical Research and Development Command
+ADVM,,,Adverum Biotechnologies, Inc.,,,Adverum Biotechnologies SAS, a wholly owned subsidiary of Adverum Biotechnologies, Inc.
+AEZS,,,Aeterna Zentaris, Inc.,,,Dana-Farber Cancer Institute
+AEZS,,,Aeterna Zentaris, Inc.,,,M.D. Anderson Cancer Center
+AEZS,,,Aeterna Zentaris, Inc.,,,AGO Study Group
+AEZS,,,Aeterna Zentaris, Inc.,,,University of Miami Sylvester Comprehensive Cancer Center
+AEZS,,,Aeterna Zentaris, Inc.,,,Sarcoma Alliance for Research through Collaboration
+AEZS,,,Aeterna Zentaris, Inc.,,,Novo Nordisk A/S
+AEZS,,,Aeterna Zentaris, Inc.,,,Dana-Farber Cancer Institute
+AEZS,,,Aeterna Zentaris, Inc.,,,SCRI Development Innovations, LLC
+AEZS,,,Aeterna Zentaris, Inc.,,,Dana-Farber Cancer Institute
+AGEN,,,Agenus Inc.,,,European Network of Gynaecological Oncological Trial Groups (ENGOT)
+AGEN,,,Agenus Inc.,,,GOG Foundation
+AGEN,,,Agenus Inc.,,,Bristol-Myers Squibb
+AGEN,,,Agenus Inc.,,,Betta Pharmaceuticals Co., Ltd.
+AGIO,,,Agios Pharmaceuticals, Inc.,,,Celgene Corporation
+AGLE,,,Aeglea BioTherapeutics, Inc.,,,Merck Sharp & Dohme Corp.
+AGTC,,,Applied Genetic Technologies Corporation,,,National Eye Institute (NEI)
+AGTC,,,Applied Genetic Technologies Corporation,,,Foundation Fighting Blindness
+AGTC,,,Applied Genetic Technologies Corporation,,,National Heart, Lung, and Blood Institute (NHLBI)
+AGTC,,,Applied Genetic Technologies Corporation,,,National Eye Institute (NEI)
+AGTC,,,Applied Genetic Technologies Corporation,,,University of Massachusetts, Worcester
+AKBA,,,Akebia Therapeutics, Inc.,,,Otsuka Pharmaceutical Development & Commercialization, Inc.
+ALBO,,,Albireo Pharma, Inc.,,,Celerion
+ADPT,,,Adaptive Biotechnologies Corporation,,,Iqvia Pty Ltd
+ADPT,,,Adaptive Biotechnologies Corporation,,,Rush University Medical Center
+ADPT,,,Adaptive Biotechnologies Corporation,,,Covance
+ADPT,,,Adaptive Biotechnologies Corporation,,,Covance
+ALEC,,,Alector, Inc.,,,AbbVie
+ALNY,,,Alnylam Pharmaceuticals, Inc.,,,The Medicines Company
+ALPN,,,Alpine Immune Sciences, Inc.,,,Clinical Network Services (CNS) Pty Ltd
+ALT,,,Altimmune, Inc.,,,Biomedical Advanced Research and Development Authority
+ALT,,,Altimmune, Inc.,,,Optimal Health Research
+ALVR,,,AlloVir, Inc.,,,Center for Cell and Gene Therapy, Baylor College of Medicine
+ALVR,,,AlloVir, Inc.,,,Center for Cell and Gene Therapy, Baylor College of Medicine
+ALVR,,,AlloVir, Inc.,,,The Methodist Hospital Research Institute
+ALXO,,,ALX Oncology Holdings Inc.,,,Eli Lilly and Company
+ALXO,,,ALX Oncology Holdings Inc.,,,Merck Sharp & Dohme Corp.
+ALXO,,,ALX Oncology Holdings Inc.,,,Merck Sharp & Dohme Corp.
+AMLX,,,Amylyx Pharmaceuticals, Inc.',,,Alzheimer's Association
+AMLX,,,Amylyx Pharmaceuticals, Inc.,,,Massachusetts General Hospital Neurology Clinical Research Institute
+AMLX,,,Amylyx Pharmaceuticals, Inc.,,,Leandro P. Rizzuto Foundation
+ANGN,,,Angion Biomedica Corp.,,,CTI Clinical Trial and Consulting Services
+ANGN,,,Angion Biomedica Corp.,,,Nucleus Network Ltd
+ANGN,,,Angion Biomedica Corp.,,,CTI Clinical Trial and Consulting Services
+ANGN,,,Angion Biomedica Corp.,,,Quotient Sciences
+ANGN,,,Angion Biomedica Corp.,,,National Heart, Lung, and Blood Institute (NHLBI)
+ANGN,,,Angion Biomedica Corp.,,,National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK)
+ANGN,,,Angion Biomedica Corp.,,,Quotient Sciences
+ANGN,,,Angion Biomedica Corp.,,,National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK)
+ANGN,,,Angion Biomedica Corp.,,,Clinical Accelerator
+ANNX,,,Annexon, Inc.,,,Nucleus Network Ltd
+ANNX,,,Annexon, Inc.,,,International Centre for Diarrhoeal Disease Research, Bangladesh
+ANVS,,,Annovis Bio, Inc.',,,Alzheimer's Disease Cooperative Study (ADCS)
+ANVS,,,Annovis Bio, Inc.,,,Parexel
+APLT,,,Applied Therapeutics, Inc.,,,Texas Orthopedic Hospital
+APTO,,,Aptose Biosciences, Inc.,,,Ohio State University
+APTO,,,Aptose Biosciences, Inc.,,,University of Chicago
+APTX,,,Aptinyx Inc.,,,inVentiv Health Clinical
+APTX,,,Aptinyx Inc.,,,Spaulding Clinical Research LLC
+APTX,,,Aptinyx Inc.,,,Syneos Health
+APTX,,,Aptinyx Inc.,,,Worldwide Clinical Trials
+APTX,,,Aptinyx Inc.,,,Worldwide Clinical Trials
+APTX,,,Aptinyx Inc.,,,Worldwide Clinical Trials
+APTX,,,Aptinyx Inc.,,,Massachusetts General Hospital
+AQST,,,Aquestive Therapeutics, Inc.,,,Covance
+AQST,,,Aquestive Therapeutics, Inc.,,,Covance
+AQST,,,Aquestive Therapeutics, Inc.,,,Covance
+AQST,,,Aquestive Therapeutics, Inc.,,,Covance
+AQST,,,Aquestive Therapeutics, Inc.,,,Covance
+ARAV,,,Aravive, Inc.,,,European Network of Gynaecological Oncological Trial Groups (ENGOT)
+ARDX,,,Ardelyx, Inc.,,,AstraZeneca
+ARDX,,,Ardelyx, Inc.,,,AstraZeneca
+ARDX,,,Ardelyx, Inc.,,,AstraZeneca
+ARDX,,,Ardelyx, Inc.,,,AstraZeneca
+ARDX,,,Ardelyx, Inc.,,,AstraZeneca
+ATHA,,,Athira Pharma, Inc.,,,National Institute on Aging (NIA)
+ATHA,,,Athira Pharma, Inc.,,,Biotrial Inc.
+ATRA,,,Atara Biotherapeutics, Inc,,,Merck Sharp & Dohme Corp.
+ATRA,,,Atara Biotherapeutics, Inc,,,National Cancer Institute (NCI)
+ATRA,,,Atara Biotherapeutics, Inc,,,Memorial Sloan Kettering Cancer Center
+BCTX,,,Briacell Therapeutics Corp.,,,Cancer Insight, LLC
+BCTX,,,Briacell Therapeutics Corp.,,,Cancer Insight, LLC
+BCRX,,,BioCryst Pharmaceuticals Inc,,,Department of Health and Human Services
+BCRX,,,BioCryst Pharmaceuticals Inc,,,Department of Health and Human Services
+BCRX,,,BioCryst Pharmaceuticals Inc,,,Department of Health and Human Services
+BCRX,,,BioCryst Pharmaceuticals Inc,,,National Institute of Allergy and Infectious Diseases (NIAID)
+BCRX,,,BioCryst Pharmaceuticals Inc,,,National Institute of Allergy and Infectious Diseases (NIAID)
+BCRX,,,BioCryst Pharmaceuticals Inc,,,National Institute of Allergy and Infectious Diseases (NIAID)
+BGNE,,,BeiGene, Ltd. American Depositary Shares,,,SpringWorks Therapeutics, Inc.
+BGNE,,,BeiGene, Ltd. American Depositary Shares,,,Lymphoma Study Association
+BGNE,,,BeiGene, Ltd. American Depositary Shares,,,Myriad Genetic Laboratories, Inc.
+BGNE,,,BeiGene, Ltd. American Depositary Shares,,,Myriad Genetics, Inc.
+BGNE,,,BeiGene, Ltd. American Depositary Shares,,,Hutchison Medipharma Limited
+BLCM,,,Bellicum Pharmaceuticals, Inc.,,,Baylor College of Medicine
+BLRX,,,BioLineRX Ltd,,,Merck Sharp & Dohme Corp.
+BLRX,,,BioLineRX Ltd,,,Sheba Medical Center
+BLRX,,,BioLineRX Ltd,,,Genentech, Inc.
+BMRN,,,BioMarin Pharmaceuticals Inc,,,Quintiles, Inc.
+BMRN,,,BioMarin Pharmaceuticals Inc,,,ICON plc
+BLU,,,BELLUS Health Inc.,,,National Institute of Neurological Disorders and Stroke (NINDS)
+BLU,,,BELLUS Health Inc.,,,FDA Office of Orphan Products Development
+BMY,,,Bristol-Myers Squibb Co.,,,Nektar Therapeutics
+BMY,,,Bristol-Myers Squibb Co.,,,Arthritis Research Centre of Canada
+BMY,,,Bristol-Myers Squibb Co.,,,ICON Clinical Research
+BMY,,,Bristol-Myers Squibb Co.,,,Otsuka America Pharmaceutical
+BMY,,,Bristol-Myers Squibb Co.,,,Ono Pharmaceutical Co. Ltd
+BMY,,,Bristol-Myers Squibb Co.,,,Ono Pharmaceutical Co. Ltd
+BMY,,,Bristol-Myers Squibb Co.,,,AbbVie
+BMY,,,Bristol-Myers Squibb Co.,,,Ono Pharmaceutical Co. Ltd
+BMY,,,Bristol-Myers Squibb Co.,,,This trial was conducted previously by Cormorant
+BMY,,,Bristol-Myers Squibb Co.,,,Ono Pharmaceutical Co. Ltd
+BMY,,,Bristol-Myers Squibb Co.,,,Ono Pharmaceutical Co. Ltd
+BMY,,,Bristol-Myers Squibb Co.,,,Basel Institute of Clinical Epidemiology (BICE)
+BMY,,,Bristol-Myers Squibb Co.,,,Merck Sharp & Dohme Corp.
+BMY,,,Bristol-Myers Squibb Co.,,,Medarex
+BMY,,,Bristol-Myers Squibb Co.,,,Exelixis
+BMY,,,Bristol-Myers Squibb Co.,,,Medarex
+BMY,,,Bristol-Myers Squibb Co.,,,Pfizer
+BMY,,,Bristol-Myers Squibb Co.,,,Astellas Pharma Inc
+BMY,,,Bristol-Myers Squibb Co.,,,Ono Pharmaceutical Co. Ltd
+BMY,,,Bristol-Myers Squibb Co.,,,AbbVie
+BMY,,,Bristol-Myers Squibb Co.,,,Exelixis
+BMY,,,Bristol-Myers Squibb Co.,,,Ono Pharmaceutical Co. Ltd
+BMY,,,Bristol-Myers Squibb Co.,,,Pfizer
+BMY,,,Bristol-Myers Squibb Co.,,,Seagen Inc.
+BMY,,,Bristol-Myers Squibb Co.,,,BiologicTx, LLC
+BMY,,,Bristol-Myers Squibb Co.,,,Clovis Oncology, Inc.
+BMY,,,Bristol-Myers Squibb Co.,,,Ono Pharmaceutical Co. Ltd
+BMY,,,Bristol-Myers Squibb Co.,,,Nitto Denko Corporation
+BMY,,,Bristol-Myers Squibb Co.,,,Ono Pharmaceutical Co. Ltd
+BMY,,,Bristol-Myers Squibb Co.,,,Ono Pharmaceutical Co. Ltd
+BMY,,,Bristol-Myers Squibb Co.,,,Mayo Clinic
+BMY,,,Bristol-Myers Squibb Co.,,,PPD
+BMY,,,Bristol-Myers Squibb Co.,,,Duke Clinical Research Institute
+BMY,,,Bristol-Myers Squibb Co.,,,Ono Pharmaceutical Co. Ltd
+BMY,,,Bristol-Myers Squibb Co.,,,European Organisation for Research and Treatment of Cancer - EORTC
+BMY,,,Bristol-Myers Squibb Co.,,,AbbVie
+BMY,,,Bristol-Myers Squibb Co.,,,PharmaNet
+BMY,,,Bristol-Myers Squibb Co.,,,Janssen Biotech, Inc.
+BMY,,,Bristol-Myers Squibb Co.,,,Ono Pharmaceutical Co. Ltd
+BMY,,,Bristol-Myers Squibb Co.,,,Novartis
+BMY,,,Bristol-Myers Squibb Co.,,,PRA Health Sciences
+BMY,,,Bristol-Myers Squibb Co.,,,PRA Health Sciences
+BMY,,,Bristol-Myers Squibb Co.,,,Ono Pharma USA Inc
+BMY,,,Bristol-Myers Squibb Co.,,,Ono Pharma USA Inc
+BMY,,,Bristol-Myers Squibb Co.,,,Pharmasset
+BMY,,,Bristol-Myers Squibb Co.,,,Cardioxyl Pharmaceuticals, Inc
+BMY,,,Bristol-Myers Squibb Co.,,,Karolinska Institutet
+BMY,,,Bristol-Myers Squibb Co.,,,Cardioxyl Pharmaceuticals, Inc
+BMY,,,Bristol-Myers Squibb Co.,,,US Oncology Research
+BMY,,,Bristol-Myers Squibb Co.,,,Ono Pharmaceutical Co. Ltd
+BMY,,,Bristol-Myers Squibb Co.,,,Truven health
+BMY,,,Bristol-Myers Squibb Co.,,,IMS Health
+BMY,,,Bristol-Myers Squibb Co.,,,Cardioxyl Pharmaceuticals, Inc
+BMY,,,Bristol-Myers Squibb Co.,,,Exelixis
+BMY,,,Bristol-Myers Squibb Co.,,,Duke Clinical Research Institute
+BMY,,,Bristol-Myers Squibb Co.,,,National Data Bank for Rheumatic Diseases (NDB)
+BMY,,,Bristol-Myers Squibb Co.,,,The Organization of Teratology Information Specialists
+BMY,,,Bristol-Myers Squibb Co.,,,Ono Pharmaceutical Co. Ltd
+BMY,,,Bristol-Myers Squibb Co.,,,Heidelberg University
+BMY,,,Bristol-Myers Squibb Co.,,,Heidelberg University
+BMY,,,Bristol-Myers Squibb Co.,,,AbbVie
+BMY,,,Bristol-Myers Squibb Co.,,,Medarex
+BMY,,,Bristol-Myers Squibb Co.,,,Ontario Clinical Oncology Group (OCOG)
+BMY,,,Bristol-Myers Squibb Co.,,,EsPhALL
+BMY,,,Bristol-Myers Squibb Co.,,,Steering Committee
+BMY,,,Bristol-Myers Squibb Co.,,,Nitto Denko Corporation
+BMY,,,Bristol-Myers Squibb Co.,,,Ono Pharmaceutical Co. Ltd
+BMY,,,Bristol-Myers Squibb Co.,,,Nektar Therapeutics
+BMY,,,Bristol-Myers Squibb Co.,,,AbbVie
+BMY,,,Bristol-Myers Squibb Co.,,,Innovative Therapies For Children with Cancer Consortium
+BMY,,,Bristol-Myers Squibb Co.,,,Pfizer
+BMY,,,Bristol-Myers Squibb Co.,,,Pfizer
+BMY,,,Bristol-Myers Squibb Co.,,,Pfizer
+BMY,,,Bristol-Myers Squibb Co.,,,AbbVie
+BMY,,,Bristol-Myers Squibb Co.,,,National Cancer Institute (NCI)
+BMY,,,Bristol-Myers Squibb Co.,,,Sanofi
+BMY,,,Bristol-Myers Squibb Co.,,,Otsuka America Pharmaceutical
+BMY,,,Bristol-Myers Squibb Co.,,,Otsuka America Pharmaceutical
+BMY,,,Bristol-Myers Squibb Co.,,,Sanofi
+BMY,,,Bristol-Myers Squibb Co.,,,Merck Sharp & Dohme Corp.
+BMY,,,Bristol-Myers Squibb Co.,,,Sanofi
+BMY,,,Bristol-Myers Squibb Co.,,,Sanofi
+BMY,,,Bristol-Myers Squibb Co.,,,Sanofi
+BMY,,,Bristol-Myers Squibb Co.,,,Merck Sharp & Dohme Corp.
+BMY,,,Bristol-Myers Squibb Co.,,,Ono Pharmaceutical Co. Ltd
+BMY,,,Bristol-Myers Squibb Co.,,,Pfizer
+BMY,,,Bristol-Myers Squibb Co.,,,Nitto Denko Corporation
+BMY,,,Bristol-Myers Squibb Co.,,,National Cancer Institute (NCI)
+BMY,,,Bristol-Myers Squibb Co.,,,Dohme Australia
+BMY,,,Bristol-Myers Squibb Co.,,,Roche-Genentech
+BMY,,,Bristol-Myers Squibb Co.,,,AbbVie
+BMY,,,Bristol-Myers Squibb Co.,,,Ono Pharmaceutical Co. Ltd
+BMY,,,Bristol-Myers Squibb Co.,,,Ono Pharma USA Inc
+BMY,,,Bristol-Myers Squibb Co.,,,Ono Pharma USA Inc
+BMY,,,Bristol-Myers Squibb Co.,,,Medarex
+BMY,,,Bristol-Myers Squibb Co.,,,PharmaNet
+BMY,,,Bristol-Myers Squibb Co.,,,Truven Health Analytics
+BMY,,,Bristol-Myers Squibb Co.,,,Cardioxyl Pharmaceuticals, Inc
+BMY,,,Bristol-Myers Squibb Co.,,,Ono Pharmaceutical Co. Ltd
+BMY,,,Bristol-Myers Squibb Co.,,,Ono Pharmaceutical Co. Ltd
+BMY,,,Bristol-Myers Squibb Co.,,,Ono Pharmaceutical Co. Ltd
+BMY,,,Bristol-Myers Squibb Co.,,,Ono Pharmaceutical Co. Ltd
+BMY,,,Bristol-Myers Squibb Co.,,,Ono Pharmaceutical Co. Ltd
+BMY,,,Bristol-Myers Squibb Co.,,,Ono Pharmaceutical Co. Ltd
+BMY,,,Bristol-Myers Squibb Co.,,,JSS Medical Research Inc.
+BMY,,,Bristol-Myers Squibb Co.,,,Medarex
+BMY,,,Bristol-Myers Squibb Co.,,,Eli Lilly and Company
+BMY,,,Bristol-Myers Squibb Co.,,,Steering Committee
+BMY,,,Bristol-Myers Squibb Co.,,,Janssen, LP
+BMY,,,Bristol-Myers Squibb Co.,,,Ono Pharmaceutical Co. Ltd
+BMY,,,Bristol-Myers Squibb Co.,,,National Cancer Institute (NCI)
+BMY,,,Bristol-Myers Squibb Co.,,,Sanofi
+BMY,,,Bristol-Myers Squibb Co.,,,Pierre Fabre Medicament
+BMY,,,Bristol-Myers Squibb Co.,,,Merck Sharp & Dohme Corp.
+BMY,,,Bristol-Myers Squibb Co.,,,Solvay Pharmaceuticals
+BMY,,,Bristol-Myers Squibb Co.,,,Pfizer
+BMY,,,Bristol-Myers Squibb Co.,,,Ono Pharmaceutical Co. Ltd
+BMY,,,Bristol-Myers Squibb Co.,,,Janssen, LP
+BMY,,,Bristol-Myers Squibb Co.,,,Pfizer
+BMY,,,Bristol-Myers Squibb Co.,,,Ono Pharmaceutical Co. Ltd
+BMY,,,Bristol-Myers Squibb Co.,,,Triangle Pharmaceuticals
+BMY,,,Bristol-Myers Squibb Co.,,,Triangle Pharmaceuticals
+BMY,,,Bristol-Myers Squibb Co.,,,Medarex
+BMY,,,Bristol-Myers Squibb Co.,,,Medarex
+BMY,,,Bristol-Myers Squibb Co.,,,Pfizer
+BMY,,,Bristol-Myers Squibb Co.,,,Pfizer
+BMY,,,Bristol-Myers Squibb Co.,,,Pfizer
+BMY,,,Bristol-Myers Squibb Co.,,,National Cancer Institute (NCI)
+BMY,,,Bristol-Myers Squibb Co.,,,Ono Pharmaceutical Co. Ltd
+BMY,,,Bristol-Myers Squibb Co.,,,Nektar Therapeutics
+BMY,,,Bristol-Myers Squibb Co.,,,Pfizer
+BMY,,,Bristol-Myers Squibb Co.,,,AbbVie
+BMY,,,Bristol-Myers Squibb Co.,,,Cardioxyl Pharmaceuticals, Inc
+BMY,,,Bristol-Myers Squibb Co.,,,Pfizer
+BMY,,,Bristol-Myers Squibb Co.,,,National Cancer Institute (NCI)
+BMY,,,Bristol-Myers Squibb Co.,,,Janssen Research & Development, LLC
+BMY,,,Bristol-Myers Squibb Co.,,,Abbott
+BMY,,,Bristol-Myers Squibb Co.,,,Pfizer
+BMY,,,Bristol-Myers Squibb Co.,,,Ono Pharmaceutical Co. Ltd
+BMY,,,Bristol-Myers Squibb Co.,,,Ono Pharmaceutical Co. Ltd
+BMY,,,Bristol-Myers Squibb Co.,,,AbbVie
+BMY,,,Bristol-Myers Squibb Co.,,,Pfizer
+BMY,,,Bristol-Myers Squibb Co.,,,Ono Pharmaceutical Co. Ltd
+BMY,,,Bristol-Myers Squibb Co.,,,AbbVie
+BMY,,,Bristol-Myers Squibb Co.,,,Ono Pharmaceutical Co. Ltd
+BMY,,,Bristol-Myers Squibb Co.,,,Pfizer
+BMY,,,Bristol-Myers Squibb Co.,,,Parexel
+BMY,,,Bristol-Myers Squibb Co.,,,PENTA Foundation
+BMY,,,Bristol-Myers Squibb Co.,,,Ono Pharmaceutical Co. Ltd
+BMY,,,Bristol-Myers Squibb Co.,,,Seagen Inc.
+BMY,,,Bristol-Myers Squibb Co.,,,Ono Pharmaceutical Co. Ltd
+BMY,,,Bristol-Myers Squibb Co.,,,AbbVie
+BMY,,,Bristol-Myers Squibb Co.,,,AbbVie
+BMY,,,Bristol-Myers Squibb Co.,,,Hexor, South Africa
+BMY,,,Bristol-Myers Squibb Co.,,,University Hospital, Gentofte, Copenhagen
+BMY,,,Bristol-Myers Squibb Co.,,,Ono Pharmaceutical Co. Ltd
+BMY,,,Bristol-Myers Squibb Co.,,,Exelixis
+BMY,,,Bristol-Myers Squibb Co.,,,Pfizer
+BMY,,,Bristol-Myers Squibb Co.,,,Nektar Therapeutics
+BMY,,,Bristol-Myers Squibb Co.,,,Ono Pharmaceutical Co. Ltd
+BMY,,,Bristol-Myers Squibb Co.,,,Ono Pharmaceutical Co. Ltd
+BMY,,,Bristol-Myers Squibb Co.,,,Exelixis
+BMY,,,Bristol-Myers Squibb Co.,,,Exelixis
+BMY,,,Bristol-Myers Squibb Co.,,,Pfizer
+BMY,,,Bristol-Myers Squibb Co.,,,Ono Pharmaceutical Co. Ltd
+BMY,,,Bristol-Myers Squibb Co.,,,Ono Pharmaceutical Co. Ltd
+BMY,,,Bristol-Myers Squibb Co.,,,OXON Epidemiology
+BMY,,,Bristol-Myers Squibb Co.,,,Ono Pharmaceutical Co. Ltd
+BMY,,,Bristol-Myers Squibb Co.,,,Ono Pharmaceutical Co. Ltd
+BMY,,,Bristol-Myers Squibb Co.,,,Ono Pharmaceutical Co. Ltd
+BMY,,,Bristol-Myers Squibb Co.,,,Ono Pharmaceutical Co. Ltd
+BMY,,,Bristol-Myers Squibb Co.,,,Ono Pharmaceutical Co. Ltd
+BMY,,,Bristol-Myers Squibb Co.,,,Merck Sharp & Dohme Corp.
+BMY,,,Bristol-Myers Squibb Co.,,,Medarex
+BMY,,,Bristol-Myers Squibb Co.,,,Ono Pharma USA Inc
+BMY,,,Bristol-Myers Squibb Co.,,,Covance
+BMY,,,Bristol-Myers Squibb Co.,,,Pfizer
+BMY,,,Bristol-Myers Squibb Co.,,,Yale University
+BMY,,,Bristol-Myers Squibb Co.,,,Ono Pharmaceutical Co. Ltd
+BMY,,,Bristol-Myers Squibb Co.,,,Ono Pharmaceutical Co. Ltd
+BMY,,,Bristol-Myers Squibb Co.,,,Ono Pharmaceutical Co. Ltd
+BMY,,,Bristol-Myers Squibb Co.,,,Ono Pharmaceutical Co. Ltd
+BMY,,,Bristol-Myers Squibb Co.,,,PRA Health Sciences
+BMY,,,Bristol-Myers Squibb Co.,,,Ono Pharmaceutical Co. Ltd
+BMY,,,Bristol-Myers Squibb Co.,,,Ono Pharmaceutical Co. Ltd
+BMY,,,Bristol-Myers Squibb Co.,,,Sanofi
+BMY,,,Bristol-Myers Squibb Co.,,,Pfizer
+BMY,,,Bristol-Myers Squibb Co.,,,Ono Pharmaceutical Co. Ltd
+BPMC,,,Blueprint Medicines Corporation,,,Analysis Group, Inc.
+BPMC,,,Blueprint Medicines Corporation,,,Analysis Group, Inc.
+BPMC,,,Blueprint Medicines Corporation,,,PatientCrossroads
+BVXV,,,BiondVax Pharmaceuticals Ltd,,,Seventh Framework Programme
+CADL,,,Candel Therapeutics, Inc.,,,Ohio State University
+CADL,,,Candel Therapeutics, Inc.,,,University of Pennsylvania
+CADL,,,Candel Therapeutics, Inc.,,,NYU Langone Health
+CADL,,,Candel Therapeutics, Inc.,,,University of Pennsylvania
+CADL,,,Candel Therapeutics, Inc.',,,Boston Children's Hospital
+CALA,,,Calithera Biosciences, Inc,,,Novotech (Australia) Pty Limited
+CANF,,,Can-Fite BioPharma Ltd.,,,Rabin Medical Center
+CALT,,,Calliditas Therapeutics AB American Depositary Shares,,,Archimedes Development Ltd
+CBIO,,,Catalyst Biosciences, Inc.,,,VA Office of Research and Development
+CCXI,,,ChemoCentryx, Inc.,,,Medpace, Inc.
+CCXI,,,ChemoCentryx, Inc.,,,Medpace, Inc.
+CASI,,,CASI Pharmaceuticals, Inc.,,,Indiana University Melvin and Bren Simon Cancer Center
+CASI,,,CASI Pharmaceuticals, Inc.,,,Indiana University Melvin and Bren Simon Cancer Center
+CKPT,,,Checkpoint Therapeutics, Inc.,,,Novotech (Australia) Pty Limited
+CLBS,,,Caladrius Biosciences, Inc.,,,California Institute for Regenerative Medicine (CIRM)
+CLBS,,,Caladrius Biosciences, Inc.,,,Mayo Clinic
+CLDX,,,Celldex Therapeutics, Inc,,,Merck Sharp & Dohme Corp.
+CLDX,,,Celldex Therapeutics, Inc,,,Memorial Sloan Kettering Cancer Center
+CLDX,,,Celldex Therapeutics, Inc,,,Genentech, Inc.
+CLDX,,,Celldex Therapeutics, Inc,,,Bristol-Myers Squibb
+CINC,,,CinCor Pharma, Inc.,,,CinRx
+CLSN,,,Celsion Corporation,,,Philips Healthcare
+CMPI,,,Checkmate Pharmaceuticals, Inc.,,,Bristol-Myers Squibb
+CMPI,,,Checkmate Pharmaceuticals, Inc.,,,Bristol-Myers Squibb
+CMPI,,,Checkmate Pharmaceuticals, Inc.,,,IQVIA Biotech
+CMPI,,,Checkmate Pharmaceuticals, Inc.,,,Novella Clinical
+CMPI,,,Checkmate Pharmaceuticals, Inc.,,,IQVIA Biotech
+COGT,,,Cogent Biosciences, Inc.,,,Seagen Inc.
+COGT,,,Cogent Biosciences, Inc.,,,Plexxikon
+CORT,,,Corcept Therapeutics Inc.,,,Eli Lilly and Company
+CORT,,,Corcept Therapeutics Inc.,,,Eunice Kennedy Shriver National Institute of Child Health and Human Development (NICHD)
+CORT,,,Corcept Therapeutics Inc.,,,Institute for the Study of Aging (ISOA)
+CPRX,,,Catalyst Pharmaceutical  Inc.,,,VA Office of Research and Development
+CRBP,,,Corbus Pharmaceuticals Holdings, Inc.,,,University of Pennsylvania
+CRBP,,,Corbus Pharmaceuticals Holdings, Inc.,,,Cystic Fibrosis Foundation
+CMRX,,,Chimerix, Inc.,,,National Institutes of Health (NIH)
+CMRX,,,Chimerix, Inc.,,,National Institutes of Health (NIH)
+CMRX,,,Chimerix, Inc.,,,Translational Drug Development
+CMRX,,,Chimerix, Inc.,,,Food and Drug Administration (FDA)
+CRIS,,,Curis Inc,,,The Leukemia and Lymphoma Society
+CRMD,,,CorMedix Inc.,,,Frenova Renal Research
+CSII,,,Cardiovascular Systems, Inc.,,,Cardiovascular Research Foundation, New York
+CUE,,,Cue Biopharma, Inc.,,,Merck Sharp & Dohme Corp.
+CVM,,,Cel-Sci Corporation,,,Orient Europharma Co., Ltd.
+CVM,,,Cel-Sci Corporation,,,United States Naval Medical Center, San Diego
+CYAD,,,Celyad Oncology SA American Depositary Shares,,,IQVIA Biotech
+CYAD,,,Celyad Oncology SA American Depositary Shares,,,National Heart, Lung, and Blood Institute (NHLBI)
+CYAD,,,Celyad Oncology SA American Depositary Shares,,,Merck Sharp & Dohme Corp.
+CYCN,,,Cyclerion Therapeutics, Inc.',,,Children's Hospital of Philadelphia
+CYTH,,,Cyclo Therapeutics, Inc.,,,Kerwin Research Center, LLC
+CYTK,,,Cytokinetics Inc.,,,National Institute of Neurological Disorders and Stroke (NINDS)
+CYTK,,,Cytokinetics Inc.,,,Astellas Pharma Global Development, Inc.
+CYTK,,,Cytokinetics Inc.,,,Astellas Pharma Inc
+DAWN,,,Day One Biopharmaceuticals, Inc.,,,Pacific Pediatric Neuro-Oncology Consortium
+DCTH,,,Delcath Systems Inc,,,National Cancer Institute (NCI)
+DCTH,,,Delcath Systems Inc,,,National Cancer Institute (NCI)
+DCTH,,,Delcath Systems Inc,,,IQVIA Biotech
+DMAC,,,DiaMedica Therapeutics Inc.,,,Novotech (Australia) Pty Limited
+DFFN,,,DIFFUSION PHARMACEUTICALS INC,,,University of Virginia
+ENTA,,,Enanta Pharmaceuticals, Inc,,,Pharmaceutical Research Associates
+ENTA,,,Enanta Pharmaceuticals, Inc,,,PRA Health Sciences
+ENTA,,,Enanta Pharmaceuticals, Inc,,,Pharmaceutical Research Associates
+ENTA,,,Enanta Pharmaceuticals, Inc,,,PRA Health Sciences
+ENTA,,,Enanta Pharmaceuticals, Inc,,,Covance
+ENTA,,,Enanta Pharmaceuticals, Inc,,,PPD
+ENTA,,,Enanta Pharmaceuticals, Inc,,,Triangle Biostatistics
+ENTA,,,Enanta Pharmaceuticals, Inc,,,hVIVO Services Limited
+ENTA,,,Enanta Pharmaceuticals, Inc,,,Pharmaceutical Research Associates
+ENTA,,,Enanta Pharmaceuticals, Inc,,,Pharmaceutical Research Associates
+ENTA,,,Enanta Pharmaceuticals, Inc,,,Pharmaceutical Research Associates
+ENTA,,,Enanta Pharmaceuticals, Inc,,,Pharmaceutical Research Associates
+ENTA,,,Enanta Pharmaceuticals, Inc,,,Pharmaceutical Research Associates
+ENTA,,,Enanta Pharmaceuticals, Inc,,,Novotech (Australia) Pty Limited
+ENTA,,,Enanta Pharmaceuticals, Inc,,,Triangle Biostatistics
+EOLS,,,Evolus, Inc.,,,PPD
+EOLS,,,Evolus, Inc.,,,PPD
+EOLS,,,Evolus, Inc.,,,PPD
+EPZM,,,Epizyme, Inc,,,WEP Clinical
+EPZM,,,Epizyme, Inc,,,Celgene
+EPZM,,,Epizyme, Inc,,,Sponsor GmbH
+EPZM,,,Epizyme, Inc,,,Analysis Group, Inc.
+EPZM,,,Epizyme, Inc,,,Celgene Corporation
+EPZM,,,Epizyme, Inc,,,Swedish Cancer Institute
+ETNB,,,89bio, Inc.,,,ProSciento
+ETTX,,,Entasis Therapeutics Holdings Inc.,,,Clinartis
+ESPR,,,Esperion Therapeutics, Inc.,,,Medpace, Inc.
+ESPR,,,Esperion Therapeutics, Inc.,,,Medpace, Inc.
+ESPR,,,Esperion Therapeutics, Inc.,,,Medpace, Inc.
+ESPR,,,Esperion Therapeutics, Inc.,,,The Cleveland Clinic
+EWTX,,,Edgewise Therapeutics, Inc.,,,Worldwide Clinical Trials
+EVLO,,,Evelo Biosciences, Inc.,,,Merck Sharp & Dohme Corp.
+FATE,,,Fate Therapeutics, Inc.,,,Dana-Farber Cancer Institute
+EXEL,,,Exelixis Inc,,,Takeda
+FGEN,,,FibroGen, Inc,,,Astellas Pharma Inc
+FGEN,,,FibroGen, Inc,,,AstraZeneca
+FGEN,,,FibroGen, Inc,,,AstraZeneca
+FGEN,,,FibroGen, Inc,,,AstraZeneca
+FGEN,,,FibroGen, Inc,,,Astellas Pharma Inc
+FGEN,,,FibroGen, Inc,,,AstraZeneca
+FGEN,,,FibroGen, Inc',,,Shenzhen People's Hospital
+FGEN,,,FibroGen, Inc,,,AstraZeneca
+FGEN,,,FibroGen, Inc,,,Astellas Pharma Inc
+FGEN,,,FibroGen, Inc,,,Astellas Pharma Inc
+FGEN,,,FibroGen, Inc,,,AstraZeneca
+FGEN,,,FibroGen, Inc,,,AstraZeneca
+FGEN,,,FibroGen, Inc,,,Astellas Pharma Inc
+FMTX,,,Forma Therapeutics Holdings, Inc.,,,Medpace, Inc.
+FMTX,,,Forma Therapeutics Holdings, Inc.,,,ProSciento, Inc.
+FOLD,,,Amicus Therapeutics, Inc,,,Engage Health Inc.
+GALT,,,Galectin Therapeutics Inc.,,,Dr. Stephen A. Harrison, MD, Brooke Army Medical Center
+GBT,,,Global Blood Therapeutics, Inc.,,,Mayo Clinic
+GLPG,,,Galapagos NV,,,PRA Health Sciences
+GLPG,,,Galapagos NV,,,SGS S.A.
+GLPG,,,Galapagos NV,,,Gilead Sciences
+GLPG,,,Galapagos NV,,,Institut de Recherches Internationales Servier
+GLPG,,,Galapagos NV,,,Gilead Sciences
+GLPG,,,Galapagos NV,,,MorphoSys AG
+GLPG,,,Galapagos NV,,,Gilead Sciences
+GLYC,,,GlycoMimetics, Inc.,,,Celerion
+GLYC,,,GlycoMimetics, Inc.,,,University of Michigan
+GLYC,,,GlycoMimetics, Inc.,,,Quotient Sciences
+GLYC,,,GlycoMimetics, Inc.,,,Celerion
+GLYC,,,GlycoMimetics, Inc.,,,University of Michigan
+HSTO,,,Histogen Inc.,,,United States Department of Defense
+HSTO,,,Histogen Inc.,,,Gleneagles CRC Pte Ltd.
+IMRA,,,IMARA Inc.,,,Quintiles, Inc.
+INBX,,,Inhibrx, Inc.,,,Merck Sharp & Dohme Corp.
+INFI,,,Infinity Pharmaceuticals, Inc.,,,AstraZeneca
+INFI,,,Infinity Pharmaceuticals, Inc.,,,Roche Pharma AG
+INFI,,,Infinity Pharmaceuticals, Inc.,,,Bristol-Myers Squibb
+INO,,,Inovio Pharmaceuticals, Inc.,,,Defense Advanced Research Projects Agency
+INO,,,Inovio Pharmaceuticals, Inc.,,,Mayo Clinic
+INO,,,Inovio Pharmaceuticals, Inc.,,,University of Pennsylvania
+INO,,,Inovio Pharmaceuticals, Inc.,,,Coalition for Epidemic Preparedness Innovations
+INO,,,Inovio Pharmaceuticals, Inc.,,,Coalition for Epidemic Preparedness Innovations
+INO,,,Inovio Pharmaceuticals, Inc.,,,Coalition for Epidemic Preparedness Innovations
+INO,,,Inovio Pharmaceuticals, Inc.,,,University of Pennsylvania
+INO,,,Inovio Pharmaceuticals, Inc.,,,Advaccine (Suzhou) Biopharmaceuticals Co., Ltd.
+INO,,,Inovio Pharmaceuticals, Inc.,,,Coalition for Epidemic Preparedness Innovations
+INSM,,,Insmed, Inc.,,,National Institute of Allergy and Infectious Diseases (NIAID)
+INSM,,,Insmed, Inc.,,,Muscular Dystrophy Association
+INZY,,,Inozyme Pharma, Inc.,,,IQVIA Biotech
+INZY,,,Inozyme Pharma, Inc.,,,Engage Health Inc.
+INZY,,,Inozyme Pharma, Inc.,,,IQVIA Biotech
+INZY,,,Inozyme Pharma, Inc.,,,IQVIA Biotech
+IOBT,,,IO Biotech, Inc.,,,Merck Sharp & Dohme Corp.
+IOBT,,,IO Biotech, Inc.,,,Klifo A/S
+IOBT,,,IO Biotech, Inc.,,,Dartmouth College
+IOBT,,,IO Biotech, Inc.,,,NeoGenomics
+IONS,,,Ionis Pharmaceuticals, Inc.,,,Akcea Therapeutics
+IONS,,,Ionis Pharmaceuticals, Inc.,,,Akcea Therapeutics
+IONS,,,Ionis Pharmaceuticals, Inc.,,,Akcea Therapeutics
+IONS,,,Ionis Pharmaceuticals, Inc.,,,Bayer
+IONS,,,Ionis Pharmaceuticals, Inc.,,,Akcea Therapeutics
+IONS,,,Ionis Pharmaceuticals, Inc.,,,Bayer
+IONS,,,Ionis Pharmaceuticals, Inc.,,,Akcea Therapeutics
+IONS,,,Ionis Pharmaceuticals, Inc.,,,AstraZeneca
+IONS,,,Ionis Pharmaceuticals, Inc.,,,Akcea Therapeutics
+IONS,,,Ionis Pharmaceuticals, Inc.,,,Akcea Therapeutics
+IONS,,,Ionis Pharmaceuticals, Inc.,,,Elan Pharmaceuticals
+IONS,,,Ionis Pharmaceuticals, Inc.,,,ALS Association
+IONS,,,Ionis Pharmaceuticals, Inc.,,,Akcea Therapeutics
+IONS,,,Ionis Pharmaceuticals, Inc.,,,Anapharm
+IONS,,,Ionis Pharmaceuticals, Inc.,,,M.D. Anderson Cancer Center
+ITCI,,,Intra-Cellular Therapies Inc.,,,National Institute on Drug Abuse (NIDA)
+ITCI,,,Intra-Cellular Therapies Inc.,,,Laureate Institute for Brain Research, Inc.
+ITOS,,,iTeos Therapeutics, Inc.,,,Merck Sharp & Dohme Corp.
+JAZZ,,,Jazz Pharmaceuticals, Inc.,,,The Leukemia and Lymphoma Society
+JAZZ,,,Jazz Pharmaceuticals, Inc.,,,The Lymphoma Academic Research Organisation
+JAZZ,,,Jazz Pharmaceuticals, Inc.,,,LifeWatch Services, Inc.
+JAZZ,,,Jazz Pharmaceuticals, Inc.,,,The Leukemia and Lymphoma Society
+JAZZ,,,Jazz Pharmaceuticals, Inc.,,,FDA Office of Orphan Products Development
+JAZZ,,,Jazz Pharmaceuticals, Inc.,,,Yale University
+JAZZ,,,Jazz Pharmaceuticals, Inc.',,,Children's Oncology Group (COG)
+JAZZ,,,Jazz Pharmaceuticals, Inc.,,,ICON plc
+JAZZ,,,Jazz Pharmaceuticals, Inc.,,,European Society for Blood and Marrow Transplantation
+INMB,,,INmune Bio Inc.',,,Alzheimer's Association
+KALV,,,KalVista Pharmaceuticals, Inc.,,,Juvenile Diabetes Research Foundation
+KMDA,,,Kamada Ltd,,,Kedrion S.p.A.
+KMDA,,,Kamada Ltd,,,Syneos Health
+KTRA,,,Kintara Therapeutics, Inc.,,,Sun Yat-sen University
+KYMR,,,Kymera Therapeutics, Inc.,,,York Dermatology Clinic and Research Centre
+LPCN,,,Lipocine Inc.,,,PPD
+LPTX,,,Leap Therapeutics, Inc.,,,Cancer Research Institute, New York City
+LPTX,,,Leap Therapeutics, Inc.,,,Merck KGaA, Darmstadt, Germany
+LPTX,,,Leap Therapeutics, Inc.,,,BeiGene
+LPTX,,,Leap Therapeutics, Inc.,,,Merck Sharp & Dohme Corp.
+LQDA,,,Liquidia Corporation',,,Children's Hospital Medical Center, Cincinnati
+LQDA,,,Liquidia Corporation,,,Nuventra, Inc.
+LQDA,,,Liquidia Corporation,,,FGK Clinical Research GmbH
+LQDA,,,Liquidia Corporation,,,Premier Research Group plc
+LQDA,,,Liquidia Corporation,,,Nuventra, Inc.
+MOLN,,,Molecular Partners AG American Depositary Shares,,,Q2 Solutions
+MRNS,,,Marinus Pharmaceuticals, Inc,,,U.S. Army Medical Research and Development Command
+MRNS,,,Marinus Pharmaceuticals, Inc,,,U.S. Army Medical Research and Development Command
+MRSN,,,Mersana Therapeutics, Inc.,,,IQVIA Biotech
+MRSN,,,Mersana Therapeutics, Inc.,,,IQVIA Biotech
+MRSN,,,Mersana Therapeutics, Inc.,,,IQVIA Biotech
+MRTX,,,Mirati Therapeutics, Inc.,,,Boehringer Ingelheim
+MRTX,,,Mirati Therapeutics, Inc.,,,Bristol-Myers Squibb
+MRTX,,,Mirati Therapeutics, Inc.,,,Novartis
+MRUS,,,Merus N.V.,,,Incyte Corporation
+MRUS,,,Merus N.V.,,,4Clinics
+MTNB,,,Matinas BioPharma Holdings, Inc.,,,Covance
+NAVB,,,Navidea Biopharmaceuticals Inc.,,,National Cancer Institute (NCI)
+NAVB,,,Navidea Biopharmaceuticals Inc.,,,National Cancer Institute (NCI)
+NBIX,,,Neurocrine Biosciences Inc,,,Huntington Study Group
+NBIX,,,Neurocrine Biosciences Inc,,,Takeda
+NBIX,,,Neurocrine Biosciences Inc,,,Takeda
+NBIX,,,Neurocrine Biosciences Inc,,,Takeda
+NBIX,,,Neurocrine Biosciences Inc,,,Takeda
+NBIX,,,Neurocrine Biosciences Inc,,,Takeda
+NBIX,,,Neurocrine Biosciences Inc,,,Takeda
+NBIX,,,Neurocrine Biosciences Inc,,,Takeda
+NBIX,,,Neurocrine Biosciences Inc,,,Takeda
+NBIX,,,Neurocrine Biosciences Inc,,,Takeda
+NBIX,,,Neurocrine Biosciences Inc,,,Voyager Therapeutics
+NBIX,,,Neurocrine Biosciences Inc,,,Voyager Therapeutics
+NBIX,,,Neurocrine Biosciences Inc,,,Takeda
+NBIX,,,Neurocrine Biosciences Inc,,,Takeda
+NBIX,,,Neurocrine Biosciences Inc,,,Immune Tolerance Network (ITN)
+NBIX,,,Neurocrine Biosciences Inc,,,Voyager Therapeutics
+NBIX,,,Neurocrine Biosciences Inc,,,Huntington Study Group
+NBIX,,,Neurocrine Biosciences Inc,,,Evidera
+NBIX,,,Neurocrine Biosciences Inc,,,Voyager Therapeutics
+NBIX,,,Neurocrine Biosciences Inc,,,Takeda
+NBIX,,,Neurocrine Biosciences Inc,,,Takeda
+NBIX,,,Neurocrine Biosciences Inc,,,Takeda
+NBIX,,,Neurocrine Biosciences Inc,,,Takeda
+NRBO,,,NeuroBo Pharmaceuticals, Inc.,,,Dong-A ST Co., Ltd.
+NVAX,,,Novavax Inc,,,Bill and Melinda Gates Foundation
+NVAX,,,Novavax Inc,,,Department of Health and Human Services
+NVAX,,,Novavax Inc,,,Coalition for Epidemic Preparedness Innovations
+NVAX,,,Novavax Inc,,,Department of Health and Human Services
+NVAX,,,Novavax Inc,,,Department of Health and Human Services
+NVAX,,,Novavax Inc,,,Department of Health and Human Services
+NVAX,,,Novavax Inc,,,Department of Health and Human Services
+NVAX,,,Novavax Inc,,,PATH
+NVAX,,,Novavax Inc,,,Department of Health and Human Services
+NVAX,,,Novavax Inc,,,Instituto Mexicano del Seguro Social
+NVAX,,,Novavax Inc,,,Bill and Melinda Gates Foundation
+OCUP,,,Ocuphire Pharma, Inc.,,,Ophthalmic Consultants of Long Island
+OMER,,,Omeros Corporation,,,Impatients N.V. trading as myTomorrows
+ONCS,,,OncoSec Medical Incorporated,,,National Cancer Institute (NCI)
+ONCS,,,OncoSec Medical Incorporated,,,Merck Sharp & Dohme Corp.
+ONCS,,,OncoSec Medical Incorporated,,,Merck Sharp & Dohme Corp.
+ONCY,,,Oncolytics Biotech, Inc.,,,Montefiore Medical Center
+ONCY,,,Oncolytics Biotech, Inc.,,,PrECOG, LLC.
+ONCY,,,Oncolytics Biotech, Inc.,,,SOLTI Breast Cancer Research Group
+ONCY,,,Oncolytics Biotech, Inc.,,,University of Texas
+ONCY,,,Oncolytics Biotech, Inc.,,,University of Texas
+ONCY,,,Oncolytics Biotech, Inc.,,,University of Texas
+ONTX,,,Onconova Therapeutics, Inc.,,,The Leukemia and Lymphoma Society
+ONTX,,,Onconova Therapeutics, Inc.,,,Academic GI Cancer Consortium (AGICC)
+OPK,,,Opko Health Inc.,,,Tel-Aviv Sourasky Medical Center
+OPK,,,Opko Health Inc.,,,WCCT Global
+OPK,,,Opko Health Inc.,,,Elan Pharmaceuticals
+OPK,,,Opko Health Inc.,,,Elan Pharmaceuticals
+OPK,,,Opko Health Inc.,,,Elan Pharmaceuticals
+OPK,,,Opko Health Inc.,,,Osteoarthritis Foundation International (OAFI)
+OPK,,,Opko Health Inc.,,,Elan Pharmaceuticals
+OPK,,,Opko Health Inc.,,,Tel-Aviv Sourasky Medical Center
+ORMP,,,Oramed Pharmaceuticals Inc.,,,Integrium
+ORMP,,,Oramed Pharmaceuticals Inc.,,,Integrium
+ORMP,,,Oramed Pharmaceuticals Inc.,,,Integrium
+ORMP,,,Oramed Pharmaceuticals Inc.,,,Integrium
+ORMP,,,Oramed Pharmaceuticals Inc.,,,Integrium
+ORMP,,,Oramed Pharmaceuticals Inc.,,,Integrium
+ORMP,,,Oramed Pharmaceuticals Inc.,,,Integrium
+ORMP,,,Oramed Pharmaceuticals Inc.,,,Integrium
+ORMP,,,Oramed Pharmaceuticals Inc.,,,Hadassah Medical Organization
+ORMP,,,Oramed Pharmaceuticals Inc.,,,Integrium
+ORPH,,,Orphazyme A/S,,,University College, London
+ORPH,,,Orphazyme A/S,,,University College, London
+PDSB,,,PDS Biotechnology Corporation,,,Merck Sharp & Dohme Corp.
+PLX,,,Protalix BioTherapeutics, Inc.,,,Covance
+PLXP,,,PLx Pharma Inc.,,,National Institute of Arthritis and Musculoskeletal and Skin Diseases (NIAMS)
+PLXP,,,PLx Pharma Inc.,,,Texas Higher Education Coordinating Board
+PLXP,,,PLx Pharma Inc.,,,National Institute of Arthritis and Musculoskeletal and Skin Diseases (NIAMS)
+PROG,,,Progenity, Inc.,,,Obstetrix Medical Group
+PCRX,,,Pacira BioSciences, Inc.,,,Lotus Clinical Research, LLC
+PCRX,,,Pacira BioSciences, Inc.,,,Registrat-Mapi
+PCRX,,,Pacira BioSciences, Inc.,,,Registrat-Mapi
+PCRX,,,Pacira BioSciences, Inc.,,,Registrat-Mapi
+PCRX,,,Pacira BioSciences, Inc.,,,Registrat-Mapi
+PCRX,,,Pacira BioSciences, Inc.,,,Registrat-Mapi
+PCRX,,,Pacira BioSciences, Inc.,,,Registrat-Mapi
+PCRX,,,Pacira BioSciences, Inc.,,,Richmond Pharmacology Limited
+PSTV,,,PLUS THERAPEUTICS, Inc.,,,National Cancer Institute (NCI)
+PSTX,,,Poseida Therapeutics, Inc.,,,California Institute for Regenerative Medicine (CIRM)
+PSTX,,,Poseida Therapeutics, Inc.,,,California Institute for Regenerative Medicine (CIRM)
+PTCT,,,PTC Therapeutics, Inc.,,,United States Department of Defense
+PTCT,,,PTC Therapeutics, Inc.,,,Genzyme, a Sanofi Company
+PTCT,,,PTC Therapeutics, Inc.,,,United States Department of Defense
+PTCT,,,PTC Therapeutics, Inc.,,,Genzyme, a Sanofi Company
+PTCT,,,PTC Therapeutics, Inc.,,,Cystic Fibrosis Foundation
+PTCT,,,PTC Therapeutics, Inc.,,,Muscular Dystrophy Association
+PTCT,,,PTC Therapeutics, Inc.,,,Cooperative International Neuromuscular Research Group
+PTCT,,,PTC Therapeutics, Inc.,,,FDA Office of Orphan Products Development
+PTCT,,,PTC Therapeutics, Inc.,,,Axio Research. LLC
+PTCT,,,PTC Therapeutics, Inc.,,,ECFS-Clinical Trial Network (ECFS-CTN)
+PTCT,,,PTC Therapeutics, Inc.,,,Dohmen Life Science Services
+PTCT,,,PTC Therapeutics, Inc.,,,ICON Development Solutions
+PTCT,,,PTC Therapeutics, Inc.,,,Genzyme, a Sanofi Company
+PTCT,,,PTC Therapeutics, Inc.,,,Genzyme, a Sanofi Company
+PTCT,,,PTC Therapeutics, Inc.,,,Cystic Fibrosis Foundation
+PTCT,,,PTC Therapeutics, Inc.,,,Genzyme, a Sanofi Company
+PTC,,,PTC, INC,,,United States Department of Defense
+PTC,,,PTC, INC,,,Genzyme, a Sanofi Company
+PTC,,,PTC, INC,,,United States Department of Defense
+PTC,,,PTC, INC,,,Genzyme, a Sanofi Company
+PTC,,,PTC, INC,,,Cystic Fibrosis Foundation
+PTC,,,PTC, INC,,,Muscular Dystrophy Association
+PTC,,,PTC, INC,,,Cooperative International Neuromuscular Research Group
+PTC,,,PTC, INC,,,FDA Office of Orphan Products Development
+PTC,,,PTC, INC,,,Axio Research. LLC
+PTC,,,PTC, INC,,,ECFS-Clinical Trial Network (ECFS-CTN)
+PTC,,,PTC, INC,,,Dohmen Life Science Services
+PTC,,,PTC, INC,,,ICON Development Solutions
+PTC,,,PTC, INC,,,Genzyme, a Sanofi Company
+PTC,,,PTC, INC,,,Genzyme, a Sanofi Company
+PTC,,,PTC, INC,,,Cystic Fibrosis Foundation
+PTC,,,PTC, INC,,,Genzyme, a Sanofi Company
+PTN,,,Palatin Technologies, Inc.,,,King Pharmaceuticals is now a wholly owned subsidiary of Pfizer
+PTN,,,Palatin Technologies, Inc.,,,AMAG Pharmaceuticals, Inc.
+PULM,,,Pulmatrix, Inc.,,,Quotient Bioresearch
+PULM,,,Pulmatrix, Inc.,,,Quintiles, Inc.
+PULM,,,Pulmatrix, Inc.,,,Buffalo Institute For Medical Research
+PULM,,,Pulmatrix, Inc.,,,Quotient Clinical
+PULM,,,Pulmatrix, Inc.,,,Celerion
+PULM,,,Pulmatrix, Inc.,,,McMaster University
+RAPT,,,RAPT Therapeutics, Inc.,,,Merck Sharp & Dohme Corp.
+RAPT,,,RAPT Therapeutics, Inc.,,,Merck Sharp & Dohme Corp.
+RARE,,,Ultragenyx Pharmaceutical Inc.,,,Kyowa Kirin Co., Ltd.
+RARE,,,Ultragenyx Pharmaceutical Inc.,,,Kyowa Kirin Co., Ltd.
+RARE,,,Ultragenyx Pharmaceutical Inc.,,,Kyowa Kirin Co., Ltd.
+RARE,,,Ultragenyx Pharmaceutical Inc.,,,Kyowa Kirin Co., Ltd.
+RARE,,,Ultragenyx Pharmaceutical Inc.,,,Newcastle University
+RARE,,,Ultragenyx Pharmaceutical Inc.,,,Kyowa Kirin Co., Ltd.
+RARE,,,Ultragenyx Pharmaceutical Inc.,,,Kyowa Kirin Co., Ltd.
+RARE,,,Ultragenyx Pharmaceutical Inc.,,,Kyowa Kirin Co., Ltd.
+RARE,,,Ultragenyx Pharmaceutical Inc.,,,PRA Health Sciences
+RARE,,,Ultragenyx Pharmaceutical Inc.,,,Mereo BioPharma
+RCKT,,,Rocket Pharmaceuticals, Inc.,,,California Institute for Regenerative Medicine (CIRM)
+RCKT,,,Rocket Pharmaceuticals, Inc.,,,California Institute for Regenerative Medicine (CIRM)
+RCUS,,,Arcus Biosciences, Inc.,,,Strata Oncology
+RCUS,,,Arcus Biosciences, Inc.,,,Infinity Pharmaceuticals, Inc.
+RDHL,,,Redhill Biopharma Ltd.,,,Apogee Biotechnology Corporation
+RDHL,,,Redhill Biopharma Ltd.,,,National Cancer Institute (NCI)
+RDHL,,,Redhill Biopharma Ltd.,,,National Cancer Institute (NCI)
+RDUS,,,Radius Health, Inc.,,,PRA Health Sciences
+RDUS,,,Radius Health, Inc.,,,Medpace, Inc.
+RDUS,,,Radius Health, Inc.,,,Nordic Bioscience A/S
+RDUS,,,Radius Health, Inc.,,,Medpace, Inc.
+REGN,,,Regeneron Pharmaceuticals Inc,,,Sanofi
+REGN,,,Regeneron Pharmaceuticals Inc,,,Bayer
+REGN,,,Regeneron Pharmaceuticals Inc,,,Bayer
+REGN,,,Regeneron Pharmaceuticals Inc,,,Sanofi
+REGN,,,Regeneron Pharmaceuticals Inc,,,Sanofi
+REGN,,,Regeneron Pharmaceuticals Inc,,,Sanofi
+REGN,,,Regeneron Pharmaceuticals Inc,,,Sanofi
+REGN,,,Regeneron Pharmaceuticals Inc,,,Sanofi
+REGN,,,Regeneron Pharmaceuticals Inc,,,Sanofi
+REGN,,,Regeneron Pharmaceuticals Inc,,,Sanofi
+REGN,,,Regeneron Pharmaceuticals Inc,,,Bayer
+REGN,,,Regeneron Pharmaceuticals Inc,,,Sanofi
+REGN,,,Regeneron Pharmaceuticals Inc,,,Sanofi
+REGN,,,Regeneron Pharmaceuticals Inc,,,Bayer
+REGN,,,Regeneron Pharmaceuticals Inc,,,Teva Pharmaceutical Industries, Ltd.
+REGN,,,Regeneron Pharmaceuticals Inc,,,Sanofi
+REGN,,,Regeneron Pharmaceuticals Inc,,,Sanofi
+REGN,,,Regeneron Pharmaceuticals Inc,,,Sanofi
+REGN,,,Regeneron Pharmaceuticals Inc,,,Sanofi
+REGN,,,Regeneron Pharmaceuticals Inc,,,Bayer
+REGN,,,Regeneron Pharmaceuticals Inc,,,Sanofi
+REGN,,,Regeneron Pharmaceuticals Inc,,,Teva Pharmaceutical Industries, Ltd.
+REGN,,,Regeneron Pharmaceuticals Inc,,,Bayer
+REGN,,,Regeneron Pharmaceuticals Inc,,,Sanofi
+REGN,,,Regeneron Pharmaceuticals Inc,,,Sanofi
+REGN,,,Regeneron Pharmaceuticals Inc,,,Sanofi
+REGN,,,Regeneron Pharmaceuticals Inc,,,Bayer
+REGN,,,Regeneron Pharmaceuticals Inc,,,Sanofi
+REGN,,,Regeneron Pharmaceuticals Inc,,,Sanofi
+REGN,,,Regeneron Pharmaceuticals Inc,,,Sanofi
+REGN,,,Regeneron Pharmaceuticals Inc,,,Sanofi
+REGN,,,Regeneron Pharmaceuticals Inc,,,Sanofi
+REGN,,,Regeneron Pharmaceuticals Inc,,,Sanofi
+REGN,,,Regeneron Pharmaceuticals Inc,,,Sanofi
+REGN,,,Regeneron Pharmaceuticals Inc,,,Bayer
+REGN,,,Regeneron Pharmaceuticals Inc,,,Bayer
+REGN,,,Regeneron Pharmaceuticals Inc,,,Bayer
+REGN,,,Regeneron Pharmaceuticals Inc,,,Sanofi
+REGN,,,Regeneron Pharmaceuticals Inc,,,Sanofi
+REGN,,,Regeneron Pharmaceuticals Inc,,,Sanofi
+REGN,,,Regeneron Pharmaceuticals Inc,,,Sanofi
+REGN,,,Regeneron Pharmaceuticals Inc,,,Sanofi
+REGN,,,Regeneron Pharmaceuticals Inc,,,Sanofi
+REGN,,,Regeneron Pharmaceuticals Inc,,,Sanofi
+REGN,,,Regeneron Pharmaceuticals Inc,,,Sanofi
+REGN,,,Regeneron Pharmaceuticals Inc,,,Sanofi
+REGN,,,Regeneron Pharmaceuticals Inc,,,Sanofi
+REGN,,,Regeneron Pharmaceuticals Inc,,,Sanofi
+REGN,,,Regeneron Pharmaceuticals Inc,,,Teva Pharmaceutical Industries, Ltd.
+REGN,,,Regeneron Pharmaceuticals Inc,,,Sanofi
+REGN,,,Regeneron Pharmaceuticals Inc,,,Sanofi
+REGN,,,Regeneron Pharmaceuticals Inc,,,Sanofi
+REGN,,,Regeneron Pharmaceuticals Inc,,,Sanofi
+REGN,,,Regeneron Pharmaceuticals Inc,,,National Cancer Institute (NCI)
+REGN,,,Regeneron Pharmaceuticals Inc,,,National Cancer Institute (NCI)
+REGN,,,Regeneron Pharmaceuticals Inc,,,Sanofi
+REGN,,,Regeneron Pharmaceuticals Inc,,,Sanofi
+REGN,,,Regeneron Pharmaceuticals Inc,,,Sanofi
+REGN,,,Regeneron Pharmaceuticals Inc,,,Sanofi
+REGN,,,Regeneron Pharmaceuticals Inc,,,Sanofi
+REGN,,,Regeneron Pharmaceuticals Inc,,,Aimmune Therapeutics, Inc.
+REGN,,,Regeneron Pharmaceuticals Inc,,,Sanofi
+REGN,,,Regeneron Pharmaceuticals Inc,,,Sanofi
+REGN,,,Regeneron Pharmaceuticals Inc,,,Sanofi
+REGN,,,Regeneron Pharmaceuticals Inc,,,Sanofi
+REGN,,,Regeneron Pharmaceuticals Inc,,,Pacific Pediatric Neuro-Oncology Consortium
+REGN,,,Regeneron Pharmaceuticals Inc,,,Teva Pharmaceutical Industries, Ltd.
+REGN,,,Regeneron Pharmaceuticals Inc,,,Sanofi
+REGN,,,Regeneron Pharmaceuticals Inc,,,Sanofi
+REGN,,,Regeneron Pharmaceuticals Inc,,,Sanofi
+REGN,,,Regeneron Pharmaceuticals Inc,,,Sanofi
+REGN,,,Regeneron Pharmaceuticals Inc,,,Sanofi
+REGN,,,Regeneron Pharmaceuticals Inc,,,Sanofi
+REGN,,,Regeneron Pharmaceuticals Inc,,,Sanofi
+REGN,,,Regeneron Pharmaceuticals Inc,,,Sanofi
+REGN,,,Regeneron Pharmaceuticals Inc,,,Sanofi
+REGN,,,Regeneron Pharmaceuticals Inc,,,Sanofi
+REGN,,,Regeneron Pharmaceuticals Inc,,,Sanofi
+REGN,,,Regeneron Pharmaceuticals Inc,,,Sanofi
+REGN,,,Regeneron Pharmaceuticals Inc,,,National Cancer Institute (NCI)
+REGN,,,Regeneron Pharmaceuticals Inc,,,Sanofi
+REGN,,,Regeneron Pharmaceuticals Inc,,,Sanofi
+REGN,,,Regeneron Pharmaceuticals Inc,,,Sanofi
+REGN,,,Regeneron Pharmaceuticals Inc,,,Sanofi
+REGN,,,Regeneron Pharmaceuticals Inc,,,Sanofi
+REGN,,,Regeneron Pharmaceuticals Inc,,,Sanofi
+REGN,,,Regeneron Pharmaceuticals Inc,,,Sanofi
+REGN,,,Regeneron Pharmaceuticals Inc,,,Sanofi
+REGN,,,Regeneron Pharmaceuticals Inc,,,Sanofi
+REGN,,,Regeneron Pharmaceuticals Inc,,,Sanofi
+REGN,,,Regeneron Pharmaceuticals Inc,,,Teva Pharmaceutical Industries, Ltd.
+REGN,,,Regeneron Pharmaceuticals Inc,,,Sanofi
+REGN,,,Regeneron Pharmaceuticals Inc,,,National Cancer Institute (NCI)
+REGN,,,Regeneron Pharmaceuticals Inc,,,Bayer
+REGN,,,Regeneron Pharmaceuticals Inc,,,Sanofi
+REGN,,,Regeneron Pharmaceuticals Inc,,,Sanofi
+REGN,,,Regeneron Pharmaceuticals Inc,,,Sanofi
+REGN,,,Regeneron Pharmaceuticals Inc,,,Sanofi
+REGN,,,Regeneron Pharmaceuticals Inc,,,Sanofi
+REGN,,,Regeneron Pharmaceuticals Inc,,,Alnylam Pharmaceuticals
+REGN,,,Regeneron Pharmaceuticals Inc,,,Sanofi
+REGN,,,Regeneron Pharmaceuticals Inc,,,Sanofi
+REGN,,,Regeneron Pharmaceuticals Inc,,,Bayer
+REGN,,,Regeneron Pharmaceuticals Inc,,,Sanofi
+REGN,,,Regeneron Pharmaceuticals Inc,,,Sanofi
+REGN,,,Regeneron Pharmaceuticals Inc,,,Sanofi
+REGN,,,Regeneron Pharmaceuticals Inc,,,Sanofi
+REGN,,,Regeneron Pharmaceuticals Inc,,,Sanofi
+REGN,,,Regeneron Pharmaceuticals Inc,,,Sanofi
+REGN,,,Regeneron Pharmaceuticals Inc,,,Sanofi
+REGN,,,Regeneron Pharmaceuticals Inc,,,Sanofi
+REGN,,,Regeneron Pharmaceuticals Inc,,,Sanofi
+REGN,,,Regeneron Pharmaceuticals Inc,,,Sanofi
+REGN,,,Regeneron Pharmaceuticals Inc,,,Teva Pharmaceutical Industries, Ltd.
+REGN,,,Regeneron Pharmaceuticals Inc,,,Sanofi
+REGN,,,Regeneron Pharmaceuticals Inc,,,Sanofi
+REGN,,,Regeneron Pharmaceuticals Inc,,,ISA Pharmaceuticals B.V.
+REGN,,,Regeneron Pharmaceuticals Inc,,,Teva Pharmaceutical Industries, Ltd.
+REGN,,,Regeneron Pharmaceuticals Inc,,,Syneos Health
+REGN,,,Regeneron Pharmaceuticals Inc,,,Department of Health and Human Services
+REGN,,,Regeneron Pharmaceuticals Inc,,,Sanofi
+REGN,,,Regeneron Pharmaceuticals Inc,,,Sanofi
+REPH,,,Recro Pharma, Inc.,,,Lotus Clinical Research, LLC
+REPH,,,Recro Pharma, Inc.,,,Lotus Clinical Research, LLC
+REPL,,,Replimune Group, Inc.,,,Regeneron Pharmaceuticals
+RETA,,,Reata Pharmaceuticals, Inc.,,,AbbVie
+RETA,,,Reata Pharmaceuticals, Inc.',,,Friedreich's Ataxia Research Alliance
+RETA,,,Reata Pharmaceuticals, Inc.,,,AbbVie
+RETA,,,Reata Pharmaceuticals, Inc.,,,AbbVie
+RETA,,,Reata Pharmaceuticals, Inc.,,,Covance
+RETA,,,Reata Pharmaceuticals, Inc.,,,AbbVie
+RETA,,,Reata Pharmaceuticals, Inc.,,,AbbVie
+RETA,,,Reata Pharmaceuticals, Inc.,,,AbbVie
+RGNX,,,REGENXBIO Inc.,,,National Heart, Lung, and Blood Institute (NHLBI)
+RVMD,,,Revolution Medicines, Inc.,,,Sanofi
+RVMD,,,Revolution Medicines, Inc.,,,Sanofi
+RVMD,,,Revolution Medicines, Inc.,,,Amgen
+RYTM,,,Rhythm Pharmaceuticals, Inc.,,,National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK)
+SANA,,,Sana Biotechnology, Inc.,,,Duke University
+SAVA,,,Cassava Sciences, Inc.,,,Worldwide Clinical Trials
+SAVA,,,Cassava Sciences, Inc.,,,National Institute on Aging (NIA)
+SAVA,,,Cassava Sciences, Inc.,,,National Institute on Aging (NIA)
+SAVA,,,Cassava Sciences, Inc.,,,Premier Research International LLC
+SAVA,,,Cassava Sciences, Inc.,,,Premier Research International LLC
+SCPH,,,scPharmaceuticals Inc.,,,CSSi Life Sciences
+SCYX,,,SCYNEXIS, Inc.,,,Clinical Network Services (CNS) Pty Ltd
+SCYX,,,SCYNEXIS, Inc.,,,Clinical Network Services (CNS) Pty Ltd
+SCYX,,,SCYNEXIS, Inc.,,,Inncelerex
+SCYX,,,SCYNEXIS, Inc.,,,ethica Clinical Research Inc.
+SGEN,,,Seagen Inc.,,,Millennium Pharmaceuticals, Inc.
+SGEN,,,Seagen Inc.,,,Millennium Pharmaceuticals, Inc.
+SGEN,,,Seagen Inc.,,,Millennium Pharmaceuticals, Inc.
+SGEN,,,Seagen Inc.,,,Genmab
+SGEN,,,Seagen Inc.,,,Merck Sharp & Dohme Corp.
+SGEN,,,Seagen Inc.,,,Millennium Pharmaceuticals, Inc.
+SGEN,,,Seagen Inc.,,,Genentech, Inc.
+SGEN,,,Seagen Inc.,,,Genentech, Inc.
+SGEN,,,Seagen Inc.,,,Genmab
+SGEN,,,Seagen Inc.,,,Genmab
+SGEN,,,Seagen Inc.,,,Genentech, Inc.
+SGEN,,,Seagen Inc.,,,Millennium Pharmaceuticals, Inc.
+SGEN,,,Seagen Inc.,,,Bristol-Myers Squibb
+SGEN,,,Seagen Inc.,,,RemeGen Co., Ltd.
+SGEN,,,Seagen Inc.,,,Parexel
+SGEN,,,Seagen Inc.,,,Merck Sharp & Dohme Corp.
+SGEN,,,Seagen Inc.,,,Gynecologic Oncology Group
+SGEN,,,Seagen Inc.,,,Merck Sharp & Dohme Corp.
+SGEN,,,Seagen Inc.,,,Bristol-Myers Squibb
+SGEN,,,Seagen Inc.,,,Genentech, Inc.
+SGEN,,,Seagen Inc.,,,Genmab
+SGEN,,,Seagen Inc.,,,Bristol-Myers Squibb
+SGEN,,,Seagen Inc.,,,Genentech, Inc.
+SGEN,,,Seagen Inc.,,,Genentech, Inc.
+SGEN,,,Seagen Inc.,,,Millennium Pharmaceuticals, Inc.
+SGEN,,,Seagen Inc.,,,Genmab
+SGEN,,,Seagen Inc.,,,Genmab
+SGEN,,,Seagen Inc.,,,Array BioPharma
+SGEN,,,Seagen Inc.,,,Genentech, Inc.
+SGEN,,,Seagen Inc.,,,Millennium Pharmaceuticals, Inc.
+SGEN,,,Seagen Inc.,,,Merck Sharp & Dohme Corp.
+SGEN,,,Seagen Inc.,,,Academic and Community Cancer Research United
+SGEN,,,Seagen Inc.,,,Millennium Pharmaceuticals, Inc.
+SGEN,,,Seagen Inc.,,,Merck Sharp & Dohme Corp.
+SGEN,,,Seagen Inc.,,,Millennium Pharmaceuticals, Inc.
+SGEN,,,Seagen Inc.,,,Millennium Pharmaceuticals, Inc.
+SGEN,,,Seagen Inc.,,,Agensys, Inc.
+SGEN,,,Seagen Inc.,,,Merck Sharp & Dohme Corp.
+SGMO,,,Sangamo Therapeutics, Inc.',,,Alzheimer's Disease Cooperative Study (ADCS)
+SGMO,,,Sangamo Therapeutics, Inc.,,,Juvenile Diabetes Research Foundation
+SGMO,,,Sangamo Therapeutics, Inc.,,,Sanofi
+SGMO,,,Sangamo Therapeutics, Inc.,,,Juvenile Diabetes Research Foundation
+SIGA,,,SIGA Technologies Inc.,,,United States Department of Defense
+SIGA,,,SIGA Technologies Inc.,,,Biomedical Advanced Research and Development Authority
+SIGA,,,SIGA Technologies Inc.,,,National Institutes of Health (NIH)
+SIGA,,,SIGA Technologies Inc.,,,United States Department of Defense
+SIGA,,,SIGA Technologies Inc.,,,National Institute of Allergy and Infectious Diseases (NIAID)
+SIGA,,,SIGA Technologies Inc.,,,Biomedical Advanced Research and Development Authority
+SIGA,,,SIGA Technologies Inc.,,,PPD
+SIGA,,,SIGA Technologies Inc.,,,PPD
+SIGA,,,SIGA Technologies Inc.,,,National Institutes of Health (NIH)
+SIGA,,,SIGA Technologies Inc.,,,United States Department of Defense
+SIGA,,,SIGA Technologies Inc.,,,Biomedical Advanced Research and Development Authority
+SIGA,,,SIGA Technologies Inc.,,,National Institutes of Health (NIH)
+SIGA,,,SIGA Technologies Inc.,,,United States Department of Defense
+SIGA,,,SIGA Technologies Inc.,,,National Institute of Allergy and Infectious Diseases (NIAID)
+SIGA,,,SIGA Technologies Inc.,,,Biomedical Advanced Research and Development Authority
+SIGA,,,SIGA Technologies Inc.,,,PPD
+SIGA,,,SIGA Technologies Inc.,,,PPD
+SIGA,,,SIGA Technologies Inc.,,,National Institutes of Health (NIH)
+SIOX,,,Sio Gene Therapies Inc.,,,Massachusetts General Hospital
+SLNO,,,Soleno Therapeutics, Inc.,,,Casimir Trials
+SLS,,,SELLAS Life Sciences Group, Inc.,,,United States Department of Defense
+SLS,,,SELLAS Life Sciences Group, Inc.,,,Cancer Insight, LLC
+SMMT,,,Summit Therapeutics Inc.,,,Department of Health and Human Services
+SMMT,,,Summit Therapeutics Inc.,,,Wellcome Trust
+SLRX,,,Salarius Pharmaceuticals, Inc.,,,National Pediatric Cancer Foundation
+SNSE,,,Sensei Biotherapeutics, Inc.,,,Accelovance
+SPPI,,,Spectrum Pharmaceuticals Inc,,,The Leukemia and Lymphoma Society
+SPPI,,,Spectrum Pharmaceuticals Inc,,,Onxeo
+SPPI,,,Spectrum Pharmaceuticals Inc,,,Onxeo
+SPPI,,,Spectrum Pharmaceuticals Inc,,,The Leukemia and Lymphoma Society
+SPPI,,,Spectrum Pharmaceuticals Inc,,,Allergan
+SPPI,,,Spectrum Pharmaceuticals Inc,,,Bayer
+SPPI,,,Spectrum Pharmaceuticals Inc,,,Allergan
+SPPI,,,Spectrum Pharmaceuticals Inc,,,National Cancer Institute (NCI)
+SPPI,,,Spectrum Pharmaceuticals Inc,,,Memorial Sloan Kettering Cancer Center
+SPPI,,,Spectrum Pharmaceuticals Inc,,,CTI BioPharma
+SPPI,,,Spectrum Pharmaceuticals Inc,,,Parexel
+SPRO,,,Spero Therapeutics, Inc.,,,United States Department of Defense
+SPRO,,,Spero Therapeutics, Inc.,,,United States Department of Defense
+SPRO,,,Spero Therapeutics, Inc.,,,QPS
+SPRO,,,Spero Therapeutics, Inc.,,,Simbec Research
+SPRO,,,Spero Therapeutics, Inc.,,,Clinical Network Services (CNS) Pty Ltd
+SPRO,,,Spero Therapeutics, Inc.,,,Celerion
+SPRO,,,Spero Therapeutics, Inc.,,,Iqvia Pty Ltd
+SPRO,,,Spero Therapeutics, Inc.,,,Covance
+SPRO,,,Spero Therapeutics, Inc.,,,CPR Pharma Services Pty Ltd, Australia
+SPRO,,,Spero Therapeutics, Inc.,,,CPR Pharma Services Pty Ltd, Australia
+SPRO,,,Spero Therapeutics, Inc.,,,Clinartis
+SNDX,,,Syndax Pharmaceuticals, Inc.,,,Pfizer
+SNDX,,,Syndax Pharmaceuticals, Inc.,,,Merck Sharp & Dohme Corp.
+SNDX,,,Syndax Pharmaceuticals, Inc.,,,Merck Sharp & Dohme Corp.
+SNDX,,,Syndax Pharmaceuticals, Inc.,,,Roche Pharma AG
+SRPT,,,Sarepta Therapeutics,, Inc.,,,Hoffmann-La Roche
+SRPT,,,Sarepta Therapeutics,, Inc.,,,British Medical Research Council
+SRPT,,,Sarepta Therapeutics,, Inc.,,,United States Department of Defense
+SRPT,,,Sarepta Therapeutics,, Inc.,,,United States Department of Defense
+SRPT,,,Sarepta Therapeutics,, Inc.,,,University of Newcastle Upon-Tyne
+SRPT,,,Sarepta Therapeutics,, Inc.,,,Baim Institute for Clinical Research
+SRPT,,,Sarepta Therapeutics,, Inc.,,,United States Department of Defense
+SRPT,,,Sarepta Therapeutics,, Inc.,,,United States Department of Defense
+SRPT,,,Sarepta Therapeutics,, Inc.,,,Hoffmann-La Roche
+SUPN,,,Supernus Pharmaceuticals, Inc.,,,Solstice Neurosciences
+SUPN,,,Supernus Pharmaceuticals, Inc.,,,Melbourne Health
+SUPN,,,Supernus Pharmaceuticals, Inc.,,,Parexel
+SYN,,,Synthetic Biologics, Inc.,,,Washington University School of Medicine
+SYN,,,Synthetic Biologics, Inc.,,,Spaulding Clinical Research LLC
+SYN,,,Synthetic Biologics, Inc.,,,Spaulding Clinical Research LLC
+SYBX,,,Synlogic, Inc.,,,IQVIA Biotech
+TALS,,,Talaris Therapeutics, Inc.,,,Duke University
+TALS,,,Talaris Therapeutics, Inc.,,,Duke University
+TALS,,,Talaris Therapeutics, Inc.,,,Duke University
+TALS,,,Talaris Therapeutics, Inc.,,,Northwestern University
+TALS,,,Talaris Therapeutics, Inc.,,,Duke University
+TALS,,,Talaris Therapeutics, Inc.,,,Hahnemann University Hospital
+TALS,,,Talaris Therapeutics, Inc.,,,Northwestern University
+TALS,,,Talaris Therapeutics, Inc.,,,Duke University
+TBPH,,,Theravance Biopharma, Inc.,,,GlaxoSmithKline
+TBPH,,,Theravance Biopharma, Inc.,,,GlaxoSmithKline
+TBPH,,,Theravance Biopharma, Inc.,,,Alfasigma S.p.A.
+TBPH,,,Theravance Biopharma, Inc.,,,Alfasigma S.p.A.
+TBPH,,,Theravance Biopharma, Inc.,,,GlaxoSmithKline
+TBPH,,,Theravance Biopharma, Inc.,,,GlaxoSmithKline
+TBPH,,,Theravance Biopharma, Inc.,,,GlaxoSmithKline
+TCRX,,,TScan Therapeutics, Inc.,,,Washington University School of Medicine
+TENX,,,Tenax Therapeutics, Inc.,,,Virginia Commonwealth University
+TRVI,,,Trevi Therapeutics, Inc.,,,Davita Clinical Research
+TRVI,,,Trevi Therapeutics, Inc.,,,Syneos Health
+TRVI,,,Trevi Therapeutics, Inc.,,,Parexel
+TRVI,,,Trevi Therapeutics, Inc.,,,Syneos Health
+TTNP,,,TITAN PHARMACEUTICAL INC,,,National Institute on Drug Abuse (NIDA)
+TVTX,,,Travere Therapeutics, Inc.',,,Children's Hospital Medical Center, Cincinnati
+UTHR,,,United Therapeutics Corp,,,National Taiwan University Hospital
+UTHR,,,United Therapeutics Corp,,,National Taiwan University Hospital
+UTHR,,,United Therapeutics Corp,,,Lung Biotechnology PBC
+UTHR,,,United Therapeutics Corp,,,Statitec
+UTHR,,,United Therapeutics Corp,,,Kaohsiung Medical University Chung-Ho Memorial Hospital
+UTHR,,,United Therapeutics Corp,,,Taipei Veterans General Hospital, Taiwan
+UTHR,,,United Therapeutics Corp,,,Statitec
+UTHR,,,United Therapeutics Corp,,,UBI Asia in Taiwan
+UTHR,,,United Therapeutics Corp,,,Lung Biotechnology PBC
+UTHR,,,United Therapeutics Corp,,,University of Pittsburgh
+UTHR,,,United Therapeutics Corp,,,Kaohsiung Veterans General Hospital.
+UTHR,,,United Therapeutics Corp,,,Taoyuan General Hospital
+UTHR,,,United Therapeutics Corp,,,Tri-Service General Hospital
+UTHR,,,United Therapeutics Corp,,,Emory University
+UTHR,,,United Therapeutics Corp,,,CVie Therapeutics Co. Ltd.
+UTHR,,,United Therapeutics Corp,,,CVie Therapeutics Co. Ltd.
+UTHR,,,United Therapeutics Corp,,,Asian Clinical Trials
+VCNX,,,Vaccinex, Inc.,,,Merck KGaA/EMD Serono
+VCNX,,,Vaccinex, Inc.,,,PPD
+VCNX,,,Vaccinex, Inc.,,,Merck Sharp & Dohme Corp.
+VCNX,,,Vaccinex, Inc.',,,Alzheimer's Association
+VCNX,,,Vaccinex, Inc.,,,PRA Health Sciences
+VCNX,,,Vaccinex, Inc.,,,Huntington Study Group
+VIR,,,Vir Biotechnology, Inc.,,,GlaxoSmithKline
+VIR,,,Vir Biotechnology, Inc.,,,Alnylam Pharmaceuticals
+VIR,,,Vir Biotechnology, Inc.,,,GlaxoSmithKline
+VIR,,,Vir Biotechnology, Inc.,,,Alnylam Pharmaceuticals
+VIR,,,Vir Biotechnology, Inc.,,,GlaxoSmithKline
+VIR,,,Vir Biotechnology, Inc.,,,GlaxoSmithKline
+VIR,,,Vir Biotechnology, Inc.,,,Bill and Melinda Gates Foundation
+VNDA,,,Vanda Pharmaceuticals Inc.,,,Mayo Clinic
+VNDA,,,Vanda Pharmaceuticals Inc.,,,Cross Research S.A.
+VRCA,,,Verrica Pharmaceuticals Inc.,,,Instat services
+VRCA,,,Verrica Pharmaceuticals Inc.,,,Database Integrations, Inc.
+VRCA,,,Verrica Pharmaceuticals Inc.,,,Database Integrations, Inc.
+VRCA,,,Verrica Pharmaceuticals Inc.,,,BioClinica, Inc.
+VRCA,,,Verrica Pharmaceuticals Inc.,,,ALMAC Clinical Services
+VRNA,,,Verona Pharma plc,,,Iqvia Pty Ltd
+VRNA,,,Verona Pharma plc,,,Cystic Fibrosis Trust
+VRNA,,,Verona Pharma plc,,,Iqvia Pty Ltd
+VRNA,,,Verona Pharma plc,,,LGC Limited
+VRNA,,,Verona Pharma plc,,,Iqvia Pty Ltd
+VRNA,,,Verona Pharma plc,,,Iqvia Pty Ltd
+VRTX,,,Vertex Pharmaceuticals Inc,,,Cystic Fibrosis Foundation
+VRTX,,,Vertex Pharmaceuticals Inc,,,National Cancer Institute (NCI)
+VRTX,,,Vertex Pharmaceuticals Inc,,,Tibotec BVBA
+VRTX,,,Vertex Pharmaceuticals Inc,,,Cystic Fibrosis Foundation
+VRTX,,,Vertex Pharmaceuticals Inc,,,Cystic Fibrosis Foundation
+VRTX,,,Vertex Pharmaceuticals Inc,,,Tibotec, Inc
+VRTX,,,Vertex Pharmaceuticals Inc,,,ViroChem Pharma
+VRTX,,,Vertex Pharmaceuticals Inc,,,Tibotec Pharmaceutical Limited
+VRTX,,,Vertex Pharmaceuticals Inc,,,Cystic Fibrosis Foundation
+VRTX,,,Vertex Pharmaceuticals Inc,,,Cystic Fibrosis Foundation
+VRTX,,,Vertex Pharmaceuticals Inc,,,CRISPR Therapeutics
+VRTX,,,Vertex Pharmaceuticals Inc,,,Cystic Fibrosis Foundation
+VRTX,,,Vertex Pharmaceuticals Inc,,,Cystic Fibrosis Foundation
+VRTX,,,Vertex Pharmaceuticals Inc,,,ViroChem Pharma
+VRTX,,,Vertex Pharmaceuticals Inc,,,Janssen Pharmaceuticals
+VRTX,,,Vertex Pharmaceuticals Inc,,,Cystic Fibrosis Foundation
+VRTX,,,Vertex Pharmaceuticals Inc,,,Cystic Fibrosis Foundation
+VRTX,,,Vertex Pharmaceuticals Inc,,,Cystic Fibrosis Foundation
+VRTX,,,Vertex Pharmaceuticals Inc,,,Cystic Fibrosis Foundation
+VRTX,,,Vertex Pharmaceuticals Inc,,,Cystic Fibrosis Foundation
+VRTX,,,Vertex Pharmaceuticals Inc,,,Tibotec Pharmaceutical Limited
+VRTX,,,Vertex Pharmaceuticals Inc,,,Tibotec Pharmaceutical Limited
+VRTX,,,Vertex Pharmaceuticals Inc,,,Duke Clinical Research Institute
+VRTX,,,Vertex Pharmaceuticals Inc,,,Tibotec Pharmaceutical Limited
+VRTX,,,Vertex Pharmaceuticals Inc,,,Cystic Fibrosis Foundation
+VRTX,,,Vertex Pharmaceuticals Inc,,,Tibotec Pharmaceutical Limited
+VTGN,,,VistaGen Therapeutics, Inc.,,,National Institute on Drug Abuse (NIDA)
+VTVT,,,vTv Therapeutics Inc.,,,Juvenile Diabetes Research Foundation
+VTVT,,,vTv Therapeutics Inc.,,,National Heart, Lung, and Blood Institute (NHLBI)
+VXRT,,,Vaxart, Inc,,,Biomedical Advanced Research and Development Authority
+VYNE,,,VYNE Therapeutics Inc.,,,Premier Research Group plc
+VYNE,,,VYNE Therapeutics Inc.,,,Premier Research Group plc
+VYNE,,,VYNE Therapeutics Inc.,,,Premier Research Group plc
+VYNE,,,VYNE Therapeutics Inc.,,,Premier Research Group plc
+WINT,,,Windtree Therapeutics, Inc.,,,Momentum Research, Inc.
+WINT,,,Windtree Therapeutics, Inc.,,,National Heart, Lung, and Blood Institute (NHLBI)
+XENE,,,Xenon Pharmaceuticals Inc,,,NCGS, Inc.
+XENT,,,Intersect ENT, Inc,,,Advance Research Associates
+XERS,,,Xeris Biopharma Holdings, Inc.,,,National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK)
+XERS,,,Xeris Biopharma Holdings, Inc.,,,The Emmes Company, LLC
+XERS,,,Xeris Biopharma Holdings, Inc.,,,Integrated Medical Development
+XERS,,,Xeris Biopharma Holdings, Inc.,,,Emissary International LLC
+XERS,,,Xeris Biopharma Holdings, Inc.,,,Emissary International LLC
+XERS,,,Xeris Biopharma Holdings, Inc.,,,Emissary International LLC
+XERS,,,Xeris Biopharma Holdings, Inc.,,,Empiristat, Inc.
+XERS,,,Xeris Biopharma Holdings, Inc.,,,Integrated Medical Development
+XERS,,,Xeris Biopharma Holdings, Inc.,,,National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK)
+XFOR,,,X4 Pharmaceuticals, Inc.,,,Covance
+XNCR,,,Xencor, Inc.,,,Parexel
+XNCR,,,Xencor, Inc.,,,ICON Clinical Research
+XNCR,,,Xencor, Inc.,,,ICON Clinical Research
+XNCR,,,Xencor, Inc.,,,ICON plc
+XNCR,,,Xencor, Inc.,,,ICON Clinical Research
+XNCR,,,Xencor, Inc.,,,ICON plc
+XNCR,,,Xencor, Inc.,,,ICON plc
+XNCR,,,Xencor, Inc.,,,ICON Clinical Research
+XNCR,,,Xencor, Inc.,,,ICON plc
+XNCR,,,Xencor, Inc.,,,Massachusetts General Hospital
+XNCR,,,Xencor, Inc.,,,ICON plc
+XNCR,,,Xencor, Inc.,,,ICON Early Phase Services, LLC
+XNCR,,,Xencor, Inc.,,,ICON plc
+ZEAL,,,Zealand Pharma A/S American Depositary Shares,,,Beta Bionics, Inc.
+ZEAL,,,Zealand Pharma A/S American Depositary Shares,,,Larix A/S
+ZEAL,,,Zealand Pharma A/S American Depositary Shares,,,SynteractHCR
+ZEAL,,,Zealand Pharma A/S American Depositary Shares,,,Syneos Health
+YMAB,,,Y-mAbs Therapeutics, Inc.,,,Memorial Sloan Kettering Cancer Center
+YMAB,,,Y-mAbs Therapeutics, Inc.,,,NYU Langone Health
+YMAB,,,Y-mAbs Therapeutics, Inc.',,,Children's Oncology Group
+YMAB,,,Y-mAbs Therapeutics, Inc.,,,Invicro
+NOVN,,,Novan, Inc.,,,PPD
+NOVN,,,Novan, Inc.,,,Chiltern International Inc.
+NOVN,,,Novan, Inc.,,,Synteract, Inc.
+NOVN,,,Novan, Inc.,,,WCCT Global
+NOVN,,,Novan, Inc.,,,Synteract, Inc.
+NOVN,,,Novan, Inc.,,,Synteract, Inc.
+NOVN,,,Novan, Inc.,,,Novella Clinical
+NOVN,,,Novan, Inc.,,,Novella Clinical
+NOVN,,,Novan, Inc.,,,Premier Research Group plc
+NOVN,,,Novan, Inc.,,,Chiltern International Inc.
+NOVN,,,Novan, Inc.,,,Chiltern International Inc.
+NOVN,,,Novan, Inc.,,,Spaulding Clinical Research LLC
+NMTR,,,9 Meters Biopharma, Inc.,,,Teva Pharmaceuticals USA
+NKTR,,,Nektar Therapeutics,,,Bristol-Myers Squibb
+NKTR,,,Nektar Therapeutics,,,Merck Sharp & Dohme Corp.
+NKTR,,,Nektar Therapeutics,,,ImaginAb, Inc.
+NKTR,,,Nektar Therapeutics,,,Bristol-Myers Squibb
+NKTR,,,Nektar Therapeutics,,,Bristol-Myers Squibb
+NKTR,,,Nektar Therapeutics,,,Bristol-Myers Squibb
+NGM,,,NGM Biopharmaceuticals, Inc.,,,NGM Biopharmaceuticals Australia Pty Ltd
+NGM,,,NGM Biopharmaceuticals, Inc.,,,NGM Biopharmaceuticals Australia Pty Ltd
+NGM,,,NGM Biopharmaceuticals, Inc.,,,NGM Biopharmaceuticals Australia Pty Ltd
+NGM,,,NGM Biopharmaceuticals, Inc.,,,NGM Biopharmaceuticals Australia Pty Ltd
+MNOV,,,Medicinova, Inc.,,,Atrium Health
+MNOV,,,Medicinova, Inc.,,,National Multiple Sclerosis Society
+MNOV,,,Medicinova, Inc.,,,South Shore Neurologic Associates
+MIRM,,,Mirum Pharmaceuticals, Inc.,,,Clinigen, Inc.
+MIRM,,,Mirum Pharmaceuticals, Inc.,,,Childhood Liver Disease Research and Education Network
+MIRM,,,Mirum Pharmaceuticals, Inc.,,,Childhood Liver Disease Research and Education Network
+MGNX,,,MacroGenics, Inc.,,,Eli Lilly and Company
+MGNX,,,MacroGenics, Inc.,,,Eli Lilly and Company
+MGNX,,,MacroGenics, Inc.,,,National Institute of Allergy and Infectious Diseases (NIAID)
+MGNX,,,MacroGenics, Inc.,,,Eli Lilly and Company
+MGNX,,,MacroGenics, Inc.,,,National Institute of Allergy and Infectious Diseases (NIAID)
+MGNX,,,MacroGenics, Inc.,,,Eli Lilly and Company
+MGNX,,,MacroGenics, Inc.,,,Merck Sharp & Dohme Corp.
+MGNX,,,MacroGenics, Inc.,,,National Institute of Allergy and Infectious Diseases (NIAID)
+MGNX,,,MacroGenics, Inc.,,,Massachusetts General Hospital
+MGNX,,,MacroGenics, Inc.,,,Zai Lab (Shanghai) Co., Ltd.
+MGNX,,,MacroGenics, Inc.,,,National Institute of Allergy and Infectious Diseases (NIAID)
+MGNX,,,MacroGenics, Inc.,,,Eli Lilly and Company
+MGNX,,,MacroGenics, Inc.,,,National Cancer Institute (NCI)
+MESO,,,Mesoblast Limited American Depositary Shares,,,Quintiles, Inc.
+MESO,,,Mesoblast Limited American Depositary Shares,,,Juvenile Diabetes Research Foundation
+MESO,,,Mesoblast Limited American Depositary Shares,,,PPD
+MESO,,,Mesoblast Limited American Depositary Shares,,,Quintiles, Inc.
+MESO,,,Mesoblast Limited American Depositary Shares,,,Quintiles, Inc.
+MDGL,,,Madrigal Pharmaceuticals, Inc.,,,Celerion
+MDGL,,,Madrigal Pharmaceuticals, Inc.,,,Worldwide Clinical Trials
+MDGL,,,Madrigal Pharmaceuticals, Inc.,,,Celerion
+MDGL,,,Madrigal Pharmaceuticals, Inc.,,,Celerion
+MCRB,,,Seres Therapeutics, Inc.,,,Pharm-Olam International
+MCRB,,,Seres Therapeutics, Inc.,,,Syneos Health
+MCRB,,,Seres Therapeutics, Inc.,,,Memorial Sloan Kettering Cancer Center
+MACK,,,Merrimack Pharmaceuticals, Inc.,,,Sanofi
+MACK,,,Merrimack Pharmaceuticals, Inc.,,,Sanofi
+MACK,,,Merrimack Pharmaceuticals, Inc.,,,Sanofi
+MACK,,,Merrimack Pharmaceuticals, Inc.,,,Sanofi
+MACK,,,Merrimack Pharmaceuticals, Inc.,,,Sanofi
+MACK,,,Merrimack Pharmaceuticals, Inc.,,,Sanofi
+LUMO,,,Lumos Pharma, Inc.,,,Collaborative Neuroscience Network
+LUMO,,,Lumos Pharma, Inc.,,,Wayne State University
+LUMO,,,Lumos Pharma, Inc.,,,Dignity Health
+LIFE,,,aTyr Pharma, Inc.,,,Foundation for Sarcoidosis Research
+KZIA,,,Kazia Therapeutics Limited American Depositary Shares,,,Quotient Sciences
+HALO,,,Halozyme Therapeutics, Inc.,,,Baxter Healthcare Corporation
+HALO,,,Halozyme Therapeutics, Inc.,,,Baxter Healthcare Corporation
+GTHX,,,G1 Therapeutics, Inc.,,,Bionical Emas
+GRTX,,,Galera Therapeutics, Inc.,,,Syneos Health
+GRTX,,,Galera Therapeutics, Inc.,,,M.D. Anderson Cancer Center
+GRTX,,,Galera Therapeutics, Inc.,,,Nucleous Network
+GRTX,,,Galera Therapeutics, Inc.,,,Celerion
+GRTX,,,Galera Therapeutics, Inc.,,,Syneos Health
+ELOX,,,Eloxx Pharmaceuticals, Inc.,,,SGS Life Sciences, a division of SGS Belgium NV
+ELOX,,,Eloxx Pharmaceuticals, Inc.,,,Syneos Health
+ELOX,,,Eloxx Pharmaceuticals, Inc.,,,SGS Life Sciences, a division of SGS Belgium NV
+ELEV,,,Elevation Oncology, Inc.,,,Merrimack Pharmaceuticals
+EIGR,,,Eiger BioPharmaceuticals, Inc.,,,Hannover Medical School
+EIGR,,,Eiger BioPharmaceuticals, Inc.,,,Ankara University
+EGRX,,,Eagle Pharmaceuticals, Inc.,,,Quintiles, Inc.
+EFTR,,,eFFECTOR Therapeutics, Inc.,,,Pfizer
+EFTR,,,eFFECTOR Therapeutics, Inc.,,,Medpace, Inc.
+EFTR,,,eFFECTOR Therapeutics, Inc.,,,Medpace, Inc.
+EDSA,,,Edesa Biotech, Inc.,,,JSS Medical Research Inc.
+EDSA,,,Edesa Biotech, Inc.,,,JSS Medical Research Inc.
+EBS,,,Emergent Biosolutions, Inc.,,,Department of Health and Human Services
+EBS,,,Emergent Biosolutions, Inc.,,,National Institutes of Health (NIH)
+EBS,,,Emergent Biosolutions, Inc.,,,Department of Health and Human Services
+EBS,,,Emergent Biosolutions, Inc.,,,National Institute of Allergy and Infectious Diseases (NIAID)
+EBS,,,Emergent Biosolutions, Inc.,,,Centers for Disease Control and Prevention
+EBS,,,Emergent Biosolutions, Inc.,,,National Institutes of Health (NIH)
+EBS,,,Emergent Biosolutions, Inc.,,,Biomedical Advanced Research and Development Authority
+EBS,,,Emergent Biosolutions, Inc.,,,GlaxoSmithKline
+EBS,,,Emergent Biosolutions, Inc.,,,Department of Health and Human Services
+EBS,,,Emergent Biosolutions, Inc.,,,Department of Health and Human Services
+EBS,,,Emergent Biosolutions, Inc.,,,Department of Health and Human Services
+EBS,,,Emergent Biosolutions, Inc.,,,Centers for Disease Control and Prevention
+EBS,,,Emergent Biosolutions, Inc.,,,Naval Health Research Center
+EBS,,,Emergent Biosolutions, Inc.,,,Walter Reed Army Institute of Research (WRAIR)
+EBS,,,Emergent Biosolutions, Inc.,,,GlaxoSmithKline
+EBS,,,Emergent Biosolutions, Inc.,,,Department of Health and Human Services
+EBS,,,Emergent Biosolutions, Inc.,,,Department of Health and Human Services
+EBS,,,Emergent Biosolutions, Inc.,,,National Institute of Allergy and Infectious Diseases (NIAID)
+EBS,,,Emergent Biosolutions, Inc.,,,Biomedical Advanced Research and Development Authority
+EBS,,,Emergent Biosolutions, Inc.,,,United States Department of Defense
+EBS,,,Emergent Biosolutions, Inc.,,,United States Department of Defense
+EBS,,,Emergent Biosolutions, Inc.,,,Walter Reed Army Institute of Research (WRAIR)
+EBS,,,Emergent Biosolutions, Inc.,,,National Institute of Allergy and Infectious Diseases (NIAID)
+EBS,,,Emergent Biosolutions, Inc.,,,Centers for Disease Control and Prevention
+EDAP,,,EDAP TMS SA,,,Institut National de la Sant� Et de la Recherche M�dicale, France
+EDAP,,,EDAP TMS SA,,,Institut National de la Sant� Et de la Recherche M�dicale, France
+DVAX,,,Dynavax Technologies Corporation,,,Merck Sharp & Dohme Corp.
+DVAX,,,Dynavax Technologies Corporation,,,PPD
+DVAX,,,Dynavax Technologies Corporation,,,Baylor Research Institute
+DVAX,,,Dynavax Technologies Corporation,,,PPD
+CGEN,,,Compugen Ltd,,,Bristol-Myers Squibb
+CGEN,,,Compugen Ltd,,,Bristol-Myers Squibb
+CGEM,,,Cullinan Oncology, Inc.,,,National Cancer Institute (NCI)
+AYLA,,,Ayala Pharmaceuticals, Inc.,,,Engage Health Inc.
+AVXL,,,Anavex Life Sciences,,,Anavex Germany GmbH
+AVXL,,,Anavex Life Sciences,,,Anavex Australia Pty Ltd.
+AVXL,,,Anavex Life Sciences,,,Anavex Canada Ltd.
+AVXL,,,Anavex Life Sciences,,,Anavex Germany GmbH
+AVXL,,,Anavex Life Sciences,,,Anavex Germany GmbH
+AVXL,,,Anavex Life Sciences,,,Anavex Germany GmbH
+AVXL,,,Anavex Life Sciences,,,International Rett Syndrome Foundation Rettsyndrome.org
+AVIR,,,Atea Pharmaceuticals, Inc.,,,Hoffmann-La Roche
+AVIR,,,Atea Pharmaceuticals, Inc.,,,Hoffmann-La Roche
+AVIR,,,Atea Pharmaceuticals, Inc.,,,Hoffmann-La Roche
+AVIR,,,Atea Pharmaceuticals, Inc.,,,Hoffmann-La Roche
+AVIR,,,Atea Pharmaceuticals, Inc.,,,Hoffmann-La Roche
+AVIR,,,Atea Pharmaceuticals, Inc.,,,Hoffmann-La Roche
+AVIR,,,Atea Pharmaceuticals, Inc.,,,Hoffmann-La Roche
+AVIR,,,Atea Pharmaceuticals, Inc.,,,Hoffmann-La Roche
+AVIR,,,Atea Pharmaceuticals, Inc.,,,Hoffmann-La Roche
+AVIR,,,Atea Pharmaceuticals, Inc.,,,Hoffmann-La Roche
+AVEO,,,AVEO Pharmaceuticals, Inc.,,,Biodesix, Inc.
+AVEO,,,AVEO Pharmaceuticals, Inc.,,,AstraZeneca
+AVEO,,,AVEO Pharmaceuticals, Inc.,,,Astellas Pharma Inc
+AVEO,,,AVEO Pharmaceuticals, Inc.,,,Biodesix, Inc.
+AVEO,,,AVEO Pharmaceuticals, Inc.,,,Astellas Pharma Inc
+AVEO,,,AVEO Pharmaceuticals, Inc.,,,Bristol-Myers Squibb
+AVEO,,,AVEO Pharmaceuticals, Inc.,,,Bristol-Myers Squibb
+AVEO,,,AVEO Pharmaceuticals, Inc.,,,Biodesix, Inc.
+AVEO,,,AVEO Pharmaceuticals, Inc.,,,AstraZeneca
+AVEO,,,AVEO Pharmaceuticals, Inc.,,,Astellas Pharma Inc
+AVEO,,,AVEO Pharmaceuticals, Inc.,,,Biodesix, Inc.
+AVEO,,,AVEO Pharmaceuticals, Inc.,,,Astellas Pharma Inc
+AVEO,,,AVEO Pharmaceuticals, Inc.,,,Bristol-Myers Squibb
+AVEO,,,AVEO Pharmaceuticals, Inc.,,,Bristol-Myers Squibb
+ZYME,,,Zymeworks Inc.,,,BeiGene, Ltd.
+ZYME,,,Zymeworks Inc.,,,BeiGene, Ltd.
+ZYME,,,Zymeworks Inc.,,,ALX Oncology Inc.
+ACOR,,,Acorda Therapeutics, Inc.,,,BCS Consulting, Inc.
+ACOR,,,Acorda Therapeutics, Inc.,,,Syneos Health
+ACOR,,,Acorda Therapeutics, Inc.,,,PRA Health Sciences
+ACOR,,,Acorda Therapeutics, Inc.,,,PRA Health Sciences
+ACOR,,,Acorda Therapeutics, Inc.',,,Michael J. Fox Foundation for Parkinson's Research
+ACOR,,,Acorda Therapeutics, Inc.,,,DP Clinical, Inc.
