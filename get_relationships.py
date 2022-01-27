@@ -604,7 +604,6 @@ def get_relationships(ticker):
     name_found = False
     cik = "not found"
     details = get_details(ticker, False)
-    print(details)
     name = details["NAME"]
     print(timestamp() + "name found: " + name)
     name_found = True

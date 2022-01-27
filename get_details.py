@@ -1,12 +1,10 @@
 
 import requests
-import phARKma_utils
 import sec_api
 from sec_api import QueryApi
 import config
 import json
 from datetime import datetime
-import phARKma_utils
 
 
 def get_details(ticker, verbose):

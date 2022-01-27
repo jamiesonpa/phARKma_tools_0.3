@@ -11,8 +11,6 @@ import time
 import re
 import os
 import spacy
-import get_details
-import get_trials
 from get_trials import get_trials_primary#, get_trials_collaborator
 import config
 

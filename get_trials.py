@@ -17,8 +17,11 @@ import time
 import Levenshtein as lev
 
 def get_trials_primary(ticker, trials_database):
-    name = get_details.get_company_name(ticker)
-    name = process_name(name)
+    try:
+        name = get_details.get_details(ticker, False)["NAME"]
+        name = process_name(name)
+    except:
+        name = ticker
     trials = []
     print(timestamp() + "Getting trials in which '" + str(name) + "' is the primary investigator.")
     df_dict = trials_database.to_dict("records")
@@ -44,7 +47,7 @@ def get_trials_primary(ticker, trials_database):
 
 
 def get_trials_collaborator(ticker, trials_database):
-    name = get_details.get_company_name(ticker)
+    name = get_details.get_details(ticker, False)["NAME"]
     name = process_name(name)
     trials = []
     print(timestamp() + "Getting trials in which '" + str(name) + "' is a collaborating investigator.")

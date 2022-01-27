@@ -1,7 +1,7 @@
 import phARKma_utils
 import pandas as pd
 
-def get_condition_category(trial_row):
+def get_condition_category(text):
     blood=("blood",["heme","anemia","erythro","leuco","hemo","thrombo","thromb","clotting","coagula","basophil","marrow","gout","myelofibrosis","venous","angio","phleb","plasma","platelet","red blood cell","macroglob","macrophage","neutrophil","blood"])
     oncological=("oncological",["carcinoma","leukemia","cancer","cancer","cancer","cancer","cancer","cancer","cancer","tumor","cancer","neoplasm","sarcoma","myeloma","angioma","thelioma","chemotherapy","aplastic","metast","cytomegaly","leukemia"])
     cardiovascular=("cardiovascular",["cardio","aortic","aorta","heart","deep vein","thrombosis","coronary","artery","arteri","statin","beta blocker","angioplasty","valve","carditi","rheumatic","myopathy","hypertens","hypotens","rhythmia","stenos"])
@@ -48,8 +48,8 @@ def get_condition_category(trial_row):
     for key in row_scores.keys():
         row_scores[key] = 0
 
-    if trial_row["CONDITION"].find("not found") == -1:
-        trial_string = trial_row["CONDITION"].lower()
+    if text.find("not found") == -1:
+        trial_string = text.lower()
 
         trial_string = trial_string.lower()
         for cat in categories:

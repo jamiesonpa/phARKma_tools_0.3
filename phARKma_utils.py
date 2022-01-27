@@ -2,6 +2,13 @@ import datetime
 from datetime import datetime
 import pandas as pd
 import trial_updater
+import get_details
+import requests
+import bs4
+from bs4 import BeautifulSoup
+from collections import Counter
+
+stripJunk = str.maketrans("","","- ")
 
 def removeDigits(s):
     answer = []
@@ -9,6 +16,14 @@ def removeDigits(s):
         if not char.isdigit():
             answer.append(char)
     return ''.join(answer)
+
+
+def getRatio(a,b):
+    a = a.lower().translate(stripJunk)
+    b = b.lower().translate(stripJunk)
+    total  = len(a)+len(b)
+    counts = (Counter(a)-Counter(b))+(Counter(b)-Counter(a))
+    return 100 - 100 * sum(counts.values()) / total
 
 
 def timestamp():
@@ -131,5 +146,7 @@ def process_name(name):
         name = name.replace(" co", "")
     if name.find("  ") != -1:
         name = name.replace("  "," ")
+    if name.find("american depositary shares") != -1:
+        name = name.replace("american depositary shares","")
     name = name.strip()
     return name
