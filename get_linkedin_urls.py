@@ -9,10 +9,9 @@ def get_linkedin_urls():
     names = []
     for ticker in tickers:
         name = get_details.get_details(ticker, False)["NAME"]
-        names.append((ticker, name))
+        names.append(name)
     urls = []
     for name in names:
-        name = name[1]
         namestring = ""
         name = name.replace("&","")
         name = name.replace(".","")
@@ -31,19 +30,22 @@ def get_linkedin_urls():
     
     linkedin_urls = []
     for url in urls:
-        req = requests.get(url)
-        query = url.split("?")[1].replace("q=","query:")
-        soup = BeautifulSoup(req.content, "html.parser")
-        a_eles = soup.find_all("a")
-        good_as = []
-        for a in a_eles:
-            if str(a).find("www.linkedin.com") != -1:
-                good_as.append(str(a))
+        try:
+            req = requests.get(url)
+            query = url.split("?")[1].replace("q=","query:")
+            soup = BeautifulSoup(req.content, "html.parser")
+            a_eles = soup.find_all("a")
+            good_as = []
+            for a in a_eles:
+                if str(a).find("www.linkedin.com") != -1:
+                    good_as.append(str(a))
 
-        linkedin_url = (good_as[0].split("/url?q=")[1].split("&amp")[0])
-        if str(linkedin_url)[-1] == "-":
-            linkedin_url = str(linkedin_url)[0:len(str(linkedin_url))-1]
-        linkedin_urls.append(str(linkedin_url))
+            linkedin_url = (good_as[0].split("/url?q=")[1].split("&amp")[0])
+            if str(linkedin_url)[-1] == "-":
+                linkedin_url = str(linkedin_url)[0:len(str(linkedin_url))-1]
+            linkedin_urls.append(str(linkedin_url))
+        except:
+            pass
     return linkedin_urls
 
 def get_entries():

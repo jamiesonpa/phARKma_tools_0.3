@@ -7,6 +7,7 @@ import json
 from datetime import datetime
 
 
+
 def get_details(ticker, verbose):
     try:
         print("Fetching company details for " + ticker)

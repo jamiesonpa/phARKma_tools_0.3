@@ -38,7 +38,7 @@ def download_trial_data():
             file.write(data)
     progress_bar.close()
     if total_size_in_bytes != 0 and progress_bar.n != total_size_in_bytes:
-        print(timestamp() + "ERROR, something went wrong")
+        print(phARKma_utils.timestamp() + "ERROR, something went wrong")
     print ("Clinical trials raw data retrieved...")
     print ("Unzipping clinical trials archive. This may take five minutes or so...")
     with zipfile.ZipFile("AllPublicXML.zip") as zip_ref:
@@ -46,8 +46,8 @@ def download_trial_data():
 
 def delete_clinical_trials_data():
     dir_path = "/Users/piercejamieson/Desktop/Scripts/12_9_2021/AllPublicXML2"
-    print(timestamp() + "deleting" + dir_path)
-    print(timestamp() + "this should take about 30s...")
+    print(phARKma_utils.timestamp() + "deleting" + dir_path)
+    print(phARKma_utils.timestamp() + "this should take about 30s...")
     shutil.rmtree(dir_path)
 
 def record_time():
@@ -70,7 +70,7 @@ def check_last_fetch_time():
         current_date = datetime.datetime(year=int(current_year), month = int(current_month), day = int(current_day))
 
     time_between = current_date - lf_date
-    print(timestamp() + "It has been " + str(time_between) + " since last fetched clinical trials data...")
+    print(phARKma_utils.timestamp() + "It has been " + str(time_between) + " since last fetched clinical trials data...")
     if str(time_between).find(" ") != -1:
         retval = int(str(time_between).split(" ")[0])
     else:
@@ -78,7 +78,7 @@ def check_last_fetch_time():
     return retval
 
 def process_trial(file, study_data, trials):
-    # print(timestamp() + "Fetching file " + str(file) + "/" + str(len(files)))
+    # print(phARKma_utils.timestamp() + "Fetching file " + str(file) + "/" + str(len(files)))
     with open(file, 'r', encoding="utf8") as readfile:
         data = readfile.read()
     soup = BeautifulSoup(data, "xml")
@@ -406,11 +406,11 @@ def process_trial(file, study_data, trials):
 
                 # for key in study_data.keys():
                 #     if key == "description":
-                #         print(timestamp() + key + ": " + study_data[key][0:50].strip("\n") + "...")
+                #         print(phARKma_utils.timestamp() + key + ": " + study_data[key][0:50].strip("\n") + "...")
                 #     elif key == "summary":
-                #         print(timestamp() + key + ": " + study_data[key][0:50].strip("\n") + "...")
+                #         print(phARKma_utils.timestamp() + key + ": " + study_data[key][0:50].strip("\n") + "...")
                 #     else:
-                #         print(timestamp() + key + ": " + str(study_data[key]))
+                #         print(phARKma_utils.timestamp() + key + ": " + str(study_data[key]))
                 trials.append(study_data)
     
 def get_clinical_results(soup, study_data): #not currently implemented
@@ -437,7 +437,7 @@ def get_clinical_results(soup, study_data): #not currently implemented
 
 def check_trial_deprecation_status(download):
     #this is where execution begins
-    print(timestamp() + "Initializing clinical trial data parse protocol...")
+    print(phARKma_utils.timestamp() + "Initializing clinical trial data parse protocol...")
     trials = []
     directories = []
     files = []
@@ -450,42 +450,42 @@ def check_trial_deprecation_status(download):
     #first check to see if there is a clinical trial data directory in current directory
     if str(os.listdir()).find("AllPublicXML") != -1:
         trial_data_present = True
-        print(timestamp() + "found existing clinical trials xml archive data in local directory")
+        print(phARKma_utils.timestamp() + "found existing clinical trials xml archive data in local directory")
 
 
     #if it is there, then check to see how long ago it was fetched
     if trial_data_present == True:
         if str(os.listdir()).find("trial_data_fetch_time") == -1:
-            print(timestamp() + "Fetch time record not found, proceeding on the assumption that trial database is deprecated.")
+            print(phARKma_utils.timestamp() + "Fetch time record not found, proceeding on the assumption that trial database is deprecated.")
             last_fetch = 9999
         else:
             last_fetch = check_last_fetch_time()
-            print(timestamp() + "Trial data archive is not deprecated. Last fetch was " + str(last_fetch) + " days ago.")
+            print(phARKma_utils.timestamp() + "Trial data archive is not deprecated. Last fetch was " + str(last_fetch) + " days ago.")
 
     #if it isnt there, then download it and record the time
     else:
         if download == True:
-            print(timestamp() + "No clinical trials raw data directory found. Downloading data now...")
+            print(phARKma_utils.timestamp() + "No clinical trials raw data directory found. Downloading data now...")
             download_trial_data()
             new_data_downloaded = True
             record_time()
         else:
-            print(timestamp() + "No clinical trials raw data found.")
+            print(phARKma_utils.timestamp() + "No clinical trials raw data found.")
 
 
     #if it was found and the date at which it was downloaded was found to be longer than 2 days ago,
     #this will cause it to delete it and download a new copy.
     if last_fetch > 2:
         if download == True:
-            print(timestamp() + "Clinical trials data is deprecated. Wiping clinical trials data...")
+            print(phARKma_utils.timestamp() + "Clinical trials data is deprecated. Wiping clinical trials data...")
             delete_clinical_trials_data()
-            print(timestamp() + "Downloading new clinical trials data archive...")
+            print(phARKma_utils.timestamp() + "Downloading new clinical trials data archive...")
             download_trial_data()
             new_data_downloaded = True
             record_time()
     else:
         if download == True:
-            print(timestamp() + "Clinical trials data is not deprecated, proceeding...")
+            print(phARKma_utils.timestamp() + "Clinical trials data is not deprecated, proceeding...")
 
     if download == True:
         #if we have updated the clinical trials database, we need to update the corresponding csv file.
@@ -505,8 +505,8 @@ def check_trial_deprecation_status(download):
                     files.append(directory +"/" + str(file))
                     trial_ids.append((str(file).split(".")[0]))
 
-            print(timestamp() + "Trial data retrieved...")
-            print(timestamp() + "Assembling data structures...")
+            print(phARKma_utils.timestamp() + "Trial data retrieved...")
+            print(phARKma_utils.timestamp() + "Assembling data structures...")
 
             #now iterate through those data
             study_data = {}
@@ -518,7 +518,7 @@ def check_trial_deprecation_status(download):
                     bar()
 
             #now create a csv using the data we pull here
-            print(timestamp() + "Constructing pandas dataframe...")
+            print(phARKma_utils.timestamp() + "Constructing pandas dataframe...")
             df = pd.DataFrame(trials)
             df.columns = map(str.upper, df.columns)
             df.drop_duplicates

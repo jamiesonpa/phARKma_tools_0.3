@@ -28,6 +28,7 @@ from bs4 import BeautifulSoup
 import pandas as pd
 import linkedin_scraper
 from unirank import Ranking
+import get_model
 
 def update_mean_analyst_ratings_table():
     tickers = get_arkg_tickers.get_arkg_tickers()
@@ -263,10 +264,70 @@ def update_employees_table():
         company_dict["difference_from_baseline"] = company_dict["baseline_score"] - company_dict["total_score"]
         company_dict["average_employee_educational_rank"] = lowest_rank - (company_dict["difference_from_baseline"]/company_dict["total_employees"])
         company_dict["normalized_average_employee_rank"] =round((1-(company_dict["average_employee_educational_rank"]/lowest_rank)) *100,2)
-        print(company_dict)
-                        
+        name = company_dict["name"]
+        cdeets = airtable_utils.get_airtable_records("Company Details")
+        ticker = None
+        name_found = False
+        for entry in cdeets:
+            if name_found == False:
+                ename = entry["fields"]["NAME"]
+                ticker = entry["fields"]["TICKER"]
+                if rapidfuzz.fuzz.WRatio(name, ename) > 95:
+                    print("found name similar to " + name + " in company details table which was " + ename + " and associated ticker was " + ticker)
+                    name_found = True
+            else:
+                pass
+        if ticker != None:
+            edurecord = {}
+            edurecord["TICKER"] = ticker
+            edurecord["EDUCATION_SCORE"] = str(company_dict["normalized_average_employee_rank"])
+            airtable_utils.add_record(config.at_base_key, "Employee Education Score", config.at_api_key, edurecord, ticker)
+            
+def update_models():
+    tickers = get_arkg_tickers.get_arkg_tickers()
+    data_dicts = {}
+    for ticker in tickers:
+        try:
+            print("updating model for " + ticker)
+            data_dict = {}
+            price = get_model.get_price(ticker)[ticker]
+            data_dict["CURRENT_PRICE"] = str(price)
+            print("price = " + str(price))
 
+            shares_outstanding = get_model.get_shares_outstanding(ticker)
+            data_dict["CURRENT_ABSO"] = str(round(shares_outstanding[1],2))
+            data_dict["AVERAGE_ABSO_DILUTION"] = str(round(shares_outstanding[0],2))
+            print("current shares outstanding = " + str(shares_outstanding[1]))
+            print("average shares outstanding annual dilution = " + str(shares_outstanding[0]))
 
+            cash = get_model.get_cash(ticker)
+            data_dict["CURRENT_CASH"] = cash
+            print("cash = " + str(cash))
+
+            average_opex = get_model.get_average_opex(ticker)
+            data_dict["AVERAGE_OPEX"] = str(average_opex)
+            print("average opex = " + str(average_opex))
+
+            implied_runway = round((float(cash)/float(average_opex)),2)
+            data_dict["IMPLIED_RUNWAY"] = str(implied_runway)
+            print("implied cash runway = " + str(implied_runway) + " years")
+
+            market_cap = float(price) * float(shares_outstanding[1])
+            data_dict["MARKET_CAP"] = str(round(market_cap,2))
+            print("market cap " + str(market_cap))
+
+            total_debt = get_model.get_total_debt(ticker)
+            data_dict["TOTAL_LIABILITIES"] = str(total_debt)
+            print("total debt = " + str(total_debt))
+
+            enterprise_value = float(market_cap) + float(total_debt) - float(cash)
+            data_dict["ENTERPRISE_VALUE"] = str(round(enterprise_value,2))
+            print("enterprise value = " + str(enterprise_value))
+
+            airtable_utils.add_record(config.at_base_key,"Financial Model Statistics",config.at_api_key, data_dict, ticker)
+        except:
+            print("couldn't calculate model data for " + ticker)
 
 
 update_employees_table()
+update_models()

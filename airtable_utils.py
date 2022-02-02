@@ -13,6 +13,8 @@ import shutil
 import logging
 import sys
 import Levenshtein as lev
+import phARKma_utils
+from phARKma_utils import timestamp
 import time
 
 base_key = config.at_base_key
@@ -208,7 +210,7 @@ def update_master_table():
     print("Updating master table! This will take a minute...")
     tables = ["Drugs","Clinical Trials","Preclinical Trials","Company Details","Company Financials","Analyst Rating History","Analyst Ratings"]
     master_fields = []
-    print(timestamp()+"Getting field names...")
+    print(phARKma_utils.timestamp()+"Getting field names...")
     for table in tables:
         columns = get_table_fields(table)
         for column in columns:
