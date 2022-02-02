@@ -51,7 +51,7 @@ def delete_clinical_trials_data():
     shutil.rmtree(dir_path)
 
 def record_time():
-    with open("trial_data_fetch_time.txt","w+") as writefile:
+    with open("auxillary_data/trial_data_fetch_time.txt","w+") as writefile:
         writefile.write(str(datetime.datetime.now().isoformat(timespec='minutes')))
 
 def check_last_fetch_time():
@@ -61,7 +61,7 @@ def check_last_fetch_time():
     current_day = right_now.split("-")[2].split("T")[0]
 
     
-    with open("trial_data_fetch_time.txt") as readfile:
+    with open("auxillary_data/trial_data_fetch_time.txt") as readfile:
         last_fetch = readfile.read()
         lf_year = last_fetch.split("-")[0]
         lf_month = last_fetch.split("-")[1]
@@ -491,7 +491,7 @@ def check_trial_deprecation_status(download):
         #if we have updated the clinical trials database, we need to update the corresponding csv file.
         if new_data_downloaded == False:
             try:
-                os.remove("trials_database.csv")
+                os.remove("auxillary_data/trials_database.csv")
             except:
                 pass
             #now get the directories containing all the clinical trials data
@@ -522,6 +522,6 @@ def check_trial_deprecation_status(download):
             df = pd.DataFrame(trials)
             df.columns = map(str.upper, df.columns)
             df.drop_duplicates
-            df.to_csv("trials_database.csv")
+            df.to_csv("auxillary_data/trials_database.csv")
 
 

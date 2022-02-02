@@ -9,11 +9,11 @@ from rapidfuzz import fuzz
 
 def fetch_commercialized_drug_database():
     file_found = False
-    for file in os.listdir():
+    for file in os.getcwd()+"/auxillary_data".list_dir():
         if str(file) == "commercialized_drug_list.txt":
             file_found = True
     if file_found == True:
-        os.remove("commercialized_drug_list.txt")
+        os.remove("auxillary_data/commercialized_drug_list.txt")
 
     date_stamp = str(datetime.datetime.now()).split(".")[0] + "__DATE__"
     link_part1 = "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=reportsSearch.process&rptName=2&reportSelectMonth="
@@ -73,7 +73,7 @@ def fetch_commercialized_drug_database():
     for year in nmes.keys():
         numbers.append((year, str(len(nmes[year]))))
 
-    with open("commercialized_drug_list.txt", "a") as writefile:
+    with open("auxillary_data/commercialized_drug_list.txt", "a") as writefile:
         writefile.write(date_stamp+"\n")
 
     for drug in drug_dict.keys():
@@ -88,14 +88,14 @@ def get_commercialized_drugs(ticker):
     current_date_dtobject = datetime.datetime.strptime(current_date_string, "%Y-%m-%d %H:%M:%S")
 
     file_found = False
-    for file in os.listdir():
+    for file in os.getcwd()+"/auxillary_data".list_dir():
         if str(file) == "commercialized_drug_list.txt":
             file_found = True
     
     if file_found == False:
         fetch_commercialized_drug_database()
     else:
-        with open("commercialized_drug_list.txt") as readfile:
+        with open("auxillary_data/commercialized_drug_list.txt") as readfile:
             cdl_file = readfile.read()
             datestamp_string = cdl_file.split("__DATE__")[0]
             datestamp_dtobject = datetime.datetime.strptime(datestamp_string, "%Y-%m-%d %H:%M:%S")
@@ -107,7 +107,7 @@ def get_commercialized_drugs(ticker):
     name_fetched = False
 
 
-    with open("commercialized_drug_list.txt") as readfile:
+    with open("auxillary_data/commercialized_drug_list.txt") as readfile:
         cdl = readfile.read().split("__DATE__")[1]
         cdl_lines = cdl.split("\n")
         drugs = {}
