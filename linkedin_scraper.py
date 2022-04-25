@@ -116,10 +116,10 @@ class LinkedinEmployeesSchoolinfoDataScraper():
     def phase3_Scraping(self):
         FIELD_NAMES = ['Company Name', 'Location',
                        '# Employees', 'Company Url']
-        with open('employee_data.csv', 'w', newline='') as csvfile:
+        with open('auxillary_data/employee_data.csv', 'w', newline='') as csvfile:
             writer = csv.DictWriter(csvfile, fieldnames=FIELD_NAMES)
             writer.writeheader()
-        file_object = open("linkedin_urls.txt", "r")
+        file_object = open("auxillary_data/linkedin_urls.txt", "r")
         if file_object.mode == 'r':
             urls = file_object.readlines()
         for url in urls:
@@ -172,7 +172,7 @@ class LinkedinEmployeesSchoolinfoDataScraper():
                     except:
                         pass
                     try:
-                        with open('employee_data.csv', 'a', newline='', encoding='utf-8') as csvfile:
+                        with open('auxillary_data/employee_data.csv', 'a', newline='', encoding='utf-8') as csvfile:
                             writer = csv.DictWriter(
                                 csvfile, fieldnames=FIELD_NAMES)
                             rowData = {'Company Name': companyname, 'Location': location,
@@ -188,10 +188,10 @@ class LinkedinEmployeesSchoolinfoDataScraper():
     def phase2_Scraping(self):
         FIELD_NAMES = ['Company Name', 'School Name',
                        '# Hired Employees', 'Company Url']
-        with open('employee_education.csv', 'w', newline='') as csvfile:
+        with open('auxillary_data/employee_education.csv', 'w', newline='') as csvfile:
             writer = csv.DictWriter(csvfile, fieldnames=FIELD_NAMES)
             writer.writeheader()
-        file_object = open("linkedin_urls.txt", "r")
+        file_object = open("auxillary_data/linkedin_urls.txt", "r")
         if file_object.mode == 'r':
             urls = file_object.readlines()
         for url in urls:
@@ -244,7 +244,7 @@ class LinkedinEmployeesSchoolinfoDataScraper():
                     except:
                         pass
                     try:
-                        with open('employee_education.csv', 'a', newline='', encoding='utf-8') as csvfile:
+                        with open('auxillary_data/employee_education.csv', 'a', newline='', encoding='utf-8') as csvfile:
                             writer = csv.DictWriter(
                                 csvfile, fieldnames=FIELD_NAMES)
                             rowData = {'Company Name': companyname, 'School Name': Schoolname,
@@ -261,3 +261,4 @@ class LinkedinEmployeesSchoolinfoDataScraper():
         self.phase3_Scraping()
         self.phase2_Scraping()
         self.phase3_Scraping()
+

@@ -35,7 +35,7 @@ def get_trials_database():
     print(timestamp() + "Fetching clinical trials csv database...")
     trial_database_found = False
     try:
-        trials_database = pd.read_csv("trials_database.csv")
+        trials_database = pd.read_csv("auxillary_data/trials_database.csv")
         trial_database_found = True
     except:
         trial_database_found = False
@@ -43,7 +43,7 @@ def get_trials_database():
         return trials_database
     else:
         trial_updater.check_trial_deprecation_status(True)
-        trials_database = pd.read_csv("trials_database.csv")
+        trials_database = pd.read_csv("auxillary_data/trials_database.csv")
         return trials_database
 
 def process_name(name):

@@ -17,7 +17,6 @@ def get_price(ticker):
     reqjson = json.loads(req.content)
     current_price[ticker] = reqjson["close"]
     return current_price
-    
 #make a list of dicts that contain the shares outstanding for each company in a tuple with the
 #ticker as the first entry
 def get_shares_outstanding(ticker):
@@ -73,38 +72,75 @@ def get_cash(ticker):
                 # print(ticker + " " + str(date) + ": " + rec["fields"]["VALUE"])
     
     cash_keys_sorted = sorted(cash_and_equivalents)
-    current_cash = cash_and_equivalents[cash_keys_sorted[-1]]
-    return current_cash
+    try:
+        current_cash = cash_and_equivalents[cash_keys_sorted[-1]]
+        return current_cash
+    except:
+        return ("not found")
 
 #make a list of dicts that contain the cash for each company in a tuple with the
 #ticker as the first entry
 def get_average_opex(ticker):
-    opex_dict = {}
-    financial_records = airtable_utils.get_airtable_records("Company Financials")
-    for rec in financial_records:
-        if (rec["fields"]["TICKER"]) == ticker:
-            if rec["fields"]["METRIC"] == "operatingExpenses":
-                date_string = rec["fields"]["DATE"]
-                year_string = date_string.split("-")[0]
-                month_string = date_string.split("-")[1]
-                day_string = date_string.split("-")[2]
-                date = datetime.datetime(int(year_string),int(month_string),int(day_string))
-                opex_dict[date] = rec["fields"]["VALUE"]
-                # print(ticker + " " + str(date) + ": " + rec["fields"]["VALUE"])
+    try:
+        opex_dict = {}
+        financial_records = airtable_utils.get_airtable_records("Company Financials")
+        for rec in financial_records:
+            if (rec["fields"]["TICKER"]) == ticker:
+                if rec["fields"]["METRIC"] == "operatingExpenses":
+                    date_string = rec["fields"]["DATE"]
+                    year_string = date_string.split("-")[0]
+                    month_string = date_string.split("-")[1]
+                    day_string = date_string.split("-")[2]
+                    date = datetime.datetime(int(year_string),int(month_string),int(day_string))
+                    opex_dict[date] = rec["fields"]["VALUE"]
+                    # print(ticker + " " + str(date) + ": " + rec["fields"]["VALUE"])
 
 
-    #get average company opex
-    opexs = []
-    for entry in opex_dict.keys():
-        opexs.append(opex_dict[entry])
-    
-    opex_sum = 0
-    for opex in opexs:
-        opex_sum = float(opex_sum) + float(opex)
-    
-    entry_number = len(opexs)
-    opex_average = round(opex_sum/entry_number,2)
-    return opex_average
+        #get average company opex
+        opexs = []
+        for entry in opex_dict.keys():
+            opexs.append(opex_dict[entry])
+        
+        opex_sum = 0
+        for opex in opexs:
+            opex_sum = float(opex_sum) + float(opex)
+        
+        entry_number = len(opexs)
+        opex_average = round(opex_sum/entry_number,2)
+        return opex_average
+    except:
+        return ("not found")
+
+def get_revenue(ticker):
+    try:
+        revenue_dict = {}
+        financial_records = airtable_utils.get_airtable_records("Company Financials")
+        for rec in financial_records:
+            if (rec["fields"]["TICKER"]) == ticker:
+                if rec["fields"]["METRIC"] == "totalRevenue":
+                    date_string = rec["fields"]["DATE"]
+                    year_string = date_string.split("-")[0]
+                    month_string = date_string.split("-")[1]
+                    day_string = date_string.split("-")[2]
+                    date = datetime.datetime(int(year_string),int(month_string),int(day_string))
+                    revenue_dict[date] = rec["fields"]["VALUE"]
+                    # print(ticker + " " + str(date) + ": " + rec["fields"]["VALUE"])
+
+
+        #get average company opex
+        revs = []
+        for entry in revenue_dict.keys():
+            revs.append(revenue_dict[entry])
+        
+        revenue_sum = 0
+        for rev in revs:
+            revenue_sum = float(revenue_sum) + float(rev)
+        
+        entry_number = len(revs)
+        revenue_average = round(revenue_sum/entry_number,2)
+        return revenue_average
+    except:
+        return ("not found")
 
 def get_total_debt(ticker):
     debt_dict = {}
@@ -129,4 +165,43 @@ def get_total_debt(ticker):
     current_total_debt = debt_dict[last_date]
 
     return current_total_debt
+
+def get_net_income(ticker):
+    try:
+        revenue_dict = {}
+        financial_records = airtable_utils.get_airtable_records("Company Financials")
+        for rec in financial_records:
+            if (rec["fields"]["TICKER"]) == ticker:
+                if rec["fields"]["METRIC"] == "netIncome":
+                    date_string = rec["fields"]["DATE"]
+                    year_string = date_string.split("-")[0]
+                    month_string = date_string.split("-")[1]
+                    day_string = date_string.split("-")[2]
+                    date = datetime.datetime(int(year_string),int(month_string),int(day_string))
+                    revenue_dict[date] = rec["fields"]["VALUE"]
+                    # print(ticker + " " + str(date) + ": " + rec["fields"]["VALUE"])
+
+
+        #get average company opex
+        revs = []
+        for entry in revenue_dict.keys():
+            revs.append(revenue_dict[entry])
+        
+        revenue_sum = 0
+        for rev in revs:
+            revenue_sum = float(revenue_sum) + float(rev)
+        
+        entry_number = len(revs)
+        revenue_average = round(revenue_sum/entry_number,2)
+        return revenue_average
+    except:
+        return ("not found")
     
+
+
+with open("C:\\Users\\Pierce Jamieson\\Desktop\\python_projects\\phARKma_3\\phARKma_tools_0.2\\arkg_tickers.txt") as readfile:
+    ticker_list = readfile.read().split("\n")
+
+for ticker in ticker_list:
+    cash = get_net_income(ticker)
+    print(ticker + ", " + str(cash))

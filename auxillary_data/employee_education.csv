@@ -1,646 +1,106 @@
 Company Name,School Name,# Hired Employees,Company Url
-Twist Bioscience,San Francisco State University,33,https://www.linkedin.com/company/twist-bioscience
-Twist Bioscience,"University of California, Davis",29,https://www.linkedin.com/company/twist-bioscience
-Twist Bioscience,UC San Diego,27,https://www.linkedin.com/company/twist-bioscience
-Twist Bioscience,"University of California, Santa Cruz",27,https://www.linkedin.com/company/twist-bioscience
-Twist Bioscience,"University of California, Berkeley",22,https://www.linkedin.com/company/twist-bioscience
-Twist Bioscience,"University of California, Merced",14,https://www.linkedin.com/company/twist-bioscience
-Twist Bioscience,San Jose State University,13,https://www.linkedin.com/company/twist-bioscience
-Twist Bioscience,UC Santa Barbara,13,https://www.linkedin.com/company/twist-bioscience
-Twist Bioscience,City College of San Francisco,13,https://www.linkedin.com/company/twist-bioscience
-Twist Bioscience,UC Irvine,11,https://www.linkedin.com/company/twist-bioscience
-Twist Bioscience,California Polytechnic State University-San Luis Obispo,10,https://www.linkedin.com/company/twist-bioscience
-Twist Bioscience,University of Southern California,9,https://www.linkedin.com/company/twist-bioscience
-Twist Bioscience,University of Michigan,9,https://www.linkedin.com/company/twist-bioscience
-Twist Bioscience,San Diego State University,8,https://www.linkedin.com/company/twist-bioscience
-Twist Bioscience,University of San Francisco,8,https://www.linkedin.com/company/twist-bioscience
-Nurix Therapeutics,"University of California, Berkeley",23,https://www.linkedin.com/company/nurixtx
-Nurix Therapeutics,San Francisco State University,14,https://www.linkedin.com/company/nurixtx
-Nurix Therapeutics,UC San Diego,12,https://www.linkedin.com/company/nurixtx
-Nurix Therapeutics,"University of California, Davis",10,https://www.linkedin.com/company/nurixtx
-Nurix Therapeutics,"University of California, Santa Cruz",8,https://www.linkedin.com/company/nurixtx
-Nurix Therapeutics,Stanford University,7,https://www.linkedin.com/company/nurixtx
-Nurix Therapeutics,"University of California, San Francisco",7,https://www.linkedin.com/company/nurixtx
-Nurix Therapeutics,UC Irvine,6,https://www.linkedin.com/company/nurixtx
-Nurix Therapeutics,"University of California, Los Angeles",6,https://www.linkedin.com/company/nurixtx
-Nurix Therapeutics,Skyline College,6,https://www.linkedin.com/company/nurixtx
-Nurix Therapeutics,San Jose State University,4,https://www.linkedin.com/company/nurixtx
-Nurix Therapeutics,Colorado State University,4,https://www.linkedin.com/company/nurixtx
-Nurix Therapeutics,University of Michigan,4,https://www.linkedin.com/company/nurixtx
-Nurix Therapeutics,The University of Texas at Austin,4,https://www.linkedin.com/company/nurixtx
-Nurix Therapeutics,College of San Mateo,4,https://www.linkedin.com/company/nurixtx
-"Iovance Biotherapeutics, Inc.",University of South Florida,14,https://www.linkedin.com/company/iovance
-"Iovance Biotherapeutics, Inc.","University of California, Davis",12,https://www.linkedin.com/company/iovance
-"Iovance Biotherapeutics, Inc.","University of California, Berkeley",8,https://www.linkedin.com/company/iovance
-"Iovance Biotherapeutics, Inc.",San Francisco State University,7,https://www.linkedin.com/company/iovance
-"Iovance Biotherapeutics, Inc.",Temple University,7,https://www.linkedin.com/company/iovance
-"Iovance Biotherapeutics, Inc.",University of Florida,6,https://www.linkedin.com/company/iovance
-"Iovance Biotherapeutics, Inc.",Rutgers University,6,https://www.linkedin.com/company/iovance
-"Iovance Biotherapeutics, Inc.",Villanova University,6,https://www.linkedin.com/company/iovance
-"Iovance Biotherapeutics, Inc.",California State University - East Bay,5,https://www.linkedin.com/company/iovance
-"Iovance Biotherapeutics, Inc.",San Jose State University,5,https://www.linkedin.com/company/iovance
-"Iovance Biotherapeutics, Inc.","University of California, Berkeley, Haas School of Business",5,https://www.linkedin.com/company/iovance
-"Iovance Biotherapeutics, Inc.","University of California, Los Angeles",5,https://www.linkedin.com/company/iovance
-"Iovance Biotherapeutics, Inc.",University of Southern California,5,https://www.linkedin.com/company/iovance
-"Iovance Biotherapeutics, Inc.",Drexel University,5,https://www.linkedin.com/company/iovance
-"Iovance Biotherapeutics, Inc.",The Wharton School,5,https://www.linkedin.com/company/iovance
-PacBio,UC San Diego,45,https://www.linkedin.com/company/pacbio
-PacBio,"University of California, Berkeley",35,https://www.linkedin.com/company/pacbio
-PacBio,San Jose State University,33,https://www.linkedin.com/company/pacbio
-PacBio,"University of California, Davis",32,https://www.linkedin.com/company/pacbio
-PacBio,San Diego State University,22,https://www.linkedin.com/company/pacbio
-PacBio,Stanford University,21,https://www.linkedin.com/company/pacbio
-PacBio,"University of California, Los Angeles",18,https://www.linkedin.com/company/pacbio
-PacBio,"University of California, Santa Cruz",18,https://www.linkedin.com/company/pacbio
-PacBio,Cornell University,16,https://www.linkedin.com/company/pacbio
-PacBio,University of Illinois Urbana-Champaign,13,https://www.linkedin.com/company/pacbio
-PacBio,Caltech,12,https://www.linkedin.com/company/pacbio
-PacBio,UC Irvine,12,https://www.linkedin.com/company/pacbio
-PacBio,The University of Texas at Austin,11,https://www.linkedin.com/company/pacbio
-PacBio,University of Southern California,9,https://www.linkedin.com/company/pacbio
-PacBio,Massachusetts Institute of Technology,8,https://www.linkedin.com/company/pacbio
-Zymergen,"University of California, Berkeley",46,https://www.linkedin.com/company/zymergen
-Zymergen,"University of California, Davis",46,https://www.linkedin.com/company/zymergen
-Zymergen,Stanford University,21,https://www.linkedin.com/company/zymergen
-Zymergen,"University of California, Santa Cruz",15,https://www.linkedin.com/company/zymergen
-Zymergen,California Polytechnic State University-San Luis Obispo,14,https://www.linkedin.com/company/zymergen
-Zymergen,San Francisco State University,13,https://www.linkedin.com/company/zymergen
-Zymergen,Massachusetts Institute of Technology,13,https://www.linkedin.com/company/zymergen
-Zymergen,Cornell University,11,https://www.linkedin.com/company/zymergen
-Zymergen,California State University - East Bay,10,https://www.linkedin.com/company/zymergen
-Zymergen,UC San Diego,10,https://www.linkedin.com/company/zymergen
-Zymergen,"University of California, Los Angeles",9,https://www.linkedin.com/company/zymergen
-Zymergen,UC Santa Barbara,9,https://www.linkedin.com/company/zymergen
-Zymergen,Georgia Institute of Technology,9,https://www.linkedin.com/company/zymergen
-Zymergen,Boston University,8,https://www.linkedin.com/company/zymergen
-Zymergen,Stanford University Graduate School of Business,7,https://www.linkedin.com/company/zymergen
-Cellectis,Pierre and Marie Curie University,20,https://www.linkedin.com/company/cellectis
-Cellectis,Paris-Sud University (Paris XI),16,https://www.linkedin.com/company/cellectis
-Cellectis,North Carolina State University,15,https://www.linkedin.com/company/cellectis
-Cellectis,Université de Paris,14,https://www.linkedin.com/company/cellectis
-Cellectis,École Polytechnique,5,https://www.linkedin.com/company/cellectis
-Cellectis,Conservatoire National des Arts et Métiers,4,https://www.linkedin.com/company/cellectis
-Cellectis,École Pratique des Hautes Études,4,https://www.linkedin.com/company/cellectis
-Cellectis,Aix-Marseille University,4,https://www.linkedin.com/company/cellectis
-Cellectis,University of Montpellier,4,https://www.linkedin.com/company/cellectis
-Cellectis,Université de Tours,4,https://www.linkedin.com/company/cellectis
-Cellectis,University of Cambridge,4,https://www.linkedin.com/company/cellectis
-Cellectis,University of North Carolina at Chapel Hill,4,https://www.linkedin.com/company/cellectis
-Cellectis,Stony Brook University,4,https://www.linkedin.com/company/cellectis
-Cellectis,Université Grenoble Alpes,4,https://www.linkedin.com/company/cellectis
-Cellectis,KEDGE Business School,3,https://www.linkedin.com/company/cellectis
-UiPath,Academia de Studii Economice din București,192,https://www.linkedin.com/company/uipath
-UiPath,University POLITEHNICA of Bucharest,187,https://www.linkedin.com/company/uipath
-UiPath,University of Bucharest,182,https://www.linkedin.com/company/uipath
-UiPath,Harvard Business School,38,https://www.linkedin.com/company/uipath
-UiPath,Universitatea „Alexandru Ioan Cuza” din Iași,33,https://www.linkedin.com/company/uipath
-UiPath,University of Washington,31,https://www.linkedin.com/company/uipath
-UiPath,Scoala Nationala de Studii Politice si Administrative (SNSPA),31,https://www.linkedin.com/company/uipath
-UiPath,Universitatea „Babeș-Bolyai” din Cluj-Napoca,30,https://www.linkedin.com/company/uipath
-UiPath,Visvesvaraya Technological University,26,https://www.linkedin.com/company/uipath
-UiPath,The University of Texas at Austin,24,https://www.linkedin.com/company/uipath
-UiPath,Eindhoven University of Technology,22,https://www.linkedin.com/company/uipath
-UiPath,Anna University,21,https://www.linkedin.com/company/uipath
-UiPath,The Wharton School,21,https://www.linkedin.com/company/uipath
-UiPath,Harvard Business School Online,12,https://www.linkedin.com/company/uipath
-UiPath,MIT Sloan School of Management,12,https://www.linkedin.com/company/uipath
-"Ionis Pharmaceuticals, Inc.",UC San Diego,62,https://www.linkedin.com/company/ionis-pharmaceuticals
-"Ionis Pharmaceuticals, Inc.",San Diego State University,33,https://www.linkedin.com/company/ionis-pharmaceuticals
-"Ionis Pharmaceuticals, Inc.",California State University San Marcos,20,https://www.linkedin.com/company/ionis-pharmaceuticals
-"Ionis Pharmaceuticals, Inc.",UC Irvine,19,https://www.linkedin.com/company/ionis-pharmaceuticals
-"Ionis Pharmaceuticals, Inc.",UC Santa Barbara,18,https://www.linkedin.com/company/ionis-pharmaceuticals
-"Ionis Pharmaceuticals, Inc.","University of California, Los Angeles",14,https://www.linkedin.com/company/ionis-pharmaceuticals
-"Ionis Pharmaceuticals, Inc.","University of California, Berkeley",10,https://www.linkedin.com/company/ionis-pharmaceuticals
-"Ionis Pharmaceuticals, Inc.",University of San Diego,9,https://www.linkedin.com/company/ionis-pharmaceuticals
-"Ionis Pharmaceuticals, Inc.",The University of Texas at Austin,9,https://www.linkedin.com/company/ionis-pharmaceuticals
-"Ionis Pharmaceuticals, Inc.",Palomar College,9,https://www.linkedin.com/company/ionis-pharmaceuticals
-"Ionis Pharmaceuticals, Inc.",University of Southern California,7,https://www.linkedin.com/company/ionis-pharmaceuticals
-"Ionis Pharmaceuticals, Inc.",Purdue University,7,https://www.linkedin.com/company/ionis-pharmaceuticals
-"Ionis Pharmaceuticals, Inc.",University of Michigan,7,https://www.linkedin.com/company/ionis-pharmaceuticals
-"Ionis Pharmaceuticals, Inc.",University of Minnesota,7,https://www.linkedin.com/company/ionis-pharmaceuticals
-"Ionis Pharmaceuticals, Inc.",Stanford University,6,https://www.linkedin.com/company/ionis-pharmaceuticals
-"Ginkgo Bioworks, Inc.",Massachusetts Institute of Technology,51,https://www.linkedin.com/company/ginkgo-bioworks
-"Ginkgo Bioworks, Inc.",University of Massachusetts Amherst,29,https://www.linkedin.com/company/ginkgo-bioworks
-"Ginkgo Bioworks, Inc.",Boston University,26,https://www.linkedin.com/company/ginkgo-bioworks
-"Ginkgo Bioworks, Inc.",Northeastern University,24,https://www.linkedin.com/company/ginkgo-bioworks
-"Ginkgo Bioworks, Inc.","University of California, Berkeley",23,https://www.linkedin.com/company/ginkgo-bioworks
-"Ginkgo Bioworks, Inc.",Harvard University,21,https://www.linkedin.com/company/ginkgo-bioworks
-"Ginkgo Bioworks, Inc.",University of Wisconsin-Madison,18,https://www.linkedin.com/company/ginkgo-bioworks
-"Ginkgo Bioworks, Inc.",University of Pennsylvania,14,https://www.linkedin.com/company/ginkgo-bioworks
-"Ginkgo Bioworks, Inc.",Northwestern University,13,https://www.linkedin.com/company/ginkgo-bioworks
-"Ginkgo Bioworks, Inc.",Cornell University,13,https://www.linkedin.com/company/ginkgo-bioworks
-"Ginkgo Bioworks, Inc.",University of Illinois Urbana-Champaign,12,https://www.linkedin.com/company/ginkgo-bioworks
-"Ginkgo Bioworks, Inc.",Harvard Business School,12,https://www.linkedin.com/company/ginkgo-bioworks
-"Ginkgo Bioworks, Inc.",Tufts University,11,https://www.linkedin.com/company/ginkgo-bioworks
-"Ginkgo Bioworks, Inc.",Duke University,10,https://www.linkedin.com/company/ginkgo-bioworks
-"Ginkgo Bioworks, Inc.",The University of Texas at Austin,10,https://www.linkedin.com/company/ginkgo-bioworks
-Pfizer,Technological University Dublin,771,https://www.linkedin.com/company/pfizer
-Pfizer,KU Leuven,591,https://www.linkedin.com/company/pfizer
-Pfizer,Rutgers University,547,https://www.linkedin.com/company/pfizer
-Pfizer,Penn State University,512,https://www.linkedin.com/company/pfizer
-Pfizer,North Carolina State University,414,https://www.linkedin.com/company/pfizer
-Pfizer,University of Michigan,389,https://www.linkedin.com/company/pfizer
-Pfizer,Cornell University,293,https://www.linkedin.com/company/pfizer
-Pfizer,New York University,289,https://www.linkedin.com/company/pfizer
-Pfizer,Columbia University in the City of New York,287,https://www.linkedin.com/company/pfizer
-Pfizer,FGV - Fundação Getulio Vargas,245,https://www.linkedin.com/company/pfizer
-Pfizer,University of Mumbai,239,https://www.linkedin.com/company/pfizer
-Pfizer,Cairo University,234,https://www.linkedin.com/company/pfizer
-Pfizer,Harvard University,214,https://www.linkedin.com/company/pfizer
-Pfizer,Aristotle University of Thessaloniki (AUTH),200,https://www.linkedin.com/company/pfizer
-Pfizer,University of Macedonia,150,https://www.linkedin.com/company/pfizer
-Teladoc Health,Universitat de Barcelona,100,https://www.linkedin.com/company/teladoc-health
-Teladoc Health,Universidad Nacional del Sur,77,https://www.linkedin.com/company/teladoc-health
-Teladoc Health,Universitat Autònoma de Barcelona,74,https://www.linkedin.com/company/teladoc-health
-Teladoc Health,UC Santa Barbara,66,https://www.linkedin.com/company/teladoc-health
-Teladoc Health,Arizona State University,48,https://www.linkedin.com/company/teladoc-health
-Teladoc Health,Stanford University,39,https://www.linkedin.com/company/teladoc-health
-Teladoc Health,University of Phoenix,33,https://www.linkedin.com/company/teladoc-health
-Teladoc Health,University of Illinois Chicago,33,https://www.linkedin.com/company/teladoc-health
-Teladoc Health,University of Illinois Urbana-Champaign,33,https://www.linkedin.com/company/teladoc-health
-Teladoc Health,University of Michigan,32,https://www.linkedin.com/company/teladoc-health
-Teladoc Health,"University of California, Berkeley",28,https://www.linkedin.com/company/teladoc-health
-Teladoc Health,University of North Texas,28,https://www.linkedin.com/company/teladoc-health
-Teladoc Health,"University of California, Los Angeles",25,https://www.linkedin.com/company/teladoc-health
-Teladoc Health,University of Arizona,24,https://www.linkedin.com/company/teladoc-health
-Teladoc Health,Belarusian State University of Informatics and Radioelectronics,14,https://www.linkedin.com/company/teladoc-health
-Palantir Technologies,Stanford University,127,https://www.linkedin.com/company/palantir-technologies
-Palantir Technologies,University of Oxford,95,https://www.linkedin.com/company/palantir-technologies
-Palantir Technologies,University of Cambridge,79,https://www.linkedin.com/company/palantir-technologies
-Palantir Technologies,Imperial College London,76,https://www.linkedin.com/company/palantir-technologies
-Palantir Technologies,"University of California, Berkeley",74,https://www.linkedin.com/company/palantir-technologies
-Palantir Technologies,Massachusetts Institute of Technology,74,https://www.linkedin.com/company/palantir-technologies
-Palantir Technologies,Cornell University,72,https://www.linkedin.com/company/palantir-technologies
-Palantir Technologies,Carnegie Mellon University,72,https://www.linkedin.com/company/palantir-technologies
-Palantir Technologies,Harvard University,67,https://www.linkedin.com/company/palantir-technologies
-Palantir Technologies,University of Pennsylvania,60,https://www.linkedin.com/company/palantir-technologies
-Palantir Technologies,Columbia University in the City of New York,47,https://www.linkedin.com/company/palantir-technologies
-Palantir Technologies,Georgia Institute of Technology,46,https://www.linkedin.com/company/palantir-technologies
-Palantir Technologies,Princeton University,45,https://www.linkedin.com/company/palantir-technologies
-Palantir Technologies,Georgetown University,43,https://www.linkedin.com/company/palantir-technologies
-Palantir Technologies,University of Maryland,39,https://www.linkedin.com/company/palantir-technologies
-Repare Therapeutics,McGill University,21,https://www.linkedin.com/company/repare-therapeutics
-Repare Therapeutics,Université de Montréal,16,https://www.linkedin.com/company/repare-therapeutics
-Repare Therapeutics,Concordia University,10,https://www.linkedin.com/company/repare-therapeutics
-Repare Therapeutics,Université de Sherbrooke,6,https://www.linkedin.com/company/repare-therapeutics
-Repare Therapeutics,University of Toronto,5,https://www.linkedin.com/company/repare-therapeutics
-Repare Therapeutics,University of Waterloo,5,https://www.linkedin.com/company/repare-therapeutics
-Repare Therapeutics,Northeastern University,4,https://www.linkedin.com/company/repare-therapeutics
-Repare Therapeutics,Queen's University,3,https://www.linkedin.com/company/repare-therapeutics
-Repare Therapeutics,Université du Québec - Institut national de la recherche scientifique,3,https://www.linkedin.com/company/repare-therapeutics
-Repare Therapeutics,Université du Québec à Montréal,3,https://www.linkedin.com/company/repare-therapeutics
-Repare Therapeutics,Stanford University,3,https://www.linkedin.com/company/repare-therapeutics
-Repare Therapeutics,Tufts University,3,https://www.linkedin.com/company/repare-therapeutics
-Repare Therapeutics,The University of British Columbia,2,https://www.linkedin.com/company/repare-therapeutics
-Repare Therapeutics,McMaster University,2,https://www.linkedin.com/company/repare-therapeutics
-Repare Therapeutics,Western University,2,https://www.linkedin.com/company/repare-therapeutics
-Verve Therapeutics,Northeastern University,18,https://www.linkedin.com/company/verve-therapeutics-inc
-Verve Therapeutics,Harvard Medical School,6,https://www.linkedin.com/company/verve-therapeutics-inc
-Verve Therapeutics,University of Massachusetts Amherst,5,https://www.linkedin.com/company/verve-therapeutics-inc
-Verve Therapeutics,Massachusetts Institute of Technology,4,https://www.linkedin.com/company/verve-therapeutics-inc
-Verve Therapeutics,University of New Hampshire,4,https://www.linkedin.com/company/verve-therapeutics-inc
-Verve Therapeutics,Colorado State University,3,https://www.linkedin.com/company/verve-therapeutics-inc
-Verve Therapeutics,Yale University,3,https://www.linkedin.com/company/verve-therapeutics-inc
-Verve Therapeutics,Clark University,3,https://www.linkedin.com/company/verve-therapeutics-inc
-Verve Therapeutics,UMass Chan Medical School,3,https://www.linkedin.com/company/verve-therapeutics-inc
-Verve Therapeutics,Worcester Polytechnic Institute,3,https://www.linkedin.com/company/verve-therapeutics-inc
-Verve Therapeutics,The Johns Hopkins University,3,https://www.linkedin.com/company/verve-therapeutics-inc
-Verve Therapeutics,Cornell University,3,https://www.linkedin.com/company/verve-therapeutics-inc
-Verve Therapeutics,Carnegie Mellon University,3,https://www.linkedin.com/company/verve-therapeutics-inc
-Verve Therapeutics,University of Pennsylvania,3,https://www.linkedin.com/company/verve-therapeutics-inc
-Verve Therapeutics,Andhra University,2,https://www.linkedin.com/company/verve-therapeutics-inc
-"CareDx, Inc.",San Jose State University,25,https://www.linkedin.com/company/care-dx-inc
-"CareDx, Inc.",San Francisco State University,21,https://www.linkedin.com/company/care-dx-inc
-"CareDx, Inc.","University of California, Davis",14,https://www.linkedin.com/company/care-dx-inc
-"CareDx, Inc.","University of California, Berkeley",13,https://www.linkedin.com/company/care-dx-inc
-"CareDx, Inc.","University of California, Santa Cruz",10,https://www.linkedin.com/company/care-dx-inc
-"CareDx, Inc.",University of Nebraska at Omaha,10,https://www.linkedin.com/company/care-dx-inc
-"CareDx, Inc.",The University of Western Australia,9,https://www.linkedin.com/company/care-dx-inc
-"CareDx, Inc.",KTH Royal Institute of Technology,7,https://www.linkedin.com/company/care-dx-inc
-"CareDx, Inc.",Stockholm University,7,https://www.linkedin.com/company/care-dx-inc
-"CareDx, Inc.",California State University - East Bay,7,https://www.linkedin.com/company/care-dx-inc
-"CareDx, Inc.",Stanford University,7,https://www.linkedin.com/company/care-dx-inc
-"CareDx, Inc.",University of Missouri-Columbia,6,https://www.linkedin.com/company/care-dx-inc
-"CareDx, Inc.",Curtin University,5,https://www.linkedin.com/company/care-dx-inc
-"CareDx, Inc.",Murdoch University,5,https://www.linkedin.com/company/care-dx-inc
-"CareDx, Inc.",Jawaharlal Nehru Technological University,5,https://www.linkedin.com/company/care-dx-inc
-Invitae,"University of California, Berkeley",77,https://www.linkedin.com/company/invitae
-Invitae,University of Colorado Boulder,72,https://www.linkedin.com/company/invitae
-Invitae,San Francisco State University,64,https://www.linkedin.com/company/invitae
-Invitae,"University of California, Davis",57,https://www.linkedin.com/company/invitae
-Invitae,UC San Diego,48,https://www.linkedin.com/company/invitae
-Invitae,UC Irvine,40,https://www.linkedin.com/company/invitae
-Invitae,"University of California, Los Angeles",38,https://www.linkedin.com/company/invitae
-Invitae,"University of California, Santa Cruz",37,https://www.linkedin.com/company/invitae
-Invitae,Colorado State University,37,https://www.linkedin.com/company/invitae
-Invitae,Stanford University,33,https://www.linkedin.com/company/invitae
-Invitae,UC Santa Barbara,31,https://www.linkedin.com/company/invitae
-Invitae,University of Washington,29,https://www.linkedin.com/company/invitae
-Invitae,San Jose State University,27,https://www.linkedin.com/company/invitae
-Invitae,University of Wisconsin-Madison,26,https://www.linkedin.com/company/invitae
-Invitae,Penn State University,24,https://www.linkedin.com/company/invitae
-Quantum-Si,University of Connecticut,13,https://www.linkedin.com/company/quantum-si
-Quantum-Si,Cornell University,8,https://www.linkedin.com/company/quantum-si
-Quantum-Si,"University of California, Berkeley",6,https://www.linkedin.com/company/quantum-si
-Quantum-Si,Yale University,6,https://www.linkedin.com/company/quantum-si
-Quantum-Si,Stanford University,5,https://www.linkedin.com/company/quantum-si
-Quantum-Si,University of Massachusetts Amherst,5,https://www.linkedin.com/company/quantum-si
-Quantum-Si,Arizona State University,4,https://www.linkedin.com/company/quantum-si
-Quantum-Si,Rutgers University,4,https://www.linkedin.com/company/quantum-si
-Quantum-Si,Caltech,3,https://www.linkedin.com/company/quantum-si
-Quantum-Si,UC Santa Barbara,3,https://www.linkedin.com/company/quantum-si
-Quantum-Si,Georgia Institute of Technology,3,https://www.linkedin.com/company/quantum-si
-Quantum-Si,Massachusetts Institute of Technology,3,https://www.linkedin.com/company/quantum-si
-Quantum-Si,Rensselaer Polytechnic Institute,3,https://www.linkedin.com/company/quantum-si
-Quantum-Si,Penn State University,3,https://www.linkedin.com/company/quantum-si
-Quantum-Si,The University of Texas at Austin,3,https://www.linkedin.com/company/quantum-si
-AquaBounty,Purdue University,5,https://www.linkedin.com/company/aquabounty
-AquaBounty,Ball State University,2,https://www.linkedin.com/company/aquabounty
-AquaBounty,University of Maine,2,https://www.linkedin.com/company/aquabounty
-AquaBounty,Vancouver Island University,1,https://www.linkedin.com/company/aquabounty
-AquaBounty,University of Victoria,1,https://www.linkedin.com/company/aquabounty
-AquaBounty,Dalhousie University,1,https://www.linkedin.com/company/aquabounty
-AquaBounty,University of Guelph,1,https://www.linkedin.com/company/aquabounty
-AquaBounty,University of Prince Edward Island,1,https://www.linkedin.com/company/aquabounty
-AquaBounty,McGill University - Macdonald Campus,1,https://www.linkedin.com/company/aquabounty
-AquaBounty,Universidad Austral de Chile,1,https://www.linkedin.com/company/aquabounty
-AquaBounty,Groupe Ecole supérieure d'Agriculture d'Angers,1,https://www.linkedin.com/company/aquabounty
-AquaBounty,University of Plymouth,1,https://www.linkedin.com/company/aquabounty
-AquaBounty,University of the Arts London,1,https://www.linkedin.com/company/aquabounty
-AquaBounty,University of Colombo,1,https://www.linkedin.com/company/aquabounty
-AquaBounty,Universidad de Panamá,1,https://www.linkedin.com/company/aquabounty
-Signify Health,Chamberlain University,76,https://www.linkedin.com/company/signifyhealth
-Signify Health,Walden University,67,https://www.linkedin.com/company/signifyhealth
-Signify Health,The University of Texas at Arlington,52,https://www.linkedin.com/company/signifyhealth
-Signify Health,University of North Texas,47,https://www.linkedin.com/company/signifyhealth
-Signify Health,South University,46,https://www.linkedin.com/company/signifyhealth
-Signify Health,Collin College,33,https://www.linkedin.com/company/signifyhealth
-Signify Health,Maryville University of Saint Louis,31,https://www.linkedin.com/company/signifyhealth
-Signify Health,University of Phoenix,30,https://www.linkedin.com/company/signifyhealth
-Signify Health,The University of Texas at Dallas,30,https://www.linkedin.com/company/signifyhealth
-Signify Health,Texas Woman's University,25,https://www.linkedin.com/company/signifyhealth
-Signify Health,Texas A&M University,21,https://www.linkedin.com/company/signifyhealth
-Signify Health,Grand Canyon University,20,https://www.linkedin.com/company/signifyhealth
-Signify Health,University of Cincinnati,16,https://www.linkedin.com/company/signifyhealth
-Signify Health,Purdue University Global,14,https://www.linkedin.com/company/signifyhealth
-Signify Health,Dallas College,12,https://www.linkedin.com/company/signifyhealth
-Arcturus Therapeutics,UC San Diego,26,https://www.linkedin.com/company/arcturus-therapeutics
+Ionis Pharmaceuticals, Inc.,UC San Diego,67,https://www.linkedin.com/company/ionis-pharmaceuticals
+Ionis Pharmaceuticals, Inc.,San Diego State University,33,https://www.linkedin.com/company/ionis-pharmaceuticals
+Ionis Pharmaceuticals, Inc.,UC Irvine,20,https://www.linkedin.com/company/ionis-pharmaceuticals
+Ionis Pharmaceuticals, Inc.,California State University San Marcos,19,https://www.linkedin.com/company/ionis-pharmaceuticals
+Ionis Pharmaceuticals, Inc.,University of California, Los Angeles,17,https://www.linkedin.com/company/ionis-pharmaceuticals
+Ionis Pharmaceuticals, Inc.,UC Santa Barbara,16,https://www.linkedin.com/company/ionis-pharmaceuticals
+Ionis Pharmaceuticals, Inc.,University of California, Berkeley,12,https://www.linkedin.com/company/ionis-pharmaceuticals
+Ionis Pharmaceuticals, Inc.,University of San Diego,11,https://www.linkedin.com/company/ionis-pharmaceuticals
+Ionis Pharmaceuticals, Inc.,The University of Texas at Austin,10,https://www.linkedin.com/company/ionis-pharmaceuticals
+Ionis Pharmaceuticals, Inc.,Palomar College,9,https://www.linkedin.com/company/ionis-pharmaceuticals
+Ionis Pharmaceuticals, Inc.,University of California, Riverside,8,https://www.linkedin.com/company/ionis-pharmaceuticals
+Ionis Pharmaceuticals, Inc.,University of California, San Diego - School of Medicine,8,https://www.linkedin.com/company/ionis-pharmaceuticals
+Ionis Pharmaceuticals, Inc.,University of Southern California,8,https://www.linkedin.com/company/ionis-pharmaceuticals
+Ionis Pharmaceuticals, Inc.,University of Minnesota,8,https://www.linkedin.com/company/ionis-pharmaceuticals
+Ionis Pharmaceuticals, Inc.,UC San Diego Extended Studies,8,https://www.linkedin.com/company/ionis-pharmaceuticals
+Arcturus Therapeutics,UC San Diego,25,https://www.linkedin.com/company/arcturus-therapeutics
 Arcturus Therapeutics,San Diego State University,9,https://www.linkedin.com/company/arcturus-therapeutics
-Arcturus Therapeutics,"University of California, Los Angeles",8,https://www.linkedin.com/company/arcturus-therapeutics
+Arcturus Therapeutics,University of California, Los Angeles,8,https://www.linkedin.com/company/arcturus-therapeutics
 Arcturus Therapeutics,California State University San Marcos,5,https://www.linkedin.com/company/arcturus-therapeutics
 Arcturus Therapeutics,UC Irvine,5,https://www.linkedin.com/company/arcturus-therapeutics
 Arcturus Therapeutics,UC Santa Barbara,5,https://www.linkedin.com/company/arcturus-therapeutics
 Arcturus Therapeutics,Brigham Young University,4,https://www.linkedin.com/company/arcturus-therapeutics
+Arcturus Therapeutics,Savitribai Phule Pune University,3,https://www.linkedin.com/company/arcturus-therapeutics
 Arcturus Therapeutics,National University,3,https://www.linkedin.com/company/arcturus-therapeutics
-Arcturus Therapeutics,"University of California, Berkeley",3,https://www.linkedin.com/company/arcturus-therapeutics
 Arcturus Therapeutics,El Camino College,3,https://www.linkedin.com/company/arcturus-therapeutics
 Arcturus Therapeutics,San Diego Miramar College,3,https://www.linkedin.com/company/arcturus-therapeutics
-Arcturus Therapeutics,Imperial College London,2,https://www.linkedin.com/company/arcturus-therapeutics
 Arcturus Therapeutics,The Hebrew University of Jerusalem,2,https://www.linkedin.com/company/arcturus-therapeutics
-Arcturus Therapeutics,Savitribai Phule Pune University,2,https://www.linkedin.com/company/arcturus-therapeutics
 Arcturus Therapeutics,University of Arizona,2,https://www.linkedin.com/company/arcturus-therapeutics
-Surface Oncology Inc.,University of Massachusetts Boston,6,https://www.linkedin.com/company/surface-oncology
-Surface Oncology Inc.,Harvard Medical School,5,https://www.linkedin.com/company/surface-oncology
-Surface Oncology Inc.,Northeastern University,5,https://www.linkedin.com/company/surface-oncology
-Surface Oncology Inc.,University of Massachusetts Amherst,5,https://www.linkedin.com/company/surface-oncology
-Surface Oncology Inc.,University of New Hampshire,5,https://www.linkedin.com/company/surface-oncology
-Surface Oncology Inc.,Boston University,4,https://www.linkedin.com/company/surface-oncology
-Surface Oncology Inc.,Harvard University,4,https://www.linkedin.com/company/surface-oncology
-Surface Oncology Inc.,University of Rochester,4,https://www.linkedin.com/company/surface-oncology
-Surface Oncology Inc.,Suffolk University Law School,3,https://www.linkedin.com/company/surface-oncology
-Surface Oncology Inc.,University of Massachusetts Lowell,3,https://www.linkedin.com/company/surface-oncology
-Surface Oncology Inc.,McGill University,2,https://www.linkedin.com/company/surface-oncology
-Surface Oncology Inc.,"University of California, Berkeley",2,https://www.linkedin.com/company/surface-oncology
-Surface Oncology Inc.,University of Colorado Boulder,2,https://www.linkedin.com/company/surface-oncology
-Surface Oncology Inc.,University of Chicago,2,https://www.linkedin.com/company/surface-oncology
-Surface Oncology Inc.,University of Illinois Chicago,2,https://www.linkedin.com/company/surface-oncology
-908 Devices,Northeastern University,13,https://www.linkedin.com/company/908-devices
-908 Devices,Boston University,10,https://www.linkedin.com/company/908-devices
-908 Devices,Wentworth Institute of Technology,8,https://www.linkedin.com/company/908-devices
-908 Devices,University of North Carolina at Chapel Hill,6,https://www.linkedin.com/company/908-devices
-908 Devices,Bentley University,4,https://www.linkedin.com/company/908-devices
-908 Devices,University of Michigan,4,https://www.linkedin.com/company/908-devices
-908 Devices,University of Rochester,4,https://www.linkedin.com/company/908-devices
-908 Devices,Merrimack College,4,https://www.linkedin.com/company/908-devices
-908 Devices,Dalhousie University,3,https://www.linkedin.com/company/908-devices
-908 Devices,California Polytechnic State University-San Luis Obispo,3,https://www.linkedin.com/company/908-devices
-908 Devices,Iowa State University,3,https://www.linkedin.com/company/908-devices
-908 Devices,University of Massachusetts Boston,3,https://www.linkedin.com/company/908-devices
-908 Devices,University of Alberta,2,https://www.linkedin.com/company/908-devices
-908 Devices,University of Waterloo,2,https://www.linkedin.com/company/908-devices
-908 Devices,University of Bradford,2,https://www.linkedin.com/company/908-devices
-燃石医学 Burning Rock Biotech,Fudan University,5,https://www.linkedin.com/company/burning-rock-biotech
-燃石医学 Burning Rock Biotech,Jinan University,5,https://www.linkedin.com/company/burning-rock-biotech
-燃石医学 Burning Rock Biotech,Shanghai Jiao Tong University,4,https://www.linkedin.com/company/burning-rock-biotech
-燃石医学 Burning Rock Biotech,Tongji University,4,https://www.linkedin.com/company/burning-rock-biotech
-燃石医学 Burning Rock Biotech,Peking University Health Science Center,4,https://www.linkedin.com/company/burning-rock-biotech
-燃石医学 Burning Rock Biotech,East China University of Science and Technology,3,https://www.linkedin.com/company/burning-rock-biotech
-燃石医学 Burning Rock Biotech,Jilin University,3,https://www.linkedin.com/company/burning-rock-biotech
-燃石医学 Burning Rock Biotech,Peking University,3,https://www.linkedin.com/company/burning-rock-biotech
-燃石医学 Burning Rock Biotech,University of Science and Technology of China,3,https://www.linkedin.com/company/burning-rock-biotech
-燃石医学 Burning Rock Biotech,Zhejiang University,3,https://www.linkedin.com/company/burning-rock-biotech
-燃石医学 Burning Rock Biotech,Anhui University,2,https://www.linkedin.com/company/burning-rock-biotech
-燃石医学 Burning Rock Biotech,Central South University,2,https://www.linkedin.com/company/burning-rock-biotech
-燃石医学 Burning Rock Biotech,East China Normal University,2,https://www.linkedin.com/company/burning-rock-biotech
-燃石医学 Burning Rock Biotech,Guangdong University of Technology,2,https://www.linkedin.com/company/burning-rock-biotech
-燃石医学 Burning Rock Biotech,Nanjing University,2,https://www.linkedin.com/company/burning-rock-biotech
-Exact Sciences,University of Wisconsin-Madison,550,https://www.linkedin.com/company/exact-sciences
-Exact Sciences,Madison Area Technical College,227,https://www.linkedin.com/company/exact-sciences
-Exact Sciences,University of Wisconsin-Whitewater,135,https://www.linkedin.com/company/exact-sciences
-Exact Sciences,University of Wisconsin-La Crosse,94,https://www.linkedin.com/company/exact-sciences
-Exact Sciences,University of Wisconsin-Milwaukee,94,https://www.linkedin.com/company/exact-sciences
-Exact Sciences,Edgewood College,68,https://www.linkedin.com/company/exact-sciences
-Exact Sciences,Arizona State University,60,https://www.linkedin.com/company/exact-sciences
-Exact Sciences,University of Wisconsin-Platteville,58,https://www.linkedin.com/company/exact-sciences
-Exact Sciences,San Jose State University,56,https://www.linkedin.com/company/exact-sciences
-Exact Sciences,University of Phoenix,52,https://www.linkedin.com/company/exact-sciences
-Exact Sciences,University of Wisconsin-Stevens Point,52,https://www.linkedin.com/company/exact-sciences
-Exact Sciences,University of Wisconsin Oshkosh,51,https://www.linkedin.com/company/exact-sciences
-Exact Sciences,Wisconsin School of Business,50,https://www.linkedin.com/company/exact-sciences
-Exact Sciences,University of Wisconsin-Eau Claire,48,https://www.linkedin.com/company/exact-sciences
-Exact Sciences,University of Minnesota,40,https://www.linkedin.com/company/exact-sciences
-Fate Therapeutics Inc,UC San Diego,53,https://www.linkedin.com/company/fate-therapeutics-inc
-Fate Therapeutics Inc,San Diego State University,31,https://www.linkedin.com/company/fate-therapeutics-inc
-Fate Therapeutics Inc,California State University San Marcos,13,https://www.linkedin.com/company/fate-therapeutics-inc
-Fate Therapeutics Inc,UC Irvine,12,https://www.linkedin.com/company/fate-therapeutics-inc
-Fate Therapeutics Inc,"University of California, Los Angeles",12,https://www.linkedin.com/company/fate-therapeutics-inc
-Fate Therapeutics Inc,"University of California, Berkeley",11,https://www.linkedin.com/company/fate-therapeutics-inc
-Fate Therapeutics Inc,"University of California, Riverside",10,https://www.linkedin.com/company/fate-therapeutics-inc
-Fate Therapeutics Inc,"University of California, Davis",8,https://www.linkedin.com/company/fate-therapeutics-inc
-Fate Therapeutics Inc,"University of California, Santa Cruz",8,https://www.linkedin.com/company/fate-therapeutics-inc
-Fate Therapeutics Inc,UC Santa Barbara,7,https://www.linkedin.com/company/fate-therapeutics-inc
-Fate Therapeutics Inc,Peking University,6,https://www.linkedin.com/company/fate-therapeutics-inc
-Fate Therapeutics Inc,California Polytechnic State University-San Luis Obispo,6,https://www.linkedin.com/company/fate-therapeutics-inc
-Fate Therapeutics Inc,University of Southern California,6,https://www.linkedin.com/company/fate-therapeutics-inc
-Fate Therapeutics Inc,California State Polytechnic University-Pomona,5,https://www.linkedin.com/company/fate-therapeutics-inc
-Fate Therapeutics Inc,"California State University, Northridge",5,https://www.linkedin.com/company/fate-therapeutics-inc
-Schrödinger,Columbia University in the City of New York,28,https://www.linkedin.com/company/schr-dinger
-Schrödinger,Cornell University,14,https://www.linkedin.com/company/schr-dinger
-Schrödinger,Oregon State University,14,https://www.linkedin.com/company/schr-dinger
-Schrödinger,Yale University,13,https://www.linkedin.com/company/schr-dinger
-Schrödinger,University of Florida,12,https://www.linkedin.com/company/schr-dinger
-Schrödinger,University of Pennsylvania,11,https://www.linkedin.com/company/schr-dinger
-Schrödinger,"University of California, Berkeley",10,https://www.linkedin.com/company/schr-dinger
-Schrödinger,New York University,9,https://www.linkedin.com/company/schr-dinger
-Schrödinger,University of Oregon,9,https://www.linkedin.com/company/schr-dinger
-Schrödinger,University of Washington,9,https://www.linkedin.com/company/schr-dinger
-Schrödinger,UC San Diego,8,https://www.linkedin.com/company/schr-dinger
-Schrödinger,University of Minnesota,8,https://www.linkedin.com/company/schr-dinger
-Schrödinger,Rutgers University,8,https://www.linkedin.com/company/schr-dinger
-Schrödinger,Stony Brook University,8,https://www.linkedin.com/company/schr-dinger
-Schrödinger,University at Buffalo,7,https://www.linkedin.com/company/schr-dinger
-"Butterfly Network, Inc.",Northeastern University,10,https://www.linkedin.com/company/butterflynetwork
-"Butterfly Network, Inc.",Cornell University,10,https://www.linkedin.com/company/butterflynetwork
-"Butterfly Network, Inc.",Boston University,9,https://www.linkedin.com/company/butterflynetwork
-"Butterfly Network, Inc.",Massachusetts Institute of Technology,9,https://www.linkedin.com/company/butterflynetwork
-"Butterfly Network, Inc.",Yale University,8,https://www.linkedin.com/company/butterflynetwork
-"Butterfly Network, Inc.","University of California, Berkeley",7,https://www.linkedin.com/company/butterflynetwork
-"Butterfly Network, Inc.",University of Connecticut,7,https://www.linkedin.com/company/butterflynetwork
-"Butterfly Network, Inc.",Columbia University in the City of New York,7,https://www.linkedin.com/company/butterflynetwork
-"Butterfly Network, Inc.",Stanford University,6,https://www.linkedin.com/company/butterflynetwork
-"Butterfly Network, Inc.",Duke University,6,https://www.linkedin.com/company/butterflynetwork
-"Butterfly Network, Inc.",Southern New Hampshire University,6,https://www.linkedin.com/company/butterflynetwork
-"Butterfly Network, Inc.",Rensselaer Polytechnic Institute,6,https://www.linkedin.com/company/butterflynetwork
-"Butterfly Network, Inc.",Carnegie Mellon University,6,https://www.linkedin.com/company/butterflynetwork
-"Butterfly Network, Inc.",Harvard University,5,https://www.linkedin.com/company/butterflynetwork
-"Butterfly Network, Inc.",University of Michigan,5,https://www.linkedin.com/company/butterflynetwork
-SomaLogic,University of Colorado Boulder,50,https://www.linkedin.com/company/somalogic
-SomaLogic,Colorado State University,29,https://www.linkedin.com/company/somalogic
-SomaLogic,University of Colorado Denver,13,https://www.linkedin.com/company/somalogic
-SomaLogic,University of Denver,9,https://www.linkedin.com/company/somalogic
-SomaLogic,"University of California, Davis",8,https://www.linkedin.com/company/somalogic
-SomaLogic,Front Range Community College,8,https://www.linkedin.com/company/somalogic
-SomaLogic,University of Colorado Anschutz Medical Campus,7,https://www.linkedin.com/company/somalogic
-SomaLogic,Harvard University,6,https://www.linkedin.com/company/somalogic
-SomaLogic,The University of Texas at Austin,6,https://www.linkedin.com/company/somalogic
-SomaLogic,University of Wisconsin-Madison,6,https://www.linkedin.com/company/somalogic
-SomaLogic,University of Phoenix,5,https://www.linkedin.com/company/somalogic
-SomaLogic,Regis University,5,https://www.linkedin.com/company/somalogic
-SomaLogic,University of Maryland,5,https://www.linkedin.com/company/somalogic
-SomaLogic,University of Minnesota,5,https://www.linkedin.com/company/somalogic
-SomaLogic,Stanford University,4,https://www.linkedin.com/company/somalogic
-Regeneron,University of Limerick,459,https://www.linkedin.com/company/regeneron-pharmaceuticals
-Regeneron,"University at Albany, SUNY",402,https://www.linkedin.com/company/regeneron-pharmaceuticals
-Regeneron,Limerick Institute of Technology,281,https://www.linkedin.com/company/regeneron-pharmaceuticals
-Regeneron,Rensselaer Polytechnic Institute,274,https://www.linkedin.com/company/regeneron-pharmaceuticals
-Regeneron,Rutgers University,240,https://www.linkedin.com/company/regeneron-pharmaceuticals
-Regeneron,"National University of Ireland, Galway",200,https://www.linkedin.com/company/regeneron-pharmaceuticals
-Regeneron,Hudson Valley Community College,193,https://www.linkedin.com/company/regeneron-pharmaceuticals
-Regeneron,University College Cork,184,https://www.linkedin.com/company/regeneron-pharmaceuticals
-Regeneron,Cornell University,146,https://www.linkedin.com/company/regeneron-pharmaceuticals
-Regeneron,University at Buffalo,135,https://www.linkedin.com/company/regeneron-pharmaceuticals
-Regeneron,Columbia University in the City of New York,131,https://www.linkedin.com/company/regeneron-pharmaceuticals
-Regeneron,Penn State University,130,https://www.linkedin.com/company/regeneron-pharmaceuticals
-Regeneron,Binghamton University,128,https://www.linkedin.com/company/regeneron-pharmaceuticals
-Regeneron,Clarkson University,123,https://www.linkedin.com/company/regeneron-pharmaceuticals
-Regeneron,Stony Brook University,117,https://www.linkedin.com/company/regeneron-pharmaceuticals
-Veeva Systems,University of Waterloo,99,https://www.linkedin.com/company/veeva-systems
-Veeva Systems,"University of California, Berkeley",90,https://www.linkedin.com/company/veeva-systems
-Veeva Systems,Penn State University,78,https://www.linkedin.com/company/veeva-systems
-Veeva Systems,University of Toronto,70,https://www.linkedin.com/company/veeva-systems
-Veeva Systems,The Ohio State University,68,https://www.linkedin.com/company/veeva-systems
-Veeva Systems,Eötvös Loránd University,54,https://www.linkedin.com/company/veeva-systems
-Veeva Systems,California Polytechnic State University-San Luis Obispo,51,https://www.linkedin.com/company/veeva-systems
-Veeva Systems,San Jose State University,51,https://www.linkedin.com/company/veeva-systems
-Veeva Systems,Drexel University,50,https://www.linkedin.com/company/veeva-systems
-Veeva Systems,Budapest University of Technology and Economics,42,https://www.linkedin.com/company/veeva-systems
-Veeva Systems,Rutgers University,42,https://www.linkedin.com/company/veeva-systems
-Veeva Systems,"University of California, Davis",41,https://www.linkedin.com/company/veeva-systems
-Veeva Systems,UC Irvine,41,https://www.linkedin.com/company/veeva-systems
-Veeva Systems,Northeastern University,40,https://www.linkedin.com/company/veeva-systems
-Veeva Systems,Corvinus University of Budapest,36,https://www.linkedin.com/company/veeva-systems
-Editas Medicine,Northeastern University,28,https://www.linkedin.com/company/editas-medicine
-Editas Medicine,Boston University,13,https://www.linkedin.com/company/editas-medicine
-Editas Medicine,University of Massachusetts Amherst,8,https://www.linkedin.com/company/editas-medicine
-Editas Medicine,Emmanuel College (Boston),6,https://www.linkedin.com/company/editas-medicine
-Editas Medicine,Cornell University,6,https://www.linkedin.com/company/editas-medicine
-Editas Medicine,University of Massachusetts Boston,5,https://www.linkedin.com/company/editas-medicine
-Editas Medicine,Rutgers University,5,https://www.linkedin.com/company/editas-medicine
-Editas Medicine,Rensselaer Polytechnic Institute,5,https://www.linkedin.com/company/editas-medicine
-Editas Medicine,University of Massachusetts Lowell,5,https://www.linkedin.com/company/editas-medicine
-Editas Medicine,University of Mumbai,4,https://www.linkedin.com/company/editas-medicine
-Editas Medicine,"University of California, Berkeley",4,https://www.linkedin.com/company/editas-medicine
-Editas Medicine,University of Colorado Boulder,4,https://www.linkedin.com/company/editas-medicine
-Editas Medicine,University of Connecticut,4,https://www.linkedin.com/company/editas-medicine
-Editas Medicine,University of New Hampshire,4,https://www.linkedin.com/company/editas-medicine
-Editas Medicine,University of Rhode Island,4,https://www.linkedin.com/company/editas-medicine
-Vertex Pharmaceuticals,Northeastern University,206,https://www.linkedin.com/company/vertex-pharmaceuticals
-Vertex Pharmaceuticals,Boston University,122,https://www.linkedin.com/company/vertex-pharmaceuticals
-Vertex Pharmaceuticals,University of Massachusetts Amherst,98,https://www.linkedin.com/company/vertex-pharmaceuticals
-Vertex Pharmaceuticals,Harvard University,81,https://www.linkedin.com/company/vertex-pharmaceuticals
-Vertex Pharmaceuticals,University of Massachusetts Boston,66,https://www.linkedin.com/company/vertex-pharmaceuticals
-Vertex Pharmaceuticals,Massachusetts Institute of Technology,65,https://www.linkedin.com/company/vertex-pharmaceuticals
-Vertex Pharmaceuticals,UC San Diego,63,https://www.linkedin.com/company/vertex-pharmaceuticals
-Vertex Pharmaceuticals,Boston College,55,https://www.linkedin.com/company/vertex-pharmaceuticals
-Vertex Pharmaceuticals,Tufts University,49,https://www.linkedin.com/company/vertex-pharmaceuticals
-Vertex Pharmaceuticals,University of Massachusetts Lowell,48,https://www.linkedin.com/company/vertex-pharmaceuticals
-Vertex Pharmaceuticals,Rutgers University,47,https://www.linkedin.com/company/vertex-pharmaceuticals
-Vertex Pharmaceuticals,University of Rhode Island,40,https://www.linkedin.com/company/vertex-pharmaceuticals
-Vertex Pharmaceuticals,University of Oxford,38,https://www.linkedin.com/company/vertex-pharmaceuticals
-Vertex Pharmaceuticals,Worcester Polytechnic Institute,38,https://www.linkedin.com/company/vertex-pharmaceuticals
-Vertex Pharmaceuticals,University of New Hampshire,35,https://www.linkedin.com/company/vertex-pharmaceuticals
-"Veracyte, Inc.",Aix-Marseille University,25,https://www.linkedin.com/company/veracyte-inc.
-"Veracyte, Inc.","University of California, Davis",22,https://www.linkedin.com/company/veracyte-inc.
-"Veracyte, Inc.",San Jose State University,20,https://www.linkedin.com/company/veracyte-inc.
-"Veracyte, Inc.",UC San Diego,12,https://www.linkedin.com/company/veracyte-inc.
-"Veracyte, Inc.","University of California, Berkeley",11,https://www.linkedin.com/company/veracyte-inc.
-"Veracyte, Inc.",San Francisco State University,10,https://www.linkedin.com/company/veracyte-inc.
-"Veracyte, Inc.",Université de Toulon,7,https://www.linkedin.com/company/veracyte-inc.
-"Veracyte, Inc.",University of Phoenix,7,https://www.linkedin.com/company/veracyte-inc.
-"Veracyte, Inc.",Austin Community College,7,https://www.linkedin.com/company/veracyte-inc.
-"Veracyte, Inc.",Université Claude Bernard Lyon 1,6,https://www.linkedin.com/company/veracyte-inc.
-"Veracyte, Inc.",University of Montpellier,6,https://www.linkedin.com/company/veracyte-inc.
-"Veracyte, Inc.","University of California, Santa Cruz",6,https://www.linkedin.com/company/veracyte-inc.
-"Veracyte, Inc.",Polytech Marseille,6,https://www.linkedin.com/company/veracyte-inc.
-"Veracyte, Inc.",California Polytechnic State University-San Luis Obispo,5,https://www.linkedin.com/company/veracyte-inc.
-"Veracyte, Inc.","University of California, Los Angeles",5,https://www.linkedin.com/company/veracyte-inc.
-One Medical,San Francisco State University,78,https://www.linkedin.com/company/one-medical-group
-One Medical,"University of California, Berkeley",76,https://www.linkedin.com/company/one-medical-group
-One Medical,"University of California, Los Angeles",35,https://www.linkedin.com/company/one-medical-group
-One Medical,San Jose State University,33,https://www.linkedin.com/company/one-medical-group
-One Medical,"University of California, Davis",32,https://www.linkedin.com/company/one-medical-group
-One Medical,Arizona State University,25,https://www.linkedin.com/company/one-medical-group
-One Medical,"University of California, San Francisco",25,https://www.linkedin.com/company/one-medical-group
-One Medical,New York University,23,https://www.linkedin.com/company/one-medical-group
-One Medical,University of San Francisco,22,https://www.linkedin.com/company/one-medical-group
-One Medical,"University of California, Santa Cruz",21,https://www.linkedin.com/company/one-medical-group
-One Medical,Stanford University,20,https://www.linkedin.com/company/one-medical-group
-One Medical,Columbia University in the City of New York,18,https://www.linkedin.com/company/one-medical-group
-One Medical,City College of San Francisco,18,https://www.linkedin.com/company/one-medical-group
-One Medical,University of Washington,16,https://www.linkedin.com/company/one-medical-group
-One Medical,Columbia University School of Nursing,12,https://www.linkedin.com/company/one-medical-group
-Recursion,University of Utah,80,https://www.linkedin.com/company/recursion-pharmaceuticals
-Recursion,Brigham Young University,32,https://www.linkedin.com/company/recursion-pharmaceuticals
-Recursion,Utah Valley University,14,https://www.linkedin.com/company/recursion-pharmaceuticals
-Recursion,Utah State University,12,https://www.linkedin.com/company/recursion-pharmaceuticals
-Recursion,Salt Lake Community College,12,https://www.linkedin.com/company/recursion-pharmaceuticals
-Recursion,University of Washington,10,https://www.linkedin.com/company/recursion-pharmaceuticals
-Recursion,Stanford University,9,https://www.linkedin.com/company/recursion-pharmaceuticals
-Recursion,University of Colorado Boulder,9,https://www.linkedin.com/company/recursion-pharmaceuticals
-Recursion,University of Utah - David Eccles School of Business,9,https://www.linkedin.com/company/recursion-pharmaceuticals
-Recursion,University of Toronto,8,https://www.linkedin.com/company/recursion-pharmaceuticals
-Recursion,"University of California, Davis",8,https://www.linkedin.com/company/recursion-pharmaceuticals
-Recursion,The University of Texas at Austin,8,https://www.linkedin.com/company/recursion-pharmaceuticals
-Recursion,Weber State University,8,https://www.linkedin.com/company/recursion-pharmaceuticals
-Recursion,"University of California, Berkeley",7,https://www.linkedin.com/company/recursion-pharmaceuticals
-Recursion,Harvard University,7,https://www.linkedin.com/company/recursion-pharmaceuticals
-Beam Therapeutics,Northeastern University,42,https://www.linkedin.com/company/beamtx
-Beam Therapeutics,Harvard University,21,https://www.linkedin.com/company/beamtx
-Beam Therapeutics,University of Massachusetts Amherst,21,https://www.linkedin.com/company/beamtx
-Beam Therapeutics,Boston University,14,https://www.linkedin.com/company/beamtx
-Beam Therapeutics,Yale University,9,https://www.linkedin.com/company/beamtx
-Beam Therapeutics,Massachusetts Institute of Technology,9,https://www.linkedin.com/company/beamtx
-Beam Therapeutics,North Carolina State University,9,https://www.linkedin.com/company/beamtx
-Beam Therapeutics,University of Illinois Urbana-Champaign,8,https://www.linkedin.com/company/beamtx
-Beam Therapeutics,"University of California, Berkeley",7,https://www.linkedin.com/company/beamtx
-Beam Therapeutics,University of Massachusetts Boston,7,https://www.linkedin.com/company/beamtx
-Beam Therapeutics,Worcester Polytechnic Institute,7,https://www.linkedin.com/company/beamtx
-Beam Therapeutics,University of New Hampshire,7,https://www.linkedin.com/company/beamtx
-Beam Therapeutics,University of Wisconsin-Madison,6,https://www.linkedin.com/company/beamtx
-Beam Therapeutics,University of Connecticut,5,https://www.linkedin.com/company/beamtx
-Beam Therapeutics,Boston College,5,https://www.linkedin.com/company/beamtx
-CRISPR Therapeutics,Northeastern University,36,https://www.linkedin.com/company/crispr-therapeutics
-CRISPR Therapeutics,Boston University,19,https://www.linkedin.com/company/crispr-therapeutics
-CRISPR Therapeutics,University of New Hampshire,15,https://www.linkedin.com/company/crispr-therapeutics
-CRISPR Therapeutics,The Johns Hopkins University,11,https://www.linkedin.com/company/crispr-therapeutics
-CRISPR Therapeutics,University of Massachusetts Amherst,10,https://www.linkedin.com/company/crispr-therapeutics
-CRISPR Therapeutics,Cornell University,10,https://www.linkedin.com/company/crispr-therapeutics
-CRISPR Therapeutics,University of Massachusetts Lowell,10,https://www.linkedin.com/company/crispr-therapeutics
-CRISPR Therapeutics,University of Illinois Urbana-Champaign,9,https://www.linkedin.com/company/crispr-therapeutics
-CRISPR Therapeutics,University of North Carolina at Chapel Hill,9,https://www.linkedin.com/company/crispr-therapeutics
-CRISPR Therapeutics,Rutgers University,9,https://www.linkedin.com/company/crispr-therapeutics
-CRISPR Therapeutics,Massachusetts Institute of Technology,8,https://www.linkedin.com/company/crispr-therapeutics
-CRISPR Therapeutics,Worcester Polytechnic Institute,8,https://www.linkedin.com/company/crispr-therapeutics
-CRISPR Therapeutics,University of Connecticut,7,https://www.linkedin.com/company/crispr-therapeutics
-CRISPR Therapeutics,Tufts University,7,https://www.linkedin.com/company/crispr-therapeutics
-CRISPR Therapeutics,University of Pennsylvania,7,https://www.linkedin.com/company/crispr-therapeutics
-Cerus,"University of California, Davis",16,https://www.linkedin.com/company/cerus
-Cerus,"University of California, Berkeley",13,https://www.linkedin.com/company/cerus
-Cerus,California State University - East Bay,12,https://www.linkedin.com/company/cerus
-Cerus,San Francisco State University,12,https://www.linkedin.com/company/cerus
-Cerus,San Jose State University,7,https://www.linkedin.com/company/cerus
-Cerus,California Polytechnic State University-San Luis Obispo,6,https://www.linkedin.com/company/cerus
-Cerus,Saint Mary's College of California,5,https://www.linkedin.com/company/cerus
-Cerus,"University of California, Los Angeles",5,https://www.linkedin.com/company/cerus
-Cerus,"University of California, Santa Cruz",5,https://www.linkedin.com/company/cerus
-Cerus,University of Phoenix,4,https://www.linkedin.com/company/cerus
-Cerus,Stanford University,4,https://www.linkedin.com/company/cerus
-Cerus,University of Southern California,4,https://www.linkedin.com/company/cerus
-Cerus,Texas A&M University,4,https://www.linkedin.com/company/cerus
-Cerus,University of Wisconsin-Madison,4,https://www.linkedin.com/company/cerus
-Cerus,"California State University, Fresno",3,https://www.linkedin.com/company/cerus
-10x Genomics,"University of California, Berkeley",58,https://www.linkedin.com/company/10xgenomics
-10x Genomics,San Jose State University,49,https://www.linkedin.com/company/10xgenomics
-10x Genomics,UC San Diego,49,https://www.linkedin.com/company/10xgenomics
-10x Genomics,"University of California, Davis",48,https://www.linkedin.com/company/10xgenomics
-10x Genomics,Stanford University,30,https://www.linkedin.com/company/10xgenomics
-10x Genomics,Massachusetts Institute of Technology,27,https://www.linkedin.com/company/10xgenomics
-10x Genomics,"University of California, Los Angeles",25,https://www.linkedin.com/company/10xgenomics
-10x Genomics,"University of California, Santa Cruz",24,https://www.linkedin.com/company/10xgenomics
-10x Genomics,California State University - East Bay,23,https://www.linkedin.com/company/10xgenomics
-10x Genomics,Harvard University,16,https://www.linkedin.com/company/10xgenomics
-10x Genomics,Cornell University,16,https://www.linkedin.com/company/10xgenomics
-10x Genomics,University of Wisconsin-Madison,11,https://www.linkedin.com/company/10xgenomics
-10x Genomics,Penn State University,10,https://www.linkedin.com/company/10xgenomics
-10x Genomics,University of Washington,10,https://www.linkedin.com/company/10xgenomics
-10x Genomics,North Carolina State University,9,https://www.linkedin.com/company/10xgenomics
-"Personalis, Inc.",San Jose State University,18,https://www.linkedin.com/company/personalis-inc
-"Personalis, Inc.","University of California, Davis",17,https://www.linkedin.com/company/personalis-inc
-"Personalis, Inc.",UC San Diego,17,https://www.linkedin.com/company/personalis-inc
-"Personalis, Inc.","University of California, Santa Cruz",16,https://www.linkedin.com/company/personalis-inc
-"Personalis, Inc.","University of California, Berkeley",13,https://www.linkedin.com/company/personalis-inc
-"Personalis, Inc.",Stanford University,11,https://www.linkedin.com/company/personalis-inc
-"Personalis, Inc.","University of California, Los Angeles",11,https://www.linkedin.com/company/personalis-inc
-"Personalis, Inc.",California State University - East Bay,8,https://www.linkedin.com/company/personalis-inc
-"Personalis, Inc.","University of California, Riverside",6,https://www.linkedin.com/company/personalis-inc
-"Personalis, Inc.",Harvard Medical School,6,https://www.linkedin.com/company/personalis-inc
-"Personalis, Inc.",UC Santa Barbara,5,https://www.linkedin.com/company/personalis-inc
-"Personalis, Inc.",The Johns Hopkins University,5,https://www.linkedin.com/company/personalis-inc
-"Personalis, Inc.",San Francisco State University,4,https://www.linkedin.com/company/personalis-inc
-"Personalis, Inc.",Santa Clara University,4,https://www.linkedin.com/company/personalis-inc
-"Personalis, Inc.",UC Irvine,4,https://www.linkedin.com/company/personalis-inc
-Incyte,University of Delaware,96,https://www.linkedin.com/company/incyte
-Incyte,Penn State University,51,https://www.linkedin.com/company/incyte
-Incyte,Villanova University,41,https://www.linkedin.com/company/incyte
-Incyte,University of Pennsylvania,38,https://www.linkedin.com/company/incyte
-Incyte,Temple University,36,https://www.linkedin.com/company/incyte
-Incyte,West Chester University of Pennsylvania,31,https://www.linkedin.com/company/incyte
-Incyte,Drexel University,30,https://www.linkedin.com/company/incyte
-Incyte,University of the Sciences in Philadelphia,26,https://www.linkedin.com/company/incyte
-Incyte,Rutgers University,25,https://www.linkedin.com/company/incyte
-Incyte,Saint Joseph's University,24,https://www.linkedin.com/company/incyte
-Incyte,Immaculata University,18,https://www.linkedin.com/company/incyte
-Incyte,University of Pittsburgh,15,https://www.linkedin.com/company/incyte
-Incyte,Widener University,14,https://www.linkedin.com/company/incyte
-Incyte,Fox School of Business at Temple University,10,https://www.linkedin.com/company/incyte
-Incyte,Delaware Technical Community College,10,https://www.linkedin.com/company/incyte
-"Codexis, Inc.","University of California, Berkeley",18,https://www.linkedin.com/company/codexis
-"Codexis, Inc.","University of California, Davis",16,https://www.linkedin.com/company/codexis
-"Codexis, Inc.","University of California, Santa Cruz",12,https://www.linkedin.com/company/codexis
-"Codexis, Inc.",San Francisco State University,11,https://www.linkedin.com/company/codexis
-"Codexis, Inc.",Stanford University,11,https://www.linkedin.com/company/codexis
-"Codexis, Inc.",San Jose State University,8,https://www.linkedin.com/company/codexis
-"Codexis, Inc.",De Anza College,7,https://www.linkedin.com/company/codexis
-"Codexis, Inc.",University of Wisconsin-Madison,6,https://www.linkedin.com/company/codexis
-"Codexis, Inc.","University of California, Riverside",5,https://www.linkedin.com/company/codexis
-"Codexis, Inc.",UC San Diego,5,https://www.linkedin.com/company/codexis
-"Codexis, Inc.",UC Santa Barbara,5,https://www.linkedin.com/company/codexis
-"Codexis, Inc.",Caltech,4,https://www.linkedin.com/company/codexis
-"Codexis, Inc.",California State University - East Bay,4,https://www.linkedin.com/company/codexis
-"Codexis, Inc.",Santa Clara University,4,https://www.linkedin.com/company/codexis
-"Codexis, Inc.","University of California, Los Angeles",4,https://www.linkedin.com/company/codexis
-Compugen,Tel Aviv University,19,https://www.linkedin.com/company/compugen-ltd
-Compugen,Weizmann Institute of Science,14,https://www.linkedin.com/company/compugen-ltd
-Compugen,The Hebrew University of Jerusalem,12,https://www.linkedin.com/company/compugen-ltd
-Compugen,Ben-Gurion University of the Negev,8,https://www.linkedin.com/company/compugen-ltd
-Compugen,Bar-Ilan University,5,https://www.linkedin.com/company/compugen-ltd
-Compugen,The College of Management Academic Studies,5,https://www.linkedin.com/company/compugen-ltd
-Compugen,UC San Diego,2,https://www.linkedin.com/company/compugen-ltd
-Compugen,The University of Chicago Booth School of Business,2,https://www.linkedin.com/company/compugen-ltd
-Compugen,Université de Paris,2,https://www.linkedin.com/company/compugen-ltd
-Compugen,Universidade Federal do Rio de Janeiro,1,https://www.linkedin.com/company/compugen-ltd
-Compugen,Ulm University,1,https://www.linkedin.com/company/compugen-ltd
-Compugen,Ecole Nationale Vétérinaire de Toulouse,1,https://www.linkedin.com/company/compugen-ltd
-Compugen,Toulouse INP,1,https://www.linkedin.com/company/compugen-ltd
-Compugen,Aix-Marseille University,1,https://www.linkedin.com/company/compugen-ltd
-Compugen,Université Paul Sabatier Toulouse III,1,https://www.linkedin.com/company/compugen-ltd
+Arcturus Therapeutics,California State University, Long Beach,2,https://www.linkedin.com/company/arcturus-therapeutics
+Arcturus Therapeutics,Stanford University,2,https://www.linkedin.com/company/arcturus-therapeutics
+Alnylam Pharmaceuticals,Northeastern University,123,https://www.linkedin.com/company/alnylam-pharmaceuticals/
+Alnylam Pharmaceuticals,Boston University,53,https://www.linkedin.com/company/alnylam-pharmaceuticals/
+Alnylam Pharmaceuticals,University of Massachusetts Amherst,52,https://www.linkedin.com/company/alnylam-pharmaceuticals/
+Alnylam Pharmaceuticals,University of Massachusetts Boston,31,https://www.linkedin.com/company/alnylam-pharmaceuticals/
+Alnylam Pharmaceuticals,Tufts University,25,https://www.linkedin.com/company/alnylam-pharmaceuticals/
+Alnylam Pharmaceuticals,University of Massachusetts Lowell,24,https://www.linkedin.com/company/alnylam-pharmaceuticals/
+Alnylam Pharmaceuticals,Massachusetts Institute of Technology,23,https://www.linkedin.com/company/alnylam-pharmaceuticals/
+Alnylam Pharmaceuticals,University of New Hampshire,22,https://www.linkedin.com/company/alnylam-pharmaceuticals/
+Alnylam Pharmaceuticals,Worcester Polytechnic Institute,21,https://www.linkedin.com/company/alnylam-pharmaceuticals/
+Alnylam Pharmaceuticals,University of Rhode Island,21,https://www.linkedin.com/company/alnylam-pharmaceuticals/
+Alnylam Pharmaceuticals,Harvard University,20,https://www.linkedin.com/company/alnylam-pharmaceuticals/
+Alnylam Pharmaceuticals,Cornell University,20,https://www.linkedin.com/company/alnylam-pharmaceuticals/
+Alnylam Pharmaceuticals,University of Connecticut,17,https://www.linkedin.com/company/alnylam-pharmaceuticals/
+Alnylam Pharmaceuticals,Salem State University,15,https://www.linkedin.com/company/alnylam-pharmaceuticals/
+Alnylam Pharmaceuticals,University of Washington,11,https://www.linkedin.com/company/alnylam-pharmaceuticals/
+Sarepta Therapeutics,Northeastern University,46,https://www.linkedin.com/company/sarepta-therapeutics/
+Sarepta Therapeutics,The Ohio State University,35,https://www.linkedin.com/company/sarepta-therapeutics/
+Sarepta Therapeutics,University of Massachusetts Lowell,28,https://www.linkedin.com/company/sarepta-therapeutics/
+Sarepta Therapeutics,Boston University,26,https://www.linkedin.com/company/sarepta-therapeutics/
+Sarepta Therapeutics,University of Massachusetts Amherst,22,https://www.linkedin.com/company/sarepta-therapeutics/
+Sarepta Therapeutics,University of New Hampshire,22,https://www.linkedin.com/company/sarepta-therapeutics/
+Sarepta Therapeutics,Tufts University,15,https://www.linkedin.com/company/sarepta-therapeutics/
+Sarepta Therapeutics,Massachusetts College of Pharmacy and Health Sciences,13,https://www.linkedin.com/company/sarepta-therapeutics/
+Sarepta Therapeutics,Oregon State University,11,https://www.linkedin.com/company/sarepta-therapeutics/
+Sarepta Therapeutics,Penn State University,11,https://www.linkedin.com/company/sarepta-therapeutics/
+Sarepta Therapeutics,University of Massachusetts Boston,10,https://www.linkedin.com/company/sarepta-therapeutics/
+Sarepta Therapeutics,University of Maine,9,https://www.linkedin.com/company/sarepta-therapeutics/
+Sarepta Therapeutics,Merrimack College,9,https://www.linkedin.com/company/sarepta-therapeutics/
+Sarepta Therapeutics,The Johns Hopkins University,8,https://www.linkedin.com/company/sarepta-therapeutics/
+Sarepta Therapeutics,University of Michigan,7,https://www.linkedin.com/company/sarepta-therapeutics/
+BioNTech SE,Johannes Gutenberg University Mainz,189,https://www.linkedin.com/company/biontech-se/
+BioNTech SE,The Philipp University of Marburg,82,https://www.linkedin.com/company/biontech-se/
+BioNTech SE,Goethe University,81,https://www.linkedin.com/company/biontech-se/
+BioNTech SE,Heidelberg University,51,https://www.linkedin.com/company/biontech-se/
+BioNTech SE,The Julius Maximilians University of Würzburg,40,https://www.linkedin.com/company/biontech-se/
+BioNTech SE,Technische Universität Darmstadt,40,https://www.linkedin.com/company/biontech-se/
+BioNTech SE,Technische Hochschule Mittelhessen,32,https://www.linkedin.com/company/biontech-se/
+BioNTech SE,University of Tübingen,31,https://www.linkedin.com/company/biontech-se/
+BioNTech SE,Ludwig-Maximilians-Universität München,30,https://www.linkedin.com/company/biontech-se/
+BioNTech SE,Northeastern University,30,https://www.linkedin.com/company/biontech-se/
+BioNTech SE,Provadis School of International Management and Technology AG,30,https://www.linkedin.com/company/biontech-se/
+BioNTech SE,The University of Göttingen,26,https://www.linkedin.com/company/biontech-se/
+BioNTech SE,Justus Liebig University Giessen,25,https://www.linkedin.com/company/biontech-se/
+BioNTech SE,Hochschule Fresenius,18,https://www.linkedin.com/company/biontech-se/
+BioNTech SE,RheinMain University of Applied Sciences,16,https://www.linkedin.com/company/biontech-se/
+Moderna,Northeastern University,223,https://www.linkedin.com/company/modernatx/
+Moderna,University of Massachusetts Amherst,131,https://www.linkedin.com/company/modernatx/
+Moderna,University of Rhode Island,98,https://www.linkedin.com/company/modernatx/
+Moderna,Boston University,82,https://www.linkedin.com/company/modernatx/
+Moderna,Worcester Polytechnic Institute,71,https://www.linkedin.com/company/modernatx/
+Moderna,University of Massachusetts Lowell,64,https://www.linkedin.com/company/modernatx/
+Moderna,University of Massachusetts Boston,49,https://www.linkedin.com/company/modernatx/
+Moderna,University of New Hampshire,45,https://www.linkedin.com/company/modernatx/
+Moderna,Tufts University,44,https://www.linkedin.com/company/modernatx/
+Moderna,Harvard Medical School,42,https://www.linkedin.com/company/modernatx/
+Moderna,Massachusetts Institute of Technology,42,https://www.linkedin.com/company/modernatx/
+Moderna,University of Massachusetts Dartmouth,41,https://www.linkedin.com/company/modernatx/
+Moderna,Harvard University,40,https://www.linkedin.com/company/modernatx/
+Moderna,Penn State University,37,https://www.linkedin.com/company/modernatx/
+Moderna,Rutgers University,36,https://www.linkedin.com/company/modernatx/
+Arrowhead Pharmaceuticals,University of Wisconsin-Madison,53,https://www.linkedin.com/company/arrowhead-pharmaceuticals/
+Arrowhead Pharmaceuticals,UC San Diego,12,https://www.linkedin.com/company/arrowhead-pharmaceuticals/
+Arrowhead Pharmaceuticals,Madison Area Technical College,9,https://www.linkedin.com/company/arrowhead-pharmaceuticals/
+Arrowhead Pharmaceuticals,University of California, Los Angeles,8,https://www.linkedin.com/company/arrowhead-pharmaceuticals/
+Arrowhead Pharmaceuticals,UC Irvine,6,https://www.linkedin.com/company/arrowhead-pharmaceuticals/
+Arrowhead Pharmaceuticals,University of Southern California,6,https://www.linkedin.com/company/arrowhead-pharmaceuticals/
+Arrowhead Pharmaceuticals,University of Illinois Urbana-Champaign,6,https://www.linkedin.com/company/arrowhead-pharmaceuticals/
+Arrowhead Pharmaceuticals,University of Wisconsin-La Crosse,6,https://www.linkedin.com/company/arrowhead-pharmaceuticals/
+Arrowhead Pharmaceuticals,California State University, Northridge,5,https://www.linkedin.com/company/arrowhead-pharmaceuticals/
+Arrowhead Pharmaceuticals,Purdue University,5,https://www.linkedin.com/company/arrowhead-pharmaceuticals/
+Arrowhead Pharmaceuticals,University of Phoenix,4,https://www.linkedin.com/company/arrowhead-pharmaceuticals/
+Arrowhead Pharmaceuticals,University of California, Berkeley,4,https://www.linkedin.com/company/arrowhead-pharmaceuticals/
+Arrowhead Pharmaceuticals,Colorado State University,4,https://www.linkedin.com/company/arrowhead-pharmaceuticals/
+Arrowhead Pharmaceuticals,University of Minnesota,4,https://www.linkedin.com/company/arrowhead-pharmaceuticals/
+Arrowhead Pharmaceuticals,Edgewood College,4,https://www.linkedin.com/company/arrowhead-pharmaceuticals/

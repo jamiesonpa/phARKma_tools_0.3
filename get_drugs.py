@@ -94,7 +94,7 @@ def get_drugs_dot_com():
 
 
     df = pd.DataFrame(drugs)
-    df.to_csv("drugs_database.csv")
+    df.to_csv("auxillary_data/drugs_database.csv")
 
 
 def get_ticker_from_name(name):

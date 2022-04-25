@@ -45,7 +45,7 @@ def update_mean_analyst_ratings_table():
             mratings["DESIGNATION"] = str(mean_rating_designation)
             airtable_utils.add_record(config.at_base_key, "Analyst Ratings",config.at_api_key, mratings, ticker)
             bar()
-    
+
     airtable_utils.remove_duplicate_records_mean_analyst_ratings("Analyst Ratings")
 
 def update_ratings_history_table():
@@ -65,7 +65,7 @@ def update_ratings_history_table():
                 rhist["TO"] = row["TO"]
                 airtable_utils.add_record(config.at_base_key, "Analyst Rating History",config.at_api_key, rhist, ticker)
             bar()
-    
+
     airtable_utils.remove_duplicate_records_historical_analyst_ratings("Analyst Rating History")
 
 def update_drugs():
@@ -95,7 +95,7 @@ def update_company_financials_table():
                 rec["METRIC"] = column
                 rec["VALUE"] = row[column]
                 airtable_utils.add_record(config.at_base_key, "Company Financials", config.at_api_key, rec, ticker)
-        
+
     airtable_utils.remove_duplicate_records_financial("Company Financials")
 
 def update_clinical_relationships_table():
@@ -110,9 +110,9 @@ def update_clinical_relationships_table():
                 airtable_utils.add_record(config.at_base_key, "Clinical Relationships", config.at_api_key, dict, ticker)
 
 def get_total_database():
-    db = pd.read_csv("trials_database.csv")
+    db = pd.read_csv("auxillary_data/trials_database.csv")
     records = []
-    with open("all_biotech_tickers.txt") as readfile:
+    with open("auxillary_data/all_biotech_tickers.txt") as readfile:
         tickers = readfile.read().split("\n")
     for ticker in tickers[22:]:
         try:
@@ -134,9 +134,9 @@ def get_total_database():
                     new_record["TICKER"] = ticker
                     new_record["NAME"] = name
                     new_record["TARGET"] = trial["COLLABORATORS"]
-            
+
             if new_record != {}:
-                with open("records.txt","a") as writefile:
+                with open("auxillary_data/records.txt","a") as writefile:
                     print("adding record: " + str(new_record))
                     writefile.write(str(new_record) + "\n")
 
@@ -164,7 +164,7 @@ def update_relationships_table():
             for city in ungrouped:
                 g = paired[city] & ungrouped
                 for c in g.copy():
-                    g &= paired[c] 
+                    g &= paired[c]
                 if len(g) > len(bestGroup):
                     bestGroup = g
             if len(bestGroup) < minGroupSize : break  # to terminate grouping early change minGroupSize to 3
@@ -177,13 +177,13 @@ def update_relationships_table():
             for item in group:
                 if len(item) < len(smallest):
                     smallest = item
-            
+
             relationship_dict = {}
             relationship_dict["TICKER"] = ticker
             relationship_dict["TARGET"] = smallest
             relationship_dict["TARGET GROUP"] = group
             relationship_dicts.append(relationship_dict)
-        
+
         for dict in relationship_dicts:
             airtable_utils.add_record(config.at_base_key, "Relationships", config.at_api_key, dict, ticker)
 
@@ -198,16 +198,16 @@ def update_details_table():
     airtable_utils.remove_duplicate_records_details("Company Details")
 
 def update_employees_table():
-    linkedin_urls = get_linkedin_urls.get_linkedin_urls()
-    with open("linkedin_urls.txt", "w+") as writefile:
-        for url in linkedin_urls:
-            print(url)
-            writefile.write(url+"\n")
+    # linkedin_urls = get_linkedin_urls.get_linkedin_urls()
+    # with open("auxillary_data/linkedin_urls.txt", "w+") as writefile:
+    #     for url in linkedin_urls:
+    #         print(url)
+    #         writefile.write(url+"\n")
 
     scraper = linkedin_scraper.LinkedinEmployeesSchoolinfoDataScraper()
 
     unis = get_linkedin_urls.get_universities()
-    education = pd.read_csv("employee_education.csv")
+    education = pd.read_csv("auxillary_data/employee_education.csv")
     companies = []
     lowest_rank = 0
     for uni in unis:
@@ -233,13 +233,13 @@ def update_employees_table():
                     if uni["name"] == current_university:
                         rank = uni["rank"]
                         uni_found = True
-                
+
                 if uni_found == False:
                     for uni in unis:
                         if rapidfuzz.fuzz.WRatio(uni["name"],current_university) > 95:
                             rank = uni["rank"]
                             uni_found = True
-                
+
                 if uni_found == True:
                     company_score[rank] = current_employees
         company_scores.append((company, company_score))
@@ -282,7 +282,7 @@ def update_employees_table():
             edurecord["TICKER"] = ticker
             edurecord["EDUCATION_SCORE"] = str(company_dict["normalized_average_employee_rank"])
             airtable_utils.add_record(config.at_base_key, "Employee Education Score", config.at_api_key, edurecord, ticker)
-            
+
 def update_models():
     tickers = get_arkg_tickers.get_arkg_tickers()
     data_dicts = {}
@@ -328,6 +328,4 @@ def update_models():
         except:
             print("couldn't calculate model data for " + ticker)
 
-
 update_employees_table()
-update_models()

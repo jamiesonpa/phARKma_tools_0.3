@@ -1,0 +1,3 @@
+import linkedin_scraper
+
+scraper = linkedin_scraper.LinkedinEmployeesSchoolinfoDataScraper()

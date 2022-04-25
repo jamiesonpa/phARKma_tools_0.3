@@ -336,14 +336,14 @@ def process_entities(name, ticker, ents, model):
     first_part_of_name = name.split(" ")[0]
 
     #define countries
-    with open("countries.txt") as readfile:
+    with open("auxillary_data/countries.txt") as readfile:
         countries = readfile.read().split("\n")
     #define states
-    with open("states.txt") as readfile:
+    with open("auxillary_data/states.txt") as readfile:
         states = readfile.read().split("\n")
 
     #define months
-    with open("months.txt") as readfile:
+    with open("auxillary_data/months.txt") as readfile:
         months = readfile.read().split("\n")
 
     #remove all countries
